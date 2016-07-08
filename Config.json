@@ -1,0 +1,18 @@
+{
+"Nameset_ID": 9,
+"Default_Prefix": "Africa:NIGERIA",
+"DatabaseTables": {	
+	"Hierarchy_Table": "select * from demo_get_hierarchy_table_to_level_alt(null, null);",
+	"Alias_Table": "select * from demo_get_alias_table_to_level_alt(null, null);"
+},
+"DatabaseName": "IDM DB2",
+"Data_File_Columns": ["Province", "District"],
+"InputFiles": {
+	"Personal_Alias_Table": ".\\datafiles\\Alias names personal kam new.csv",
+	"Data_Table": "C:\\Users\\kmccarthy\\EMOD_Research\\users\\kmccarthy\\Measles\\Nov_GAVI\\RI_first_pass_clean\\RI_annual_by_LGA_Nigeria.csv"
+},
+"Output": {
+		"SaveFile": "C:\\Users\\kmccarthy\\EMOD_Research\\users\\kmccarthy\\Measles\\Nov_GAVI\\RI_first_pass_clean\\RI_annual_by_LGA_Nigeria_aliased.csv",
+		"Personal_Alias_File": ".\\datafiles\\Alias names personal kam new.csv"
+	}
+}

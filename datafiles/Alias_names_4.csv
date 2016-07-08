@@ -1,0 +1,990 @@
+id,alias,valid_from_date,valid_to_date,nameset_id,hierarchy_name_id,admin_level,alias_dot_name,last_upddate,last_userid,message
+,Asia,1/1/1990,12/31/9999,4,243398,-1,Asia,11/3/2015,NA\kmccarthy,
+503,Pakistan,1/1/1990,12/31/9999,4,243405,0,Asia:Pakistan,9/26/2013,NA\dharding,
+1226,PK,1/1/1990,12/31/9999,4,243405,0,Asia:PK,9/26/2013,NA\dharding,
+1949,PAK,1/1/1990,12/31/9999,4,243405,0,Asia:PAK,9/26/2013,NA\dharding,
+9359,AJK,1/1/1990,12/31/9999,4,243406,1,Asia:Pakistan:AJK,9/26/2013,NA\dharding,
+9360,BALOCHISTAN,1/1/1990,12/31/9999,4,243407,1,Asia:Pakistan:BALOCHISTAN,9/26/2013,NA\dharding,
+9361,ISLAMABAD,1/1/1990,12/31/9999,4,243408,1,Asia:Pakistan:ISLAMABAD,9/26/2013,NA\dharding,
+9362,GB,1/1/1990,12/31/9999,4,243409,1,Asia:Pakistan:GB,9/26/2013,NA\dharding,
+9363,PUNJAB,1/1/1990,12/31/9999,4,243410,1,Asia:Pakistan:PUNJAB,9/26/2013,NA\dharding,
+9364,SINDH,1/1/1990,12/31/9999,4,243411,1,Asia:Pakistan:SINDH,9/26/2013,NA\dharding,
+9365,KP,1/1/1990,12/31/9999,4,243412,1,Asia:Pakistan:KP,9/26/2013,NA\dharding,
+9366,FATA,1/1/1990,12/31/9999,4,243413,1,Asia:Pakistan:FATA,9/26/2013,NA\dharding,
+53697,KHIKORANGI,1/1/1990,12/31/9999,4,243479,2,Asia:Pakistan:SINDH:KHIKORANGI,9/26/2013,NA\dharding,
+53698,KHILANDHI,1/1/1990,12/31/9999,4,243480,2,Asia:Pakistan:SINDH:KHILANDHI,9/26/2013,NA\dharding,
+53699,KHILIAQAT,1/1/1990,12/31/9999,4,243481,2,Asia:Pakistan:SINDH:KHILIAQAT,9/26/2013,NA\dharding,
+53586,Poonch,1/1/1990,12/31/9999,4,243548,2,Asia:Pakistan:AJK:Poonch,9/26/2013,NA\dharding,
+53590,Sudnuti,1/1/1990,12/31/9999,4,243552,2,Asia:Pakistan:AJK:Sudnuti,9/26/2013,NA\dharding,
+53591,Neelum,1/1/1990,12/31/9999,4,243553,2,Asia:Pakistan:AJK:Neelum,9/26/2013,NA\dharding,
+53593,Quetta,1/1/1990,12/31/9999,4,243515,2,Asia:Pakistan:BALOCHISTAN:Quetta,9/26/2013,NA\dharding,
+53595,Chaghai,1/1/1990,12/31/9999,4,243517,2,Asia:Pakistan:BALOCHISTAN:Chaghai,9/26/2013,NA\dharding,
+53596,Kabdulah,1/1/1990,12/31/9999,4,243518,2,Asia:Pakistan:BALOCHISTAN:Kabdulah,9/26/2013,NA\dharding,
+53602,Ksaifulah,1/1/1990,12/31/9999,4,243524,2,Asia:Pakistan:BALOCHISTAN:Ksaifulah,9/26/2013,NA\dharding,
+53603,Sharani,1/1/1990,12/31/9999,4,243525,2,Asia:Pakistan:BALOCHISTAN:Sharani,9/26/2013,NA\dharding,
+53608,DBugti,1/1/1990,12/31/9999,4,243530,2,Asia:Pakistan:BALOCHISTAN:DBugti,9/26/2013,NA\dharding,
+53609,Nsirabad,1/1/1990,12/31/9999,4,243531,2,Asia:Pakistan:BALOCHISTAN:Nsirabad,9/26/2013,NA\dharding,
+53610,Bolan,1/1/1990,12/31/9999,4,243532,2,Asia:Pakistan:BALOCHISTAN:Bolan,9/26/2013,NA\dharding,
+53611,Jafarabad,1/1/1990,12/31/9999,4,243533,2,Asia:Pakistan:BALOCHISTAN:Jafarabad,9/26/2013,NA\dharding,
+53612,Jhalmagsi,1/1/1990,12/31/9999,4,243534,2,Asia:Pakistan:BALOCHISTAN:Jhalmagsi,9/26/2013,NA\dharding,
+53617,Lasbela,1/1/1990,12/31/9999,4,243539,2,Asia:Pakistan:BALOCHISTAN:Lasbela,9/26/2013,NA\dharding,
+53621,Gwadur,1/1/1990,12/31/9999,4,243543,2,Asia:Pakistan:BALOCHISTAN:Gwadur,9/26/2013,NA\dharding,
+53622,Panjgour,1/1/1990,12/31/9999,4,243544,2,Asia:Pakistan:BALOCHISTAN:Panjgour,9/26/2013,NA\dharding,
+53626,Diamir,1/1/1990,12/31/9999,4,243557,2,Asia:Pakistan:GB:Diamir,9/26/2013,NA\dharding,
+53627,Ghizer,1/1/1990,12/31/9999,4,243558,2,Asia:Pakistan:GB:Ghizer,9/26/2013,NA\dharding,
+53628,Ghanche,1/1/1990,12/31/9999,4,243559,2,Asia:Pakistan:GB:Ghanche,9/26/2013,NA\dharding,
+53631,Hunzanagar,1/1/1990,12/31/9999,4,243561,2,Asia:Pakistan:GB:Hunzanagar,9/26/2013,NA\dharding,
+53636,Gujranwala,1/1/1990,12/31/9999,4,243418,2,Asia:Pakistan:PUNJAB:Gujranwala,9/26/2013,NA\dharding,
+53642,Lahore,1/1/1990,12/31/9999,4,243424,2,Asia:Pakistan:PUNJAB:Lahore,9/26/2013,NA\dharding,
+53651,Faisalabad,1/1/1990,12/31/9999,4,243433,2,Asia:Pakistan:PUNJAB:Faisalabad,9/26/2013,NA\dharding,
+53652,Ttsingh,1/1/1990,12/31/9999,4,243434,2,Asia:Pakistan:PUNJAB:Ttsingh,9/26/2013,NA\dharding,
+53655,Multan,1/1/1990,12/31/9999,4,243437,2,Asia:Pakistan:PUNJAB:Multan,9/26/2013,NA\dharding,
+53660,Pakpatten,1/1/1990,12/31/9999,4,243442,2,Asia:Pakistan:PUNJAB:Pakpatten,9/26/2013,NA\dharding,
+53663,Bahwlnagar,1/1/1990,12/31/9999,4,243445,2,Asia:Pakistan:PUNJAB:Bahwlnagar,9/26/2013,NA\dharding,
+53666,Muzfargarh,1/1/1990,12/31/9999,4,243448,2,Asia:Pakistan:PUNJAB:Muzfargarh,9/26/2013,NA\dharding,
+53667,Layyah,1/1/1990,12/31/9999,4,243449,2,Asia:Pakistan:PUNJAB:Layyah,9/26/2013,NA\dharding,
+53668,KHIKAMARI,1/1/1990,12/31/9999,4,243450,2,Asia:Pakistan:SINDH:KHIKAMARI,9/26/2013,NA\dharding,
+53669,Hyderabad,1/1/1990,12/31/9999,4,243451,2,Asia:Pakistan:SINDH:Hyderabad,9/26/2013,NA\dharding,
+53673,Jamshoro,1/1/1990,12/31/9999,4,243455,2,Asia:Pakistan:SINDH:Jamshoro,9/26/2013,NA\dharding,
+53675,T.Allahyar,1/1/1990,12/31/9999,4,243457,2,Asia:Pakistan:SINDH:T.Allahyar,9/26/2013,NA\dharding,
+53679,Tharparkar,1/1/1990,12/31/9999,4,243461,2,Asia:Pakistan:SINDH:Tharparkar,9/26/2013,NA\dharding,
+53680,Umerkot,1/1/1990,12/31/9999,4,243462,2,Asia:Pakistan:SINDH:Umerkot,9/26/2013,NA\dharding,
+53684,Sbenazirabad,1/1/1990,12/31/9999,4,243466,2,Asia:Pakistan:SINDH:Sbenazirabad,9/26/2013,NA\dharding,
+53685,Nferoz,1/1/1990,12/31/9999,4,243467,2,Asia:Pakistan:SINDH:Nferoz,9/26/2013,NA\dharding,
+53691,KHIBALDIA,1/1/1990,12/31/9999,4,243473,2,Asia:Pakistan:SINDH:KHIBALDIA,9/26/2013,NA\dharding,
+53692,KHIBINQASIM,1/1/1990,12/31/9999,4,243474,2,Asia:Pakistan:SINDH:KHIBINQASIM,9/26/2013,NA\dharding,
+53693,KHIGADAP,1/1/1990,12/31/9999,4,243475,2,Asia:Pakistan:SINDH:KHIGADAP,9/26/2013,NA\dharding,
+53694,KHIGULBERG,1/1/1990,12/31/9999,4,243476,2,Asia:Pakistan:SINDH:KHIGULBERG,9/26/2013,NA\dharding,
+53695,KHIGIQBAL,1/1/1990,12/31/9999,4,243477,2,Asia:Pakistan:SINDH:KHIGIQBAL,9/26/2013,NA\dharding,
+53696,KHIJAMSHEED,1/1/1990,12/31/9999,4,243478,2,Asia:Pakistan:SINDH:KHIJAMSHEED,9/26/2013,NA\dharding,
+53700,KHILAYARI,1/1/1990,12/31/9999,4,243482,2,Asia:Pakistan:SINDH:KHILAYARI,9/26/2013,NA\dharding,
+53701,KHIMALIR,1/1/1990,12/31/9999,4,243483,2,Asia:Pakistan:SINDH:KHIMALIR,9/26/2013,NA\dharding,
+53702,KHINORTH,1/1/1990,12/31/9999,4,243484,2,Asia:Pakistan:SINDH:KHINORTH,9/26/2013,NA\dharding,
+53703,KHINNAZIM,1/1/1990,12/31/9999,4,243485,2,Asia:Pakistan:SINDH:KHINNAZIM,9/26/2013,NA\dharding,
+53704,KHIORANGI,1/1/1990,12/31/9999,4,243486,2,Asia:Pakistan:SINDH:KHIORANGI,9/26/2013,NA\dharding,
+53705,KHISHAHFAISAL,1/1/1990,12/31/9999,4,243487,2,Asia:Pakistan:SINDH:KHISHAHFAISAL,9/26/2013,NA\dharding,
+53706,KHISADDAR,1/1/1990,12/31/9999,4,243488,2,Asia:Pakistan:SINDH:KHISADDAR,9/26/2013,NA\dharding,
+53707,KHISITE,1/1/1990,12/31/9999,4,243489,2,Asia:Pakistan:SINDH:KHISITE,9/26/2013,NA\dharding,
+53708,Abotabad,1/1/1990,12/31/9999,4,243490,2,Asia:Pakistan:KP:Abotabad,9/26/2013,NA\dharding,
+53711,Kohistan,1/1/1990,12/31/9999,4,243493,2,Asia:Pakistan:KP:Kohistan,9/26/2013,NA\dharding,
+53714,Malakand,1/1/1990,12/31/9999,4,243496,2,Asia:Pakistan:KP:Malakand,9/26/2013,NA\dharding,
+53716,Bunir,1/1/1990,12/31/9999,4,243498,2,Asia:Pakistan:KP:Bunir,9/26/2013,NA\dharding,
+53717,Dirlower,1/1/1990,12/31/9999,4,243499,2,Asia:Pakistan:KP:Dirlower,9/26/2013,NA\dharding,
+53719,Dirupper,1/1/1990,12/31/9999,4,243501,2,Asia:Pakistan:KP:Dirupper,9/26/2013,NA\dharding,
+53720,Shangla,1/1/1990,12/31/9999,4,243502,2,Asia:Pakistan:KP:Shangla,9/26/2013,NA\dharding,
+53731,Lakkimrwt,1/1/1990,12/31/9999,4,243513,2,Asia:Pakistan:KP:Lakkimrwt,9/26/2013,NA\dharding,
+53733,Bajour,1/1/1990,12/31/9999,4,243564,2,Asia:Pakistan:FATA:Bajour,9/26/2013,NA\dharding,
+53734,Khyber,1/1/1990,12/31/9999,4,243565,2,Asia:Pakistan:FATA:Khyber,9/26/2013,NA\dharding,
+53735,Mohmand,1/1/1990,12/31/9999,4,243566,2,Asia:Pakistan:FATA:Mohmand,9/26/2013,NA\dharding,
+53736,Kurram,1/1/1990,12/31/9999,4,243567,2,Asia:Pakistan:FATA:Kurram,9/26/2013,NA\dharding,
+53737,Orakzai,1/1/1990,12/31/9999,4,243568,2,Asia:Pakistan:FATA:Orakzai,9/26/2013,NA\dharding,
+53738,Wazir-n,1/1/1990,12/31/9999,4,243569,2,Asia:Pakistan:FATA:Wazir-n,9/26/2013,NA\dharding,
+53739,Wazir-s,1/1/1990,12/31/9999,4,243570,2,Asia:Pakistan:FATA:Wazir-s,9/26/2013,NA\dharding,
+172879,Muzaffarabad,1/1/1990,12/31/9999,4,243718,3,Asia:Pakistan:AJK:Muzaffarabad:Muzaffarabad,9/26/2013,NA\dharding,
+172880,Mirpur,1/1/1990,12/31/9999,4,243625,3,Asia:Pakistan:AJK:Mirpur:Mirpur,9/26/2013,NA\dharding,
+172881,Dudyal,1/1/1990,12/31/9999,4,243626,3,Asia:Pakistan:AJK:Mirpur:Dudyal,9/26/2013,NA\dharding,
+172882,Sehnsa,1/1/1990,12/31/9999,4,243696,3,Asia:Pakistan:AJK:Kotli:Sehnsa,9/26/2013,NA\dharding,
+172883,Nakial / Fatehpur,1/1/1990,12/31/9999,4,243707,3,Asia:Pakistan:AJK:Kotli:Nakial / Fatehpur,9/26/2013,NA\dharding,
+172884,Kotli,1/1/1990,12/31/9999,4,243710,3,Asia:Pakistan:AJK:Kotli:Kotli,9/26/2013,NA\dharding,
+172885,Hajira,1/1/1990,12/31/9999,4,243711,3,Asia:Pakistan:AJK:Poonch:Hajira,9/26/2013,NA\dharding,
+172886,Rawalakot,1/1/1990,12/31/9999,4,243714,3,Asia:Pakistan:AJK:Poonch:Rawalakot,9/26/2013,NA\dharding,
+172887,Abbaspur,1/1/1990,12/31/9999,4,243716,3,Asia:Pakistan:AJK:Poonch:Abbaspur,9/26/2013,NA\dharding,
+172888,Dhir Kot,1/1/1990,12/31/9999,4,243717,3,Asia:Pakistan:AJK:Bagh:Dhir Kot,9/26/2013,NA\dharding,
+172889,Bagh,1/1/1990,12/31/9999,4,243720,3,Asia:Pakistan:AJK:Bagh:Bagh,9/26/2013,NA\dharding,
+172890,Haveli,1/1/1990,12/31/9999,4,243715,3,Asia:Pakistan:AJK:Haveli:Haveli,9/26/2013,NA\dharding,
+172891,Bhimber,1/1/1990,12/31/9999,4,243624,3,Asia:Pakistan:AJK:Bhimber:Bhimber,9/26/2013,NA\dharding,
+172892,Barnala,1/1/1990,12/31/9999,4,243706,3,Asia:Pakistan:AJK:Bhimber:Barnala,9/26/2013,NA\dharding,
+172893,Samahni,1/1/1990,12/31/9999,4,243708,3,Asia:Pakistan:AJK:Bhimber:Samahni,9/26/2013,NA\dharding,
+172894,Pallandari,1/1/1990,12/31/9999,4,243703,3,Asia:Pakistan:AJK:Sudnuti:Pallandari,9/26/2013,NA\dharding,
+172895,Athmuqam,1/1/1990,12/31/9999,4,243713,3,Asia:Pakistan:AJK:Neelum:Athmuqam,9/26/2013,NA\dharding,
+172896,Hattian,1/1/1990,12/31/9999,4,243719,3,Asia:Pakistan:AJK:Hattian:Hattian,9/26/2013,NA\dharding,
+172897,Quetta Saddar,1/1/1990,12/31/9999,4,243891,3,Asia:Pakistan:BALOCHISTAN:Quetta:Quetta Saddar,9/26/2013,NA\dharding,
+172898,Quetta city,1/1/1990,12/31/9999,4,243892,3,Asia:Pakistan:BALOCHISTAN:Quetta:Quetta city,9/26/2013,NA\dharding,
+172899,Pishin,1/1/1990,12/31/9999,4,243877,3,Asia:Pakistan:BALOCHISTAN:Pishin:Pishin,9/26/2013,NA\dharding,
+172900,Karezat,1/1/1990,12/31/9999,4,243881,3,Asia:Pakistan:BALOCHISTAN:Pishin:Karezat,9/26/2013,NA\dharding,
+172901,Barshore,1/1/1990,12/31/9999,4,243882,3,Asia:Pakistan:BALOCHISTAN:Pishin:Barshore,9/26/2013,NA\dharding,
+172902,Taftan,1/1/1990,12/31/9999,4,243839,3,Asia:Pakistan:BALOCHISTAN:Chaghai:Taftan,9/26/2013,NA\dharding,
+172903,Dalbandin,1/1/1990,12/31/9999,4,243850,3,Asia:Pakistan:BALOCHISTAN:Chaghai:Dalbandin,9/26/2013,NA\dharding,
+172904,Gulistan,1/1/1990,12/31/9999,4,243876,3,Asia:Pakistan:BALOCHISTAN:Kabdulah:Gulistan,9/26/2013,NA\dharding,
+172905,Chaman,1/1/1990,12/31/9999,4,243878,3,Asia:Pakistan:BALOCHISTAN:Kabdulah:Chaman,9/26/2013,NA\dharding,
+172906,Noshki,1/1/1990,12/31/9999,4,243852,3,Asia:Pakistan:BALOCHISTAN:Noshki:Noshki,9/26/2013,NA\dharding,
+172907,Kakar Khurasan,1/1/1990,12/31/9999,4,243880,3,Asia:Pakistan:BALOCHISTAN:Zhob:Kakar Khurasan,9/26/2013,NA\dharding,
+172908,Zhob,1/1/1990,12/31/9999,4,243888,3,Asia:Pakistan:BALOCHISTAN:Zhob:Zhob,9/26/2013,NA\dharding,
+172909,Sinjawi,1/1/1990,12/31/9999,4,243867,3,Asia:Pakistan:BALOCHISTAN:Loralai:Sinjawi,9/26/2013,NA\dharding,
+172910,Duki,1/1/1990,12/31/9999,4,243879,3,Asia:Pakistan:BALOCHISTAN:Loralai:Duki,9/26/2013,NA\dharding,
+172911,Loralai,1/1/1990,12/31/9999,4,243883,3,Asia:Pakistan:BALOCHISTAN:Loralai:Loralai,9/26/2013,NA\dharding,
+172912,Barkhan,1/1/1990,12/31/9999,4,243875,3,Asia:Pakistan:BALOCHISTAN:Barkhan:Barkhan,9/26/2013,NA\dharding,
+172913,Musakhel,1/1/1990,12/31/9999,4,243887,3,Asia:Pakistan:BALOCHISTAN:Musakhel:Musakhel,9/26/2013,NA\dharding,
+172914,Ksaifullah,1/1/1990,12/31/9999,4,243884,3,Asia:Pakistan:BALOCHISTAN:Ksaifulah:Ksaifullah,9/26/2013,NA\dharding,
+172915,Upper Zhob,1/1/1990,12/31/9999,4,243885,3,Asia:Pakistan:BALOCHISTAN:Ksaifulah:Upper Zhob,9/26/2013,NA\dharding,
+172916,Sherani,1/1/1990,12/31/9999,4,243889,3,Asia:Pakistan:BALOCHISTAN:Sharani:Sherani,9/26/2013,NA\dharding,
+172917,Sibi,1/1/1990,12/31/9999,4,243870,3,Asia:Pakistan:BALOCHISTAN:Sibi:Sibi,9/26/2013,NA\dharding,
+172918,Ziarat,1/1/1990,12/31/9999,4,243868,3,Asia:Pakistan:BALOCHISTAN:Ziarat:Ziarat,9/26/2013,NA\dharding,
+172919,Harnai,1/1/1990,12/31/9999,4,243871,3,Asia:Pakistan:BALOCHISTAN:Harnai:Harnai,9/26/2013,NA\dharding,
+172920,Kahan,1/1/1990,12/31/9999,4,243872,3,Asia:Pakistan:BALOCHISTAN:Kohlu:Kahan,9/26/2013,NA\dharding,
+172921,Mawand,1/1/1990,12/31/9999,4,243873,3,Asia:Pakistan:BALOCHISTAN:Kohlu:Mawand,9/26/2013,NA\dharding,
+172922,Kohlu,1/1/1990,12/31/9999,4,243874,3,Asia:Pakistan:BALOCHISTAN:Kohlu:Kohlu,9/26/2013,NA\dharding,
+172923,Phelawagh,1/1/1990,12/31/9999,4,243856,3,Asia:Pakistan:BALOCHISTAN:DBugti:Phelawagh,9/26/2013,NA\dharding,
+172924,Der Bugti,1/1/1990,12/31/9999,4,243862,3,Asia:Pakistan:BALOCHISTAN:DBugti:Der Bugti,9/26/2013,NA\dharding,
+172925,Sui,1/1/1990,12/31/9999,4,243863,3,Asia:Pakistan:BALOCHISTAN:DBugti:Sui,9/26/2013,NA\dharding,
+172926,DMJamali,1/1/1990,12/31/9999,4,243864,3,Asia:Pakistan:BALOCHISTAN:Nsirabad:DMJamali,9/26/2013,NA\dharding,
+172927,Chhattar,1/1/1990,12/31/9999,4,243866,3,Asia:Pakistan:BALOCHISTAN:Nsirabad:Chhattar,9/26/2013,NA\dharding,
+172928,Mach,1/1/1990,12/31/9999,4,243855,3,Asia:Pakistan:BALOCHISTAN:Bolan:Mach,9/26/2013,NA\dharding,
+172929,Sanni,1/1/1990,12/31/9999,4,243858,3,Asia:Pakistan:BALOCHISTAN:Bolan:Sanni,9/26/2013,NA\dharding,
+172930,Dhadar,1/1/1990,12/31/9999,4,243859,3,Asia:Pakistan:BALOCHISTAN:Bolan:Dhadar,9/26/2013,NA\dharding,
+172931,Bhag,1/1/1990,12/31/9999,4,243860,3,Asia:Pakistan:BALOCHISTAN:Bolan:Bhag,9/26/2013,NA\dharding,
+172932,Lehri,1/1/1990,12/31/9999,4,243865,3,Asia:Pakistan:BALOCHISTAN:Bolan:Lehri,9/26/2013,NA\dharding,
+172933,Usta Mohammad,1/1/1990,12/31/9999,4,243848,3,Asia:Pakistan:BALOCHISTAN:Jafarabad:Usta Mohammad,9/26/2013,NA\dharding,
+172934,Jhat Pat,1/1/1990,12/31/9999,4,243861,3,Asia:Pakistan:BALOCHISTAN:Jafarabad:Jhat Pat,9/26/2013,NA\dharding,
+172935,Jhal Magsi,1/1/1990,12/31/9999,4,243847,3,Asia:Pakistan:BALOCHISTAN:Jhalmagsi:Jhal Magsi,9/26/2013,NA\dharding,
+172936,Gandawa,1/1/1990,12/31/9999,4,243857,3,Asia:Pakistan:BALOCHISTAN:Jhalmagsi:Gandawa,9/26/2013,NA\dharding,
+172937,Mastung,1/1/1990,12/31/9999,4,243853,3,Asia:Pakistan:BALOCHISTAN:Mastung:Mastung,9/26/2013,NA\dharding,
+172939,Kharan,1/1/1990,12/31/9999,4,243851,3,Asia:Pakistan:BALOCHISTAN:Kharan:Kharan,9/26/2013,NA\dharding,
+172940,Surab,1/1/1990,12/31/9999,4,243849,3,Asia:Pakistan:BALOCHISTAN:Kalat:Surab,9/26/2013,NA\dharding,
+172941,Kalat,1/1/1990,12/31/9999,4,243854,3,Asia:Pakistan:BALOCHISTAN:Kalat:Kalat,9/26/2013,NA\dharding,
+172942,Wadh,1/1/1990,12/31/9999,4,243845,3,Asia:Pakistan:BALOCHISTAN:Khuzdar:Wadh,9/26/2013,NA\dharding,
+172943,Naal,1/1/1990,12/31/9999,4,243846,3,Asia:Pakistan:BALOCHISTAN:Khuzdar:Naal,9/26/2013,NA\dharding,
+172944,Khuzdar,1/1/1990,12/31/9999,4,243886,3,Asia:Pakistan:BALOCHISTAN:Khuzdar:Khuzdar,9/26/2013,NA\dharding,
+172945,Kanraj,1/1/1990,12/31/9999,4,243832,3,Asia:Pakistan:BALOCHISTAN:Lasbela:Kanraj,9/26/2013,NA\dharding,
+172946,Bela,1/1/1990,12/31/9999,4,243836,3,Asia:Pakistan:BALOCHISTAN:Lasbela:Bela,9/26/2013,NA\dharding,
+172947,Dureji,1/1/1990,12/31/9999,4,243837,3,Asia:Pakistan:BALOCHISTAN:Lasbela:Dureji,9/26/2013,NA\dharding,
+172948,Hub,1/1/1990,12/31/9999,4,243890,3,Asia:Pakistan:BALOCHISTAN:Lasbela:Hub,9/26/2013,NA\dharding,
+172949,Awaran,1/1/1990,12/31/9999,4,243844,3,Asia:Pakistan:BALOCHISTAN:Awaran:Awaran,9/26/2013,NA\dharding,
+172950,Mashkhel,1/1/1990,12/31/9999,4,243838,3,Asia:Pakistan:BALOCHISTAN:Washuk:Mashkhel,9/26/2013,NA\dharding,
+172951,Washuk,1/1/1990,12/31/9999,4,243977,3,Asia:Pakistan:BALOCHISTAN:Washuk:Washuk,9/26/2013,NA\dharding,
+172952,Besima,1/1/1990,12/31/9999,4,243978,3,Asia:Pakistan:BALOCHISTAN:Washuk:Besima,9/26/2013,NA\dharding,
+172953,Dasht,1/1/1990,12/31/9999,4,243835,3,Asia:Pakistan:BALOCHISTAN:Kech:Dasht,9/26/2013,NA\dharding,
+172954,Tump,1/1/1990,12/31/9999,4,243840,3,Asia:Pakistan:BALOCHISTAN:Kech:Tump,9/26/2013,NA\dharding,
+172955,Kech,1/1/1990,12/31/9999,4,243841,3,Asia:Pakistan:BALOCHISTAN:Kech:Kech,9/26/2013,NA\dharding,
+172956,Buleda,1/1/1990,12/31/9999,4,243843,3,Asia:Pakistan:BALOCHISTAN:Kech:Buleda,9/26/2013,NA\dharding,
+172957,Pasni,1/1/1990,12/31/9999,4,243833,3,Asia:Pakistan:BALOCHISTAN:Gwadur:Pasni,9/26/2013,NA\dharding,
+172958,Gwadar,1/1/1990,12/31/9999,4,243834,3,Asia:Pakistan:BALOCHISTAN:Gwadur:Gwadar,9/26/2013,NA\dharding,
+172959,Panjgur,1/1/1990,12/31/9999,4,243842,3,Asia:Pakistan:BALOCHISTAN:Panjgour:Panjgur,9/26/2013,NA\dharding,
+172960,CDA,1/1/1990,12/31/9999,4,243893,3,Asia:Pakistan:ISLAMABAD:CDA:CDA,9/26/2013,NA\dharding,
+172961,ICT,1/1/1990,12/31/9999,4,243894,3,Asia:Pakistan:ISLAMABAD:ICT:ICT,9/26/2013,NA\dharding,
+172962,Kharmang,1/1/1990,12/31/9999,4,243631,3,Asia:Pakistan:GB:Skardu:Kharmang,9/26/2013,NA\dharding,
+172963,Skardu,1/1/1990,12/31/9999,4,243639,3,Asia:Pakistan:GB:Skardu:Skardu,9/26/2013,NA\dharding,
+172964,Rondu,1/1/1990,12/31/9999,4,243641,3,Asia:Pakistan:GB:Skardu:Rondu,9/26/2013,NA\dharding,
+172965,Shigar,1/1/1990,12/31/9999,4,243643,3,Asia:Pakistan:GB:Skardu:Shigar,9/26/2013,NA\dharding,
+172966,Gultari,1/1/1990,12/31/9999,4,243709,3,Asia:Pakistan:GB:Skardu:Gultari,9/26/2013,NA\dharding,
+172967,Darel/ Tangir,1/1/1990,12/31/9999,4,243942,3,Asia:Pakistan:GB:Diamir:Darel/ Tangir,9/26/2013,NA\dharding,
+172968,Chilas,1/1/1990,12/31/9999,4,243943,3,Asia:Pakistan:GB:Diamir:Chilas,9/26/2013,NA\dharding,
+172969,Yasin,1/1/1990,12/31/9999,4,243635,3,Asia:Pakistan:GB:Ghizer:Yasin,9/26/2013,NA\dharding,
+172970,Gupis,1/1/1990,12/31/9999,4,243637,3,Asia:Pakistan:GB:Ghizer:Gupis,9/26/2013,NA\dharding,
+172971,Punial,1/1/1990,12/31/9999,4,243640,3,Asia:Pakistan:GB:Ghizer:Punial,9/26/2013,NA\dharding,
+172972,Ishkoman,1/1/1990,12/31/9999,4,243642,3,Asia:Pakistan:GB:Ghizer:Ishkoman,9/26/2013,NA\dharding,
+172973,Mashabbrum,1/1/1990,12/31/9999,4,243638,3,Asia:Pakistan:GB:Ghanche:Mashabbrum,9/26/2013,NA\dharding,
+172974,Khaplu,1/1/1990,12/31/9999,4,243917,3,Asia:Pakistan:GB:Ghanche:Khaplu,9/26/2013,NA\dharding,
+172975,Astore,1/1/1990,12/31/9999,4,243941,3,Asia:Pakistan:GB:Astore:Astore,9/26/2013,NA\dharding,
+172976,Gilgit,1/1/1990,12/31/9999,4,243644,3,Asia:Pakistan:GB:Gilgit:Gilgit,9/26/2013,NA\dharding,
+172977,Ali abad,1/1/1990,12/31/9999,4,243648,3,Asia:Pakistan:GB:Hunzanagar:Ali abad,9/26/2013,NA\dharding,
+172978,Nagar,1/1/1990,12/31/9999,4,243647,3,Asia:Pakistan:GB:Hunzanagar:Nagar,9/26/2013,NA\dharding,
+172979,Hunza,1/1/1990,12/31/9999,4,243646,3,Asia:Pakistan:GB:Hunzanagar:Hunza,9/26/2013,NA\dharding,
+172980,Gojal,1/1/1990,12/31/9999,4,243645,3,Asia:Pakistan:GB:Hunzanagar:Gojal,9/26/2013,NA\dharding,
+172981,Taxila,1/1/1990,12/31/9999,4,243627,3,Asia:Pakistan:PUNJAB:Rawalpindi:Taxila,9/26/2013,NA\dharding,
+172982,Gujar Khan,1/1/1990,12/31/9999,4,243658,3,Asia:Pakistan:PUNJAB:Rawalpindi:Gujar Khan,9/26/2013,NA\dharding,
+172983,Rawalpindi,1/1/1990,12/31/9999,4,243659,3,Asia:Pakistan:PUNJAB:Rawalpindi:Rawalpindi,9/26/2013,NA\dharding,
+172984,Kahuta,1/1/1990,12/31/9999,4,243697,3,Asia:Pakistan:PUNJAB:Rawalpindi:Kahuta,9/26/2013,NA\dharding,
+172985,Muree,1/1/1990,12/31/9999,4,243704,3,Asia:Pakistan:PUNJAB:Rawalpindi:Muree,9/26/2013,NA\dharding,
+172986,Kotli Sattian,1/1/1990,12/31/9999,4,243705,3,Asia:Pakistan:PUNJAB:Rawalpindi:Kotli Sattian,9/26/2013,NA\dharding,
+172987,Hasan Abdal,1/1/1990,12/31/9999,4,243724,3,Asia:Pakistan:PUNJAB:Attock:Hasan Abdal,9/26/2013,NA\dharding,
+172988,Pindi gheb,1/1/1990,12/31/9999,4,243728,3,Asia:Pakistan:PUNJAB:Attock:Pindi gheb,9/26/2013,NA\dharding,
+172989,Fateh Jang,1/1/1990,12/31/9999,4,243730,3,Asia:Pakistan:PUNJAB:Attock:Fateh Jang,9/26/2013,NA\dharding,
+172990,Attock,1/1/1990,12/31/9999,4,243735,3,Asia:Pakistan:PUNJAB:Attock:Attock,9/26/2013,NA\dharding,
+172991,Jand,1/1/1990,12/31/9999,4,243749,3,Asia:Pakistan:PUNJAB:Attock:Jand,9/26/2013,NA\dharding,
+172992,Choa Saidan,1/1/1990,12/31/9999,4,243661,3,Asia:Pakistan:PUNJAB:Chakwal:Choa Saidan,9/26/2013,NA\dharding,
+172993,Chakwal,1/1/1990,12/31/9999,4,243667,3,Asia:Pakistan:PUNJAB:Chakwal:Chakwal,9/26/2013,NA\dharding,
+172994,Tala Gang,1/1/1990,12/31/9999,4,243729,3,Asia:Pakistan:PUNJAB:Chakwal:Tala Gang,9/26/2013,NA\dharding,
+172995,Sohawa,1/1/1990,12/31/9999,4,243657,3,Asia:Pakistan:PUNJAB:Jhelum:Sohawa,9/26/2013,NA\dharding,
+172996,Jhelum,1/1/1990,12/31/9999,4,243660,3,Asia:Pakistan:PUNJAB:Jhelum:Jhelum,9/26/2013,NA\dharding,
+172997,Pind Dadan,1/1/1990,12/31/9999,4,243668,3,Asia:Pakistan:PUNJAB:Jhelum:Pind Dadan,9/26/2013,NA\dharding,
+172998,Kamoke,1/1/1990,12/31/9999,4,243612,3,Asia:Pakistan:PUNJAB:Gujranwala:Kamoke,9/26/2013,NA\dharding,
+172999,Nowshera Virkan,1/1/1990,12/31/9999,4,243613,3,Asia:Pakistan:PUNJAB:Gujranwala:Nowshera Virkan,9/26/2013,NA\dharding,
+173000,Wazirabad,1/1/1990,12/31/9999,4,243619,3,Asia:Pakistan:PUNJAB:Gujranwala:Wazirabad,9/26/2013,NA\dharding,
+173001,Khiali Shahpur,1/1/1990,12/31/9999,4,244002,3,Asia:Pakistan:PUNJAB:Gujranwala:Khiali Shahpur,9/26/2013,NA\dharding,
+173002,Nandi Pur,1/1/1990,12/31/9999,4,244003,3,Asia:Pakistan:PUNJAB:Gujranwala:Nandi Pur,9/26/2013,NA\dharding,
+173003,Aroop,1/1/1990,12/31/9999,4,244004,3,Asia:Pakistan:PUNJAB:Gujranwala:Aroop,9/26/2013,NA\dharding,
+173004,Qila Dedar Singh,1/1/1990,12/31/9999,4,244005,3,Asia:Pakistan:PUNJAB:Gujranwala:Qila Dedar Singh,9/26/2013,NA\dharding,
+173005,Hafizabad,1/1/1990,12/31/9999,4,243614,3,Asia:Pakistan:PUNJAB:Hafizabad:Hafizabad,9/26/2013,NA\dharding,
+173006,Pindi Bhattian,1/1/1990,12/31/9999,4,243947,3,Asia:Pakistan:PUNJAB:Hafizabad:Pindi Bhattian,9/26/2013,NA\dharding,
+173007,Gujrat,1/1/1990,12/31/9999,4,243621,3,Asia:Pakistan:PUNJAB:Gujrat:Gujrat,9/26/2013,NA\dharding,
+173008,Kharian,1/1/1990,12/31/9999,4,243622,3,Asia:Pakistan:PUNJAB:Gujrat:Kharian,9/26/2013,NA\dharding,
+173009,Sarai Alamgir,1/1/1990,12/31/9999,4,243623,3,Asia:Pakistan:PUNJAB:Gujrat:Sarai Alamgir,9/26/2013,NA\dharding,
+173010,Phalia,1/1/1990,12/31/9999,4,243656,3,Asia:Pakistan:PUNJAB:Mbdin:Phalia,9/26/2013,NA\dharding,
+173011,Malakwal,1/1/1990,12/31/9999,4,243810,3,Asia:Pakistan:PUNJAB:Mbdin:Malakwal,9/26/2013,NA\dharding,
+173012,Mbdin,1/1/1990,12/31/9999,4,243811,3,Asia:Pakistan:PUNJAB:Mbdin:Mbdin,9/26/2013,NA\dharding,
+173013,Pasrur,1/1/1990,12/31/9999,4,243617,3,Asia:Pakistan:PUNJAB:Sialkot:Pasrur,9/26/2013,NA\dharding,
+173014,Daska,1/1/1990,12/31/9999,4,243618,3,Asia:Pakistan:PUNJAB:Sialkot:Daska,9/26/2013,NA\dharding,
+173015,Sialkot,1/1/1990,12/31/9999,4,243620,3,Asia:Pakistan:PUNJAB:Sialkot:Sialkot,9/26/2013,NA\dharding,
+173016,Shakargarh,1/1/1990,12/31/9999,4,243615,3,Asia:Pakistan:PUNJAB:Narowal:Shakargarh,9/26/2013,NA\dharding,
+173017,Narowal,1/1/1990,12/31/9999,4,243616,3,Asia:Pakistan:PUNJAB:Narowal:Narowal,9/26/2013,NA\dharding,
+173018,Aziz Bhatti,1/1/1990,12/31/9999,4,243992,3,Asia:Pakistan:PUNJAB:Lahore:Aziz Bhatti,9/26/2013,NA\dharding,
+173019,Ravi,1/1/1990,12/31/9999,4,243993,3,Asia:Pakistan:PUNJAB:Lahore:Ravi,9/26/2013,NA\dharding,
+173020,Allama Iqbal,1/1/1990,12/31/9999,4,243994,3,Asia:Pakistan:PUNJAB:Lahore:Allama Iqbal,9/26/2013,NA\dharding,
+173021,Cantonment,1/1/1990,12/31/9999,4,243995,3,Asia:Pakistan:PUNJAB:Lahore:Cantonment,9/26/2013,NA\dharding,
+173022,Nishter,1/1/1990,12/31/9999,4,243996,3,Asia:Pakistan:PUNJAB:Lahore:Nishter,9/26/2013,NA\dharding,
+173024,Samnabad,1/1/1990,12/31/9999,4,243998,3,Asia:Pakistan:PUNJAB:Lahore:Samnabad,9/26/2013,NA\dharding,
+173025,Data Gunj Buksh,1/1/1990,12/31/9999,4,243999,3,Asia:Pakistan:PUNJAB:Lahore:Data Gunj Buksh,9/26/2013,NA\dharding,
+173026,Wahga,1/1/1990,12/31/9999,4,244000,3,Asia:Pakistan:PUNJAB:Lahore:Wahga,9/26/2013,NA\dharding,
+173027,Shalimar,1/1/1990,12/31/9999,4,244001,3,Asia:Pakistan:PUNJAB:Lahore:Shalimar,9/26/2013,NA\dharding,
+173028,Chunian,1/1/1990,12/31/9999,4,243602,3,Asia:Pakistan:PUNJAB:Kasur:Chunian,9/26/2013,NA\dharding,
+173029,Kasur,1/1/1990,12/31/9999,4,243603,3,Asia:Pakistan:PUNJAB:Kasur:Kasur,9/26/2013,NA\dharding,
+173030,Pattoki,1/1/1990,12/31/9999,4,243607,3,Asia:Pakistan:PUNJAB:Kasur:Pattoki,9/26/2013,NA\dharding,
+173031,Sheikupura,1/1/1990,12/31/9999,4,243609,3,Asia:Pakistan:PUNJAB:Sheikupura:Sheikupura,9/26/2013,NA\dharding,
+173032,Ferozewala,1/1/1990,12/31/9999,4,243610,3,Asia:Pakistan:PUNJAB:Sheikupura:Ferozewala,9/26/2013,NA\dharding,
+173033,Depalpur,1/1/1990,12/31/9999,4,243601,3,Asia:Pakistan:PUNJAB:Okara:Depalpur,9/26/2013,NA\dharding,
+173034,Renala Khurd,1/1/1990,12/31/9999,4,243606,3,Asia:Pakistan:PUNJAB:Okara:Renala Khurd,9/26/2013,NA\dharding,
+173035,Okara,1/1/1990,12/31/9999,4,243608,3,Asia:Pakistan:PUNJAB:Okara:Okara,9/26/2013,NA\dharding,
+173036,Nankanasahib,1/1/1990,12/31/9999,4,243611,3,Asia:Pakistan:PUNJAB:Nankanasahib:Nankanasahib,9/26/2013,NA\dharding,
+173037,Sanglahill,1/1/1990,12/31/9999,4,243944,3,Asia:Pakistan:PUNJAB:Nankanasahib:Sanglahill,9/26/2013,NA\dharding,
+173038,Shahkot,1/1/1990,12/31/9999,4,243945,3,Asia:Pakistan:PUNJAB:Nankanasahib:Shahkot,9/26/2013,NA\dharding,
+173039,Safdarabad,1/1/1990,12/31/9999,4,243946,3,Asia:Pakistan:PUNJAB:Nankanasahib:Safdarabad,9/26/2013,NA\dharding,
+173040,Sillanwali,1/1/1990,12/31/9999,4,243669,3,Asia:Pakistan:PUNJAB:Sargodha:Sillanwali,9/26/2013,NA\dharding,
+173041,Sargodha,1/1/1990,12/31/9999,4,243671,3,Asia:Pakistan:PUNJAB:Sargodha:Sargodha,9/26/2013,NA\dharding,
+173042,Shahpur,1/1/1990,12/31/9999,4,243673,3,Asia:Pakistan:PUNJAB:Sargodha:Shahpur,9/26/2013,NA\dharding,
+173044,Bhalwal,1/1/1990,12/31/9999,4,243980,3,Asia:Pakistan:PUNJAB:Sargodha:Bhalwal,9/26/2013,NA\dharding,
+173045,Kot Momin,1/1/1990,12/31/9999,4,243981,3,Asia:Pakistan:PUNJAB:Sargodha:Kot Momin,9/26/2013,NA\dharding,
+173046,Noorpur,1/1/1990,12/31/9999,4,243672,3,Asia:Pakistan:PUNJAB:Khushab:Noorpur,9/26/2013,NA\dharding,
+173047,Khushab,1/1/1990,12/31/9999,4,243674,3,Asia:Pakistan:PUNJAB:Khushab:Khushab,9/26/2013,NA\dharding,
+173048,Mianwali,1/1/1990,12/31/9999,4,243748,3,Asia:Pakistan:PUNJAB:Mianwali:Mianwali,9/26/2013,NA\dharding,
+173049,Piplan,1/1/1990,12/31/9999,4,243750,3,Asia:Pakistan:PUNJAB:Mianwali:Piplan,9/26/2013,NA\dharding,
+173050,Isakhel,1/1/1990,12/31/9999,4,243754,3,Asia:Pakistan:PUNJAB:Mianwali:Isakhel,9/26/2013,NA\dharding,
+173051,Mankera,1/1/1990,12/31/9999,4,243721,3,Asia:Pakistan:PUNJAB:Bhakkar:Mankera,9/26/2013,NA\dharding,
+173052,Darya Khan,1/1/1990,12/31/9999,4,243744,3,Asia:Pakistan:PUNJAB:Bhakkar:Darya Khan,9/26/2013,NA\dharding,
+173053,Bhakkar,1/1/1990,12/31/9999,4,243745,3,Asia:Pakistan:PUNJAB:Bhakkar:Bhakkar,9/26/2013,NA\dharding,
+173054,Kalur Kot,1/1/1990,12/31/9999,4,243747,3,Asia:Pakistan:PUNJAB:Bhakkar:Kalur Kot,9/26/2013,NA\dharding,
+173055,Tandlianwala,1/1/1990,12/31/9999,4,243650,3,Asia:Pakistan:PUNJAB:Faisalabad:Tandlianwala,9/26/2013,NA\dharding,
+173056,Faisalabad City,1/1/1990,12/31/9999,4,243652,3,Asia:Pakistan:PUNJAB:Faisalabad:Faisalabad City,9/26/2013,NA\dharding,
+173057,Jaranwala,1/1/1990,12/31/9999,4,243653,3,Asia:Pakistan:PUNJAB:Faisalabad:Jaranwala,9/26/2013,NA\dharding,
+173058,Summundri,1/1/1990,12/31/9999,4,243654,3,Asia:Pakistan:PUNJAB:Faisalabad:Summundri,9/26/2013,NA\dharding,
+173059,Chak Jhumra,1/1/1990,12/31/9999,4,243655,3,Asia:Pakistan:PUNJAB:Faisalabad:Chak Jhumra,9/26/2013,NA\dharding,
+173060,Faisalabad Sadar,1/1/1990,12/31/9999,4,243665,3,Asia:Pakistan:PUNJAB:Faisalabad:Faisalabad Sadar,9/26/2013,NA\dharding,
+173061,Kamalia,1/1/1990,12/31/9999,4,243651,3,Asia:Pakistan:PUNJAB:Ttsingh:Kamalia,9/26/2013,NA\dharding,
+173062,Toba TekSingh,1/1/1990,12/31/9999,4,243663,3,Asia:Pakistan:PUNJAB:Ttsingh:Toba TekSingh,9/26/2013,NA\dharding,
+173063,Gojra,1/1/1990,12/31/9999,4,243664,3,Asia:Pakistan:PUNJAB:Ttsingh:Gojra,9/26/2013,NA\dharding,
+173064,Shorkot,1/1/1990,12/31/9999,4,243662,3,Asia:Pakistan:PUNJAB:Jhang:Shorkot,9/26/2013,NA\dharding,
+173065,Jhang,1/1/1990,12/31/9999,4,243670,3,Asia:Pakistan:PUNJAB:Jhang:Jhang,9/26/2013,NA\dharding,
+173066,Chiniot,1/1/1990,12/31/9999,4,243666,3,Asia:Pakistan:PUNJAB:Chiniot:Chiniot,9/26/2013,NA\dharding,
+173067,Multan Saddar,1/1/1990,12/31/9999,4,243587,3,Asia:Pakistan:PUNJAB:Multan:Multan Saddar,9/26/2013,NA\dharding,
+173068,Shujabad,1/1/1990,12/31/9999,4,243589,3,Asia:Pakistan:PUNJAB:Multan:Shujabad,9/26/2013,NA\dharding,
+173069,Multan City,1/1/1990,12/31/9999,4,243591,3,Asia:Pakistan:PUNJAB:Multan:Multan City,9/26/2013,NA\dharding,
+173070,Jalalpur Pirwala,1/1/1990,12/31/9999,4,243770,3,Asia:Pakistan:PUNJAB:Multan:Jalalpur Pirwala,9/26/2013,NA\dharding,
+173071,Khanewal,1/1/1990,12/31/9999,4,243592,3,Asia:Pakistan:PUNJAB:Khanewal:Khanewal,9/26/2013,NA\dharding,
+173072,Jahanian,1/1/1990,12/31/9999,4,243593,3,Asia:Pakistan:PUNJAB:Khanewal:Jahanian,9/26/2013,NA\dharding,
+173073,Mian Channu,1/1/1990,12/31/9999,4,243595,3,Asia:Pakistan:PUNJAB:Khanewal:Mian Channu,9/26/2013,NA\dharding,
+173074,Kabirwala,1/1/1990,12/31/9999,4,243649,3,Asia:Pakistan:PUNJAB:Khanewal:Kabirwala,9/26/2013,NA\dharding,
+173075,Mailsi,1/1/1990,12/31/9999,4,243590,3,Asia:Pakistan:PUNJAB:Vehari:Mailsi,9/26/2013,NA\dharding,
+173076,Vehari,1/1/1990,12/31/9999,4,243594,3,Asia:Pakistan:PUNJAB:Vehari:Vehari,9/26/2013,NA\dharding,
+173077,Burewala,1/1/1990,12/31/9999,4,243596,3,Asia:Pakistan:PUNJAB:Vehari:Burewala,9/26/2013,NA\dharding,
+173078,Kahror Pacca,1/1/1990,12/31/9999,4,243586,3,Asia:Pakistan:PUNJAB:Lodhran:Kahror Pacca,9/26/2013,NA\dharding,
+173079,Dunyapur,1/1/1990,12/31/9999,4,243588,3,Asia:Pakistan:PUNJAB:Lodhran:Dunyapur,9/26/2013,NA\dharding,
+173080,Lodhran,1/1/1990,12/31/9999,4,243769,3,Asia:Pakistan:PUNJAB:Lodhran:Lodhran,9/26/2013,NA\dharding,
+173081,Chichawatni,1/1/1990,12/31/9999,4,243604,3,Asia:Pakistan:PUNJAB:Sahiwal:Chichawatni,9/26/2013,NA\dharding,
+173082,Sahiwal,1/1/1990,12/31/9999,4,243605,3,Asia:Pakistan:PUNJAB:Sahiwal:Sahiwal,9/26/2013,NA\dharding,
+173083,Arifwala,1/1/1990,12/31/9999,4,243597,3,Asia:Pakistan:PUNJAB:Pakpatten:Arifwala,9/26/2013,NA\dharding,
+173084,Pakpattan,1/1/1990,12/31/9999,4,243600,3,Asia:Pakistan:PUNJAB:Pakpatten:Pakpattan,9/26/2013,NA\dharding,
+173085,Khairpur Tamewali,1/1/1990,12/31/9999,4,243772,3,Asia:Pakistan:PUNJAB:Bahawalpur:Khairpur Tamewali,9/26/2013,NA\dharding,
+173086,Hasilpur,1/1/1990,12/31/9999,4,243773,3,Asia:Pakistan:PUNJAB:Bahawalpur:Hasilpur,9/26/2013,NA\dharding,
+173087,Bahawalpur,1/1/1990,12/31/9999,4,243776,3,Asia:Pakistan:PUNJAB:Bahawalpur:Bahawalpur,9/26/2013,NA\dharding,
+173088,Ahmadpur East,1/1/1990,12/31/9999,4,243780,3,Asia:Pakistan:PUNJAB:Bahawalpur:Ahmadpur East,9/26/2013,NA\dharding,
+173089,Yazman,1/1/1990,12/31/9999,4,243781,3,Asia:Pakistan:PUNJAB:Bahawalpur:Yazman,9/26/2013,NA\dharding,
+173090,Khanpur Tehsil,1/1/1990,12/31/9999,4,243783,3,Asia:Pakistan:PUNJAB:RYKhan:Khanpur Tehsil,9/26/2013,NA\dharding,
+173091,RYKhan,1/1/1990,12/31/9999,4,243785,3,Asia:Pakistan:PUNJAB:RYKhan:RYKhan,9/26/2013,NA\dharding,
+173092,Liaquatpur,1/1/1990,12/31/9999,4,243786,3,Asia:Pakistan:PUNJAB:RYKhan:Liaquatpur,9/26/2013,NA\dharding,
+173093,Sadiqabad,1/1/1990,12/31/9999,4,243897,3,Asia:Pakistan:PUNJAB:RYKhan:Sadiqabad,9/26/2013,NA\dharding,
+173094,Bahawalnagar,1/1/1990,12/31/9999,4,243598,3,Asia:Pakistan:PUNJAB:Bahwlnagar:Bahawalnagar,9/26/2013,NA\dharding,
+173095,Minchinabad,1/1/1990,12/31/9999,4,243599,3,Asia:Pakistan:PUNJAB:Bahwlnagar:Minchinabad,9/26/2013,NA\dharding,
+173096,Fortabbas,1/1/1990,12/31/9999,4,243771,3,Asia:Pakistan:PUNJAB:Bahwlnagar:Fortabbas,9/26/2013,NA\dharding,
+173097,Haroonabad,1/1/1990,12/31/9999,4,243774,3,Asia:Pakistan:PUNJAB:Bahwlnagar:Haroonabad,9/26/2013,NA\dharding,
+173098,Chishtian,1/1/1990,12/31/9999,4,243775,3,Asia:Pakistan:PUNJAB:Bahwlnagar:Chishtian,9/26/2013,NA\dharding,
+173099,Taunsa,1/1/1990,12/31/9999,4,243765,3,Asia:Pakistan:PUNJAB:DGKhan:Taunsa,9/26/2013,NA\dharding,
+173100,DGKhan,1/1/1990,12/31/9999,4,243767,3,Asia:Pakistan:PUNJAB:DGKhan:DGKhan,9/26/2013,NA\dharding,
+173101,De-Excluded A DGK,1/1/1990,12/31/9999,4,243777,3,Asia:Pakistan:PUNJAB:DGKhan:De-Excluded A DGK,9/26/2013,NA\dharding,
+173102,Jampur,1/1/1990,12/31/9999,4,243778,3,Asia:Pakistan:PUNJAB:Rajanpur:Jampur,9/26/2013,NA\dharding,
+173103,Rajanpur,1/1/1990,12/31/9999,4,243779,3,Asia:Pakistan:PUNJAB:Rajanpur:Rajanpur,9/26/2013,NA\dharding,
+173104,Rojhan,1/1/1990,12/31/9999,4,243784,3,Asia:Pakistan:PUNJAB:Rajanpur:Rojhan,9/26/2013,NA\dharding,
+173105,FR Rajanpur,1/1/1990,12/31/9999,4,243790,3,Asia:Pakistan:PUNJAB:Rajanpur:FR Rajanpur,9/26/2013,NA\dharding,
+173106,Muzaffargarh,1/1/1990,12/31/9999,4,243723,3,Asia:Pakistan:PUNJAB:Muzfargarh:Muzaffargarh,9/26/2013,NA\dharding,
+173107,Kot Addu,1/1/1990,12/31/9999,4,243743,3,Asia:Pakistan:PUNJAB:Muzfargarh:Kot Addu,9/26/2013,NA\dharding,
+173108,Jatoi,1/1/1990,12/31/9999,4,243768,3,Asia:Pakistan:PUNJAB:Muzfargarh:Jatoi,9/26/2013,NA\dharding,
+173109,Alipur,1/1/1990,12/31/9999,4,243782,3,Asia:Pakistan:PUNJAB:Muzfargarh:Alipur,9/26/2013,NA\dharding,
+173110,Choubara,1/1/1990,12/31/9999,4,243722,3,Asia:Pakistan:PUNJAB:Layyah:Choubara,9/26/2013,NA\dharding,
+173111,Leiah,1/1/1990,12/31/9999,4,243742,3,Asia:Pakistan:PUNJAB:Layyah:Leiah,9/26/2013,NA\dharding,
+173112,KarorlalEsan,1/1/1990,12/31/9999,4,243746,3,Asia:Pakistan:PUNJAB:Layyah:KarorlalEsan,9/26/2013,NA\dharding,
+173113,Kiamri,1/1/1990,12/31/9999,4,243918,3,Asia:Pakistan:SINDH:KHIKAMARI:Kiamri,9/26/2013,NA\dharding,
+173114,Hyderabad city,1/1/1990,12/31/9999,4,243792,3,Asia:Pakistan:SINDH:Hyderabad:Hyderabad city,9/26/2013,NA\dharding,
+173115,Qasimabad,1/1/1990,12/31/9999,4,243795,3,Asia:Pakistan:SINDH:Hyderabad:Qasimabad,9/26/2013,NA\dharding,
+173116,Hyderabad Rural,1/1/1990,12/31/9999,4,243796,3,Asia:Pakistan:SINDH:Hyderabad:Hyderabad Rural,9/26/2013,NA\dharding,
+173117,Latifabad,1/1/1990,12/31/9999,4,243800,3,Asia:Pakistan:SINDH:Hyderabad:Latifabad,9/26/2013,NA\dharding,
+173118,Mirpur Bathoro,1/1/1990,12/31/9999,4,243802,3,Asia:Pakistan:SINDH:Thatta:Mirpur Bathoro,9/26/2013,NA\dharding,
+173119,Thatta,1/1/1990,12/31/9999,4,243803,3,Asia:Pakistan:SINDH:Thatta:Thatta,9/26/2013,NA\dharding,
+173120,Sujawal,1/1/1990,12/31/9999,4,243804,3,Asia:Pakistan:SINDH:Thatta:Sujawal,9/26/2013,NA\dharding,
+173121,Jati,1/1/1990,12/31/9999,4,243805,3,Asia:Pakistan:SINDH:Thatta:Jati,9/26/2013,NA\dharding,
+173122,Kharo Chan,1/1/1990,12/31/9999,4,243806,3,Asia:Pakistan:SINDH:Thatta:Kharo Chan,9/26/2013,NA\dharding,
+173123,Keti Bunder,1/1/1990,12/31/9999,4,243807,3,Asia:Pakistan:SINDH:Thatta:Keti Bunder,9/26/2013,NA\dharding,
+173124,Ghorabari,1/1/1990,12/31/9999,4,243808,3,Asia:Pakistan:SINDH:Thatta:Ghorabari,9/26/2013,NA\dharding,
+173125,Shah Bunder,1/1/1990,12/31/9999,4,243809,3,Asia:Pakistan:SINDH:Thatta:Shah Bunder,9/26/2013,NA\dharding,
+173126,Mirpur Sakro,1/1/1990,12/31/9999,4,243935,3,Asia:Pakistan:SINDH:Thatta:Mirpur Sakro,9/26/2013,NA\dharding,
+173127,Matli,1/1/1990,12/31/9999,4,243937,3,Asia:Pakistan:SINDH:Badin:Matli,9/26/2013,NA\dharding,
+173128,Golarchi,1/1/1990,12/31/9999,4,243938,3,Asia:Pakistan:SINDH:Badin:Golarchi,9/26/2013,NA\dharding,
+173129,Badin,1/1/1990,12/31/9999,4,243939,3,Asia:Pakistan:SINDH:Badin:Badin,9/26/2013,NA\dharding,
+173130,Talhar,1/1/1990,12/31/9999,4,243940,3,Asia:Pakistan:SINDH:Badin:Talhar,9/26/2013,NA\dharding,
+173131,Tando Bago,1/1/1990,12/31/9999,4,243953,3,Asia:Pakistan:SINDH:Badin:Tando Bago,9/26/2013,NA\dharding,
+173132,Dadu,1/1/1990,12/31/9999,4,243689,3,Asia:Pakistan:SINDH:Dadu:Dadu,9/26/2013,NA\dharding,
+173133,Mehar,1/1/1990,12/31/9999,4,243693,3,Asia:Pakistan:SINDH:Dadu:Mehar,9/26/2013,NA\dharding,
+173134,K. N. Shah,1/1/1990,12/31/9999,4,243694,3,Asia:Pakistan:SINDH:Dadu:K. N. Shah,9/26/2013,NA\dharding,
+173135,Johi,1/1/1990,12/31/9999,4,243798,3,Asia:Pakistan:SINDH:Dadu:Johi,9/26/2013,NA\dharding,
+173136,Sehwan,1/1/1990,12/31/9999,4,243797,3,Asia:Pakistan:SINDH:Jamshoro:Sehwan,9/26/2013,NA\dharding,
+173137,TBKhan,1/1/1990,12/31/9999,4,243801,3,Asia:Pakistan:SINDH:Jamshoro:TBKhan,9/26/2013,NA\dharding,
+173138,Kotri,1/1/1990,12/31/9999,4,243950,3,Asia:Pakistan:SINDH:Jamshoro:Kotri,9/26/2013,NA\dharding,
+173139,Manjhand,1/1/1990,12/31/9999,4,243951,3,Asia:Pakistan:SINDH:Jamshoro:Manjhand,9/26/2013,NA\dharding,
+173140,B.S. Karim,1/1/1990,12/31/9999,4,243959,3,Asia:Pakistan:SINDH:TMKhan:B.S. Karim,9/26/2013,NA\dharding,
+173141,TMKhan,1/1/1990,12/31/9999,4,243960,3,Asia:Pakistan:SINDH:TMKhan:TMKhan,9/26/2013,NA\dharding,
+173142,T.G. Hyder,1/1/1990,12/31/9999,4,243961,3,Asia:Pakistan:SINDH:TMKhan:T.G. Hyder,9/26/2013,NA\dharding,
+173143,Tando Allahyar,1/1/1990,12/31/9999,4,243962,3,Asia:Pakistan:SINDH:T.Allahyar:Tando Allahyar,9/26/2013,NA\dharding,
+173144,Chamber,1/1/1990,12/31/9999,4,243963,3,Asia:Pakistan:SINDH:T.Allahyar:Chamber,9/26/2013,NA\dharding,
+173145,J.Muree,1/1/1990,12/31/9999,4,243964,3,Asia:Pakistan:SINDH:T.Allahyar:J.Muree,9/26/2013,NA\dharding,
+173146,Matiari,1/1/1990,12/31/9999,4,243793,3,Asia:Pakistan:SINDH:Matiari:Matiari,9/26/2013,NA\dharding,
+173147,Hala Taluka,1/1/1990,12/31/9999,4,243965,3,Asia:Pakistan:SINDH:Matiari:Hala Taluka,9/26/2013,NA\dharding,
+173148,Saeedabad,1/1/1990,12/31/9999,4,243966,3,Asia:Pakistan:SINDH:Matiari:Saeedabad,9/26/2013,NA\dharding,
+173149,Kot G.M,1/1/1990,12/31/9999,4,243952,3,Asia:Pakistan:SINDH:Mirpurkhas:Kot G.M,9/26/2013,NA\dharding,
+173150,Digri,1/1/1990,12/31/9999,4,243954,3,Asia:Pakistan:SINDH:Mirpurkhas:Digri,9/26/2013,NA\dharding,
+173151,Mirpurkhas,1/1/1990,12/31/9999,4,243956,3,Asia:Pakistan:SINDH:Mirpurkhas:Mirpurkhas,9/26/2013,NA\dharding,
+173152,H.B. Murree,1/1/1990,12/31/9999,4,243957,3,Asia:Pakistan:SINDH:Mirpurkhas:H.B. Murree,9/26/2013,NA\dharding,
+173153,Sindhri,1/1/1990,12/31/9999,4,243958,3,Asia:Pakistan:SINDH:Mirpurkhas:Sindhri,9/26/2013,NA\dharding,
+173154,Jhudo,1/1/1990,12/31/9999,4,243955,3,Asia:Pakistan:SINDH:Mirpurkhas:Jhudo,9/26/2013,NA\dharding,
+173155,Tando Adam,1/1/1990,12/31/9999,4,243571,3,Asia:Pakistan:SINDH:Sanghar:Tando Adam,9/26/2013,NA\dharding,
+173156,Jam Nawaz Ali,1/1/1990,12/31/9999,4,243572,3,Asia:Pakistan:SINDH:Sanghar:Jam Nawaz Ali,9/26/2013,NA\dharding,
+173157,Shahdadpur,1/1/1990,12/31/9999,4,243573,3,Asia:Pakistan:SINDH:Sanghar:Shahdadpur,9/26/2013,NA\dharding,
+173158,Sinjhoro,1/1/1990,12/31/9999,4,243574,3,Asia:Pakistan:SINDH:Sanghar:Sinjhoro,9/26/2013,NA\dharding,
+173159,Sanghar,1/1/1990,12/31/9999,4,243575,3,Asia:Pakistan:SINDH:Sanghar:Sanghar,9/26/2013,NA\dharding,
+173160,Khipro,1/1/1990,12/31/9999,4,243579,3,Asia:Pakistan:SINDH:Sanghar:Khipro,9/26/2013,NA\dharding,
+173161,Chachro,1/1/1990,12/31/9999,4,243583,3,Asia:Pakistan:SINDH:Tharparkar:Chachro,9/26/2013,NA\dharding,
+173162,Mithi,1/1/1990,12/31/9999,4,243584,3,Asia:Pakistan:SINDH:Tharparkar:Mithi,9/26/2013,NA\dharding,
+173163,Nagar Parkar,1/1/1990,12/31/9999,4,243585,3,Asia:Pakistan:SINDH:Tharparkar:Nagar Parkar,9/26/2013,NA\dharding,
+173164,Diplo,1/1/1990,12/31/9999,4,243799,3,Asia:Pakistan:SINDH:Tharparkar:Diplo,9/26/2013,NA\dharding,
+173165,Pithoro,1/1/1990,12/31/9999,4,243578,3,Asia:Pakistan:SINDH:Umerkot:Pithoro,9/26/2013,NA\dharding,
+173166,Samaro,1/1/1990,12/31/9999,4,243580,3,Asia:Pakistan:SINDH:Umerkot:Samaro,9/26/2013,NA\dharding,
+173167,Umer Kot,1/1/1990,12/31/9999,4,243581,3,Asia:Pakistan:SINDH:Umerkot:Umer Kot,9/26/2013,NA\dharding,
+173168,Kunri,1/1/1990,12/31/9999,4,243582,3,Asia:Pakistan:SINDH:Umerkot:Kunri,9/26/2013,NA\dharding,
+173169,Sukkur,1/1/1990,12/31/9999,4,243759,3,Asia:Pakistan:SINDH:Sukkur:Sukkur,9/26/2013,NA\dharding,
+173170,Salehpat,1/1/1990,12/31/9999,4,243761,3,Asia:Pakistan:SINDH:Sukkur:Salehpat,9/26/2013,NA\dharding,
+173171,Rohri,1/1/1990,12/31/9999,4,243762,3,Asia:Pakistan:SINDH:Sukkur:Rohri,9/26/2013,NA\dharding,
+173172,Pano Aqil,1/1/1990,12/31/9999,4,243787,3,Asia:Pakistan:SINDH:Sukkur:Pano Aqil,9/26/2013,NA\dharding,
+173173,Khangarh,1/1/1990,12/31/9999,4,243788,3,Asia:Pakistan:SINDH:Ghotki:Khangarh,9/26/2013,NA\dharding,
+173174,Daharki,1/1/1990,12/31/9999,4,243789,3,Asia:Pakistan:SINDH:Ghotki:Daharki,9/26/2013,NA\dharding,
+173175,Mirpur Mathelo,1/1/1990,12/31/9999,4,243791,3,Asia:Pakistan:SINDH:Ghotki:Mirpur Mathelo,9/26/2013,NA\dharding,
+173176,Ghotki,1/1/1990,12/31/9999,4,243896,3,Asia:Pakistan:SINDH:Ghotki:Ghotki,9/26/2013,NA\dharding,
+173177,Ubauro,1/1/1990,12/31/9999,4,243898,3,Asia:Pakistan:SINDH:Ghotki:Ubauro,9/26/2013,NA\dharding,
+173178,Faiz Ganj,1/1/1990,12/31/9999,4,243576,3,Asia:Pakistan:SINDH:Khairpur:Faiz Ganj,9/26/2013,NA\dharding,
+173179,Nara,1/1/1990,12/31/9999,4,243577,3,Asia:Pakistan:SINDH:Khairpur:Nara,9/26/2013,NA\dharding,
+173180,Thari Mirwah,1/1/1990,12/31/9999,4,243677,3,Asia:Pakistan:SINDH:Khairpur:Thari Mirwah,9/26/2013,NA\dharding,
+173181,Kot Diji,1/1/1990,12/31/9999,4,243680,3,Asia:Pakistan:SINDH:Khairpur:Kot Diji,9/26/2013,NA\dharding,
+173182,Khairpur,1/1/1990,12/31/9999,4,243681,3,Asia:Pakistan:SINDH:Khairpur:Khairpur,9/26/2013,NA\dharding,
+173183,Sobho Dero,1/1/1990,12/31/9999,4,243682,3,Asia:Pakistan:SINDH:Khairpur:Sobho Dero,9/26/2013,NA\dharding,
+173184,Kingri,1/1/1990,12/31/9999,4,243685,3,Asia:Pakistan:SINDH:Khairpur:Kingri,9/26/2013,NA\dharding,
+173185,Gambat,1/1/1990,12/31/9999,4,243688,3,Asia:Pakistan:SINDH:Khairpur:Gambat,9/26/2013,NA\dharding,
+173186,Daulatpur,1/1/1990,12/31/9999,4,243794,3,Asia:Pakistan:SINDH:Sbenazirabad:Daulatpur,9/26/2013,NA\dharding,
+173187,Sakrand,1/1/1990,12/31/9999,4,243904,3,Asia:Pakistan:SINDH:Sbenazirabad:Sakrand,9/26/2013,NA\dharding,
+173188,Nawabshah,1/1/1990,12/31/9999,4,243990,3,Asia:Pakistan:SINDH:Sbenazirabad:Nawabshah,9/26/2013,NA\dharding,
+173189,Dour,1/1/1990,12/31/9999,4,243991,3,Asia:Pakistan:SINDH:Sbenazirabad:Dour,9/26/2013,NA\dharding,
+173190,Bhirya,1/1/1990,12/31/9999,4,243676,3,Asia:Pakistan:SINDH:Nferoz:Bhirya,9/26/2013,NA\dharding,
+173191,Moro,1/1/1990,12/31/9999,4,243678,3,Asia:Pakistan:SINDH:Nferoz:Moro,9/26/2013,NA\dharding,
+173192,Nferoze,1/1/1990,12/31/9999,4,243679,3,Asia:Pakistan:SINDH:Nferoz:Nferoze,9/26/2013,NA\dharding,
+173193,Kandyaro,1/1/1990,12/31/9999,4,243687,3,Asia:Pakistan:SINDH:Nferoz:Kandyaro,9/26/2013,NA\dharding,
+173194,Ratodero,1/1/1990,12/31/9999,4,243691,3,Asia:Pakistan:SINDH:Larkana:Ratodero,9/26/2013,NA\dharding,
+173195,Larkana,1/1/1990,12/31/9999,4,243692,3,Asia:Pakistan:SINDH:Larkana:Larkana,9/26/2013,NA\dharding,
+173196,Dokri,1/1/1990,12/31/9999,4,243973,3,Asia:Pakistan:SINDH:Larkana:Dokri,9/26/2013,NA\dharding,
+173197,Bakrani,1/1/1990,12/31/9999,4,243974,3,Asia:Pakistan:SINDH:Larkana:Bakrani,9/26/2013,NA\dharding,
+173198,Shikarpur,1/1/1990,12/31/9999,4,243683,3,Asia:Pakistan:SINDH:Shikarpur:Shikarpur,9/26/2013,NA\dharding,
+173199,Ghari Yaseen,1/1/1990,12/31/9999,4,243686,3,Asia:Pakistan:SINDH:Shikarpur:Ghari Yaseen,9/26/2013,NA\dharding,
+173200,Lakhi,1/1/1990,12/31/9999,4,243760,3,Asia:Pakistan:SINDH:Shikarpur:Lakhi,9/26/2013,NA\dharding,
+173201,Khanpur Taluka,1/1/1990,12/31/9999,4,243764,3,Asia:Pakistan:SINDH:Shikarpur:Khanpur Taluka,9/26/2013,NA\dharding,
+173202,Jacobabad,1/1/1990,12/31/9999,4,243684,3,Asia:Pakistan:SINDH:Jacobabad:Jacobabad,9/26/2013,NA\dharding,
+173203,Garhi Khairo,1/1/1990,12/31/9999,4,243690,3,Asia:Pakistan:SINDH:Jacobabad:Garhi Khairo,9/26/2013,NA\dharding,
+173204,Thul,1/1/1990,12/31/9999,4,243763,3,Asia:Pakistan:SINDH:Jacobabad:Thul,9/26/2013,NA\dharding,
+173205,Kashmore,1/1/1990,12/31/9999,4,243895,3,Asia:Pakistan:SINDH:Kashmore:Kashmore,9/26/2013,NA\dharding,
+173206,Kandhkot,1/1/1990,12/31/9999,4,243975,3,Asia:Pakistan:SINDH:Kashmore:Kandhkot,9/26/2013,NA\dharding,
+173207,Tangwani,1/1/1990,12/31/9999,4,243976,3,Asia:Pakistan:SINDH:Kashmore:Tangwani,9/26/2013,NA\dharding,
+173208,Kambar,1/1/1990,12/31/9999,4,243695,3,Asia:Pakistan:SINDH:Kambar:Kambar,9/26/2013,NA\dharding,
+173209,Warah,1/1/1990,12/31/9999,4,243967,3,Asia:Pakistan:SINDH:Kambar:Warah,9/26/2013,NA\dharding,
+173210,Nasirabad,1/1/1990,12/31/9999,4,243968,3,Asia:Pakistan:SINDH:Kambar:Nasirabad,9/26/2013,NA\dharding,
+173211,Qubosaeedkhan,1/1/1990,12/31/9999,4,243969,3,Asia:Pakistan:SINDH:Kambar:Qubosaeedkhan,9/26/2013,NA\dharding,
+173212,Shahdad Kot,1/1/1990,12/31/9999,4,243970,3,Asia:Pakistan:SINDH:Kambar:Shahdad Kot,9/26/2013,NA\dharding,
+173213,Miro Khan,1/1/1990,12/31/9999,4,243971,3,Asia:Pakistan:SINDH:Kambar:Miro Khan,9/26/2013,NA\dharding,
+173214,Sijawal,1/1/1990,12/31/9999,4,243972,3,Asia:Pakistan:SINDH:Kambar:Sijawal,9/26/2013,NA\dharding,
+173215,Baldia,1/1/1990,12/31/9999,4,243927,3,Asia:Pakistan:SINDH:KHIBALDIA:Baldia,9/26/2013,NA\dharding,
+173216,Bin Qasim,1/1/1990,12/31/9999,4,243934,3,Asia:Pakistan:SINDH:KHIBINQASIM:Bin Qasim,9/26/2013,NA\dharding,
+173217,Gaddap,1/1/1990,12/31/9999,4,243936,3,Asia:Pakistan:SINDH:KHIGADAP:Gaddap,9/26/2013,NA\dharding,
+173218,Gulberg,1/1/1990,12/31/9999,4,243923,3,Asia:Pakistan:SINDH:KHIGULBERG:Gulberg,9/26/2013,NA\dharding,
+173219,Gulshan-e Iqbal,1/1/1990,12/31/9999,4,243922,3,Asia:Pakistan:SINDH:KHIGIQBAL:Gulshan-e Iqbal,9/26/2013,NA\dharding,
+173220,Jamsheed,1/1/1990,12/31/9999,4,243921,3,Asia:Pakistan:SINDH:KHIJAMSHEED:Jamsheed,9/26/2013,NA\dharding,
+173221,Korangi,1/1/1990,12/31/9999,4,243920,3,Asia:Pakistan:SINDH:KHIKORANGI:Korangi,9/26/2013,NA\dharding,
+173222,Landi,1/1/1990,12/31/9999,4,243919,3,Asia:Pakistan:SINDH:KHILANDHI:Landi,9/26/2013,NA\dharding,
+173223,Liaqatabad,1/1/1990,12/31/9999,4,243928,3,Asia:Pakistan:SINDH:KHILIAQAT:Liaqatabad,9/26/2013,NA\dharding,
+173224,Layari,1/1/1990,12/31/9999,4,243930,3,Asia:Pakistan:SINDH:KHILAYARI:Layari,9/26/2013,NA\dharding,
+173225,Malir,1/1/1990,12/31/9999,4,243932,3,Asia:Pakistan:SINDH:KHIMALIR:Malir,9/26/2013,NA\dharding,
+173226,North,1/1/1990,12/31/9999,4,243924,3,Asia:Pakistan:SINDH:KHINORTH:North,9/26/2013,NA\dharding,
+173227,N-Nazimabad,1/1/1990,12/31/9999,4,243925,3,Asia:Pakistan:SINDH:KHINNAZIM:N-Nazimabad,9/26/2013,NA\dharding,
+173228,Orangi,1/1/1990,12/31/9999,4,243926,3,Asia:Pakistan:SINDH:KHIORANGI:Orangi,9/26/2013,NA\dharding,
+173229,Shah Faisal,1/1/1990,12/31/9999,4,243933,3,Asia:Pakistan:SINDH:KHISHAHFAISAL:Shah Faisal,9/26/2013,NA\dharding,
+173230,Saddar,1/1/1990,12/31/9999,4,243931,3,Asia:Pakistan:SINDH:KHISADDAR:Saddar,9/26/2013,NA\dharding,
+173231,Site,1/1/1990,12/31/9999,4,243929,3,Asia:Pakistan:SINDH:KHISITE:Site,9/26/2013,NA\dharding,
+173232,Abbottabad,1/1/1990,12/31/9999,4,243948,3,Asia:Pakistan:KP:Abotabad:Abbottabad,9/26/2013,NA\dharding,
+173233,Havelian,1/1/1990,12/31/9999,4,243949,3,Asia:Pakistan:KP:Abotabad:Havelian,9/26/2013,NA\dharding,
+173234,Batagram,1/1/1990,12/31/9999,4,243630,3,Asia:Pakistan:KP:Batagram:Batagram,9/26/2013,NA\dharding,
+173235,Allai,1/1/1990,12/31/9999,4,243698,3,Asia:Pakistan:KP:Batagram:Allai,9/26/2013,NA\dharding,
+173236,Haripur,1/1/1990,12/31/9999,4,243701,3,Asia:Pakistan:KP:Haripur:Haripur,9/26/2013,NA\dharding,
+173237,Ghazi,1/1/1990,12/31/9999,4,243725,3,Asia:Pakistan:KP:Haripur:Ghazi,9/26/2013,NA\dharding,
+173238,Pattan,1/1/1990,12/31/9999,4,243634,3,Asia:Pakistan:KP:Kohistan:Pattan,9/26/2013,NA\dharding,
+173239,Palas,1/1/1990,12/31/9999,4,243699,3,Asia:Pakistan:KP:Kohistan:Palas,9/26/2013,NA\dharding,
+173240,Dassu,1/1/1990,12/31/9999,4,243700,3,Asia:Pakistan:KP:Kohistan:Dassu,9/26/2013,NA\dharding,
+173241,Oghi,1/1/1990,12/31/9999,4,243629,3,Asia:Pakistan:KP:Mansehra:Oghi,9/26/2013,NA\dharding,
+173242,Mansehra,1/1/1990,12/31/9999,4,243702,3,Asia:Pakistan:KP:Mansehra:Mansehra,9/26/2013,NA\dharding,
+173243,Bala Kot,1/1/1990,12/31/9999,4,243712,3,Asia:Pakistan:KP:Mansehra:Bala Kot,9/26/2013,NA\dharding,
+173244,Torghar,1/1/1990,12/31/9999,4,244006,3,Asia:Pakistan:KP:Torghar:Torghar,9/26/2013,NA\dharding,
+173245,Dargai,1/1/1990,12/31/9999,4,243726,3,Asia:Pakistan:KP:Malakand:Dargai,9/26/2013,NA\dharding,
+173246,Batkhela,1/1/1990,12/31/9999,4,243732,3,Asia:Pakistan:KP:Malakand:Batkhela,9/26/2013,NA\dharding,
+173247,Chitral,1/1/1990,12/31/9999,4,243633,3,Asia:Pakistan:KP:Chitral:Chitral,9/26/2013,NA\dharding,
+173248,Mastuj,1/1/1990,12/31/9999,4,243636,3,Asia:Pakistan:KP:Chitral:Mastuj,9/26/2013,NA\dharding,
+173249,Sowarai,1/1/1990,12/31/9999,4,243988,3,Asia:Pakistan:KP:Bunir:Sowarai,9/26/2013,NA\dharding,
+173250,Daggar,1/1/1990,12/31/9999,4,243989,3,Asia:Pakistan:KP:Bunir:Daggar,9/26/2013,NA\dharding,
+173251,Samarbagh,1/1/1990,12/31/9999,4,243628,3,Asia:Pakistan:KP:Dirlower:Samarbagh,9/26/2013,NA\dharding,
+173252,Temergara,1/1/1990,12/31/9999,4,243632,3,Asia:Pakistan:KP:Dirlower:Temergara,9/26/2013,NA\dharding,
+173253,Swat,1/1/1990,12/31/9999,4,243905,3,Asia:Pakistan:KP:Swat:Swat,9/26/2013,NA\dharding,
+173254,Matta,1/1/1990,12/31/9999,4,243906,3,Asia:Pakistan:KP:Swat:Matta,9/26/2013,NA\dharding,
+173255,DIR,1/1/1990,12/31/9999,4,243907,3,Asia:Pakistan:KP:Dirupper:DIR,9/26/2013,NA\dharding,
+173256,Wari,1/1/1990,12/31/9999,4,243908,3,Asia:Pakistan:KP:Dirupper:Wari,9/26/2013,NA\dharding,
+173257,Puran,1/1/1990,12/31/9999,4,243986,3,Asia:Pakistan:KP:Shangla:Puran,9/26/2013,NA\dharding,
+173258,Alpuri,1/1/1990,12/31/9999,4,243987,3,Asia:Pakistan:KP:Shangla:Alpuri,9/26/2013,NA\dharding,
+173259,Peshawar,1/1/1990,12/31/9999,4,243739,3,Asia:Pakistan:KP:Peshawar:Peshawar,9/26/2013,NA\dharding,
+173260,FR Peshawar,1/1/1990,12/31/9999,4,243740,3,Asia:Pakistan:KP:Peshawar:FR Peshawar,9/26/2013,NA\dharding,
+173261,Tangi,1/1/1990,12/31/9999,4,243733,3,Asia:Pakistan:KP:Charsada:Tangi,9/26/2013,NA\dharding,
+173262,Charsada,1/1/1990,12/31/9999,4,243737,3,Asia:Pakistan:KP:Charsada:Charsada,9/26/2013,NA\dharding,
+173263,Nowshera,1/1/1990,12/31/9999,4,243738,3,Asia:Pakistan:KP:Nowshera:Nowshera,9/26/2013,NA\dharding,
+173264,Takht Bhai,1/1/1990,12/31/9999,4,243731,3,Asia:Pakistan:KP:Mardan:Takht Bhai,9/26/2013,NA\dharding,
+173265,Mardan,1/1/1990,12/31/9999,4,243736,3,Asia:Pakistan:KP:Mardan:Mardan,9/26/2013,NA\dharding,
+173266,Swabi,1/1/1990,12/31/9999,4,243727,3,Asia:Pakistan:KP:Swabi:Swabi,9/26/2013,NA\dharding,
+173267,Lahor,1/1/1990,12/31/9999,4,243734,3,Asia:Pakistan:KP:Swabi:Lahor,9/26/2013,NA\dharding,
+173268,FR Kohat,1/1/1990,12/31/9999,4,243741,3,Asia:Pakistan:KP:Kohat:FR Kohat,9/26/2013,NA\dharding,
+173269,Kohat,1/1/1990,12/31/9999,4,243979,3,Asia:Pakistan:KP:Kohat:Kohat,9/26/2013,NA\dharding,
+173270,B D Shah,1/1/1990,12/31/9999,4,243751,3,Asia:Pakistan:KP:Karak:B D Shah,9/26/2013,NA\dharding,
+173271,Karak,1/1/1990,12/31/9999,4,243902,3,Asia:Pakistan:KP:Karak:Karak,9/26/2013,NA\dharding,
+173272,Hangu,1/1/1990,12/31/9999,4,243752,3,Asia:Pakistan:KP:Hangu:Hangu,9/26/2013,NA\dharding,
+173273,Paharpur,1/1/1990,12/31/9999,4,243753,3,Asia:Pakistan:KP:DIKhan:Paharpur,9/26/2013,NA\dharding,
+173274,FR DIKhan,1/1/1990,12/31/9999,4,243766,3,Asia:Pakistan:KP:DIKhan:FR DIKhan,9/26/2013,NA\dharding,
+173275,Kulachi,1/1/1990,12/31/9999,4,243982,3,Asia:Pakistan:KP:DIKhan:Kulachi,9/26/2013,NA\dharding,
+173276,Draban,1/1/1990,12/31/9999,4,243983,3,Asia:Pakistan:KP:DIKhan:Draban,9/26/2013,NA\dharding,
+173277,Paroa,1/1/1990,12/31/9999,4,243984,3,Asia:Pakistan:KP:DIKhan:Paroa,9/26/2013,NA\dharding,
+173278,DIKhan,1/1/1990,12/31/9999,4,243985,3,Asia:Pakistan:KP:DIKhan:DIKhan,9/26/2013,NA\dharding,
+173279,FR Bannu,1/1/1990,12/31/9999,4,243757,3,Asia:Pakistan:KP:Bannu:FR Bannu,9/26/2013,NA\dharding,
+173280,Bannu,1/1/1990,12/31/9999,4,243758,3,Asia:Pakistan:KP:Bannu:Bannu,9/26/2013,NA\dharding,
+173281,FR Lakki,1/1/1990,12/31/9999,4,243915,3,Asia:Pakistan:KP:Lakkimrwt:FR Lakki,9/26/2013,NA\dharding,
+173282,Lakki Marwat,1/1/1990,12/31/9999,4,243916,3,Asia:Pakistan:KP:Lakkimrwt:Lakki Marwat,9/26/2013,NA\dharding,
+173283,Tank,1/1/1990,12/31/9999,4,243755,3,Asia:Pakistan:KP:Tank:Tank,9/26/2013,NA\dharding,
+173284,FRTank,1/1/1990,12/31/9999,4,243756,3,Asia:Pakistan:KP:Tank:FRTank,9/26/2013,NA\dharding,
+173285,Barang,1/1/1990,12/31/9999,4,243812,3,Asia:Pakistan:FATA:Bajour:Barang,9/26/2013,NA\dharding,
+173286,Utman Khel,1/1/1990,12/31/9999,4,243813,3,Asia:Pakistan:FATA:Bajour:Utman Khel,9/26/2013,NA\dharding,
+173287,Salarzai,1/1/1990,12/31/9999,4,243814,3,Asia:Pakistan:FATA:Bajour:Salarzai,9/26/2013,NA\dharding,
+173288,Khar Bajaur,1/1/1990,12/31/9999,4,243815,3,Asia:Pakistan:FATA:Bajour:Khar Bajaur,9/26/2013,NA\dharding,
+173289,Mamund,1/1/1990,12/31/9999,4,243816,3,Asia:Pakistan:FATA:Bajour:Mamund,9/26/2013,NA\dharding,
+173290,Bar Chamer Kand,1/1/1990,12/31/9999,4,243817,3,Asia:Pakistan:FATA:Bajour:Bar Chamer Kand,9/26/2013,NA\dharding,
+173291,Nawagai,1/1/1990,12/31/9999,4,243818,3,Asia:Pakistan:FATA:Bajour:Nawagai,9/26/2013,NA\dharding,
+173292,Bara,1/1/1990,12/31/9999,4,243826,3,Asia:Pakistan:FATA:Khyber:Bara,9/26/2013,NA\dharding,
+173293,Landi Kotal,1/1/1990,12/31/9999,4,243903,3,Asia:Pakistan:FATA:Khyber:Landi Kotal,9/26/2013,NA\dharding,
+173294,Tirah,1/1/1990,12/31/9999,4,243910,3,Asia:Pakistan:FATA:Khyber:Tirah,9/26/2013,NA\dharding,
+173295,Jamrud,1/1/1990,12/31/9999,4,243911,3,Asia:Pakistan:FATA:Khyber:Jamrud,9/26/2013,NA\dharding,
+173296,Yake Ghund,1/1/1990,12/31/9999,4,243819,3,Asia:Pakistan:FATA:Mohmand:Yake Ghund,9/26/2013,NA\dharding,
+173297,Prang Ghar,1/1/1990,12/31/9999,4,243820,3,Asia:Pakistan:FATA:Mohmand:Prang Ghar,9/26/2013,NA\dharding,
+173298,Ambar Utman,1/1/1990,12/31/9999,4,243821,3,Asia:Pakistan:FATA:Mohmand:Ambar Utman,9/26/2013,NA\dharding,
+173299,Safi,1/1/1990,12/31/9999,4,243822,3,Asia:Pakistan:FATA:Mohmand:Safi,9/26/2013,NA\dharding,
+173300,Upper Mohammad,1/1/1990,12/31/9999,4,243823,3,Asia:Pakistan:FATA:Mohmand:Upper Mohammad,9/26/2013,NA\dharding,
+173301,Halim Zai,1/1/1990,12/31/9999,4,243824,3,Asia:Pakistan:FATA:Mohmand:Halim Zai,9/26/2013,NA\dharding,
+173302,Pindiali,1/1/1990,12/31/9999,4,243825,3,Asia:Pakistan:FATA:Mohmand:Pindiali,9/26/2013,NA\dharding,
+173303,Upper Kuram,1/1/1990,12/31/9999,4,243829,3,Asia:Pakistan:FATA:Kurram:Upper Kuram,9/26/2013,NA\dharding,
+173305,Lower Kurram,1/1/1990,12/31/9999,4,243831,3,Asia:Pakistan:FATA:Kurram:Lower Kurram,9/26/2013,NA\dharding,
+173306,Lower,1/1/1990,12/31/9999,4,243827,3,Asia:Pakistan:FATA:Orakzai:Lower,9/26/2013,NA\dharding,
+173307,Central,1/1/1990,12/31/9999,4,243828,3,Asia:Pakistan:FATA:Orakzai:Central,9/26/2013,NA\dharding,
+173308,Upper,1/1/1990,12/31/9999,4,243909,3,Asia:Pakistan:FATA:Orakzai:Upper,9/26/2013,NA\dharding,
+173309,Razmak,1/1/1990,12/31/9999,4,243900,3,Asia:Pakistan:FATA:Wazir-n:Razmak,9/26/2013,NA\dharding,
+173310,Miran Shah,1/1/1990,12/31/9999,4,243901,3,Asia:Pakistan:FATA:Wazir-n:Miran Shah,9/26/2013,NA\dharding,
+173311,Mir Ali,1/1/1990,12/31/9999,4,243912,3,Asia:Pakistan:FATA:Wazir-n:Mir Ali,9/26/2013,NA\dharding,
+173312,Ladha,1/1/1990,12/31/9999,4,243899,3,Asia:Pakistan:FATA:Wazir-s:Ladha,9/26/2013,NA\dharding,
+173313,Wana,1/1/1990,12/31/9999,4,243913,3,Asia:Pakistan:FATA:Wazir-s:Wana,9/26/2013,NA\dharding,
+173314,Birmal,1/1/1990,12/31/9999,4,243914,3,Asia:Pakistan:FATA:Wazir-s:Birmal,9/26/2013,NA\dharding,
+251057,CDA,1/1/1990,12/31/9999,4,243562,2,Asia:Pakistan:ISLAMABAD:CDA,1/2/2014,dharding,Initial Postgresql Load
+251058,ICT,1/1/1990,12/31/9999,4,243563,2,Asia:Pakistan:ISLAMABAD:ICT,1/2/2014,dharding,Initial Postgresql Load
+251060,Skardu,1/1/1990,12/31/9999,4,243556,2,Asia:Pakistan:GB:Skardu,1/2/2014,dharding,Initial Postgresql Load
+251063,Astore,1/1/1990,12/31/9999,4,243560,2,Asia:Pakistan:GB:Astore,1/2/2014,dharding,Initial Postgresql Load
+251064,Gilgit,1/1/1990,12/31/9999,4,243555,2,Asia:Pakistan:GB:Gilgit,1/2/2014,dharding,Initial Postgresql Load
+251068,Thatta,1/1/1990,12/31/9999,4,243452,2,Asia:Pakistan:SINDH:Thatta,1/2/2014,dharding,Initial Postgresql Load
+251069,Badin,1/1/1990,12/31/9999,4,243453,2,Asia:Pakistan:SINDH:Badin,1/2/2014,dharding,Initial Postgresql Load
+251070,Dadu,1/1/1990,12/31/9999,4,243454,2,Asia:Pakistan:SINDH:Dadu,1/2/2014,dharding,Initial Postgresql Load
+251072,TMKhan,1/1/1990,12/31/9999,4,243456,2,Asia:Pakistan:SINDH:TMKhan,1/2/2014,dharding,Initial Postgresql Load
+251074,Matiari,1/1/1990,12/31/9999,4,243458,2,Asia:Pakistan:SINDH:Matiari,1/2/2014,dharding,Initial Postgresql Load
+251179,Bhimber,1/1/1990,12/31/9999,4,243551,2,Asia:Pakistan:AJK:Bhimber,1/2/2014,dharding,Initial Postgresql Load
+251190,Batagram,1/1/1990,12/31/9999,4,243491,2,Asia:Pakistan:KP:Batagram,1/2/2014,dharding,Initial Postgresql Load
+251191,Haripur,1/1/1990,12/31/9999,4,243492,2,Asia:Pakistan:KP:Haripur,1/2/2014,dharding,Initial Postgresql Load
+251193,Mansehra,1/1/1990,12/31/9999,4,243494,2,Asia:Pakistan:KP:Mansehra,1/2/2014,dharding,Initial Postgresql Load
+251194,Torghar,1/1/1990,12/31/9999,4,243495,2,Asia:Pakistan:KP:Torghar,1/2/2014,dharding,Initial Postgresql Load
+251196,Chitral,1/1/1990,12/31/9999,4,243497,2,Asia:Pakistan:KP:Chitral,1/2/2014,dharding,Initial Postgresql Load
+251199,Swat,1/1/1990,12/31/9999,4,243500,2,Asia:Pakistan:KP:Swat,1/2/2014,dharding,Initial Postgresql Load
+251202,Peshawar,1/1/1990,12/31/9999,4,243503,2,Asia:Pakistan:KP:Peshawar,1/2/2014,dharding,Initial Postgresql Load
+251203,Charsada,1/1/1990,12/31/9999,4,243504,2,Asia:Pakistan:KP:Charsada,1/2/2014,dharding,Initial Postgresql Load
+251204,Nowshera,1/1/1990,12/31/9999,4,243505,2,Asia:Pakistan:KP:Nowshera,1/2/2014,dharding,Initial Postgresql Load
+251205,Mardan,1/1/1990,12/31/9999,4,243506,2,Asia:Pakistan:KP:Mardan,1/2/2014,dharding,Initial Postgresql Load
+251206,Swabi,1/1/1990,12/31/9999,4,243507,2,Asia:Pakistan:KP:Swabi,1/2/2014,dharding,Initial Postgresql Load
+251207,Kohat,1/1/1990,12/31/9999,4,243508,2,Asia:Pakistan:KP:Kohat,1/2/2014,dharding,Initial Postgresql Load
+251208,Karak,1/1/1990,12/31/9999,4,243509,2,Asia:Pakistan:KP:Karak,1/2/2014,dharding,Initial Postgresql Load
+251209,Hangu,1/1/1990,12/31/9999,4,243510,2,Asia:Pakistan:KP:Hangu,1/2/2014,dharding,Initial Postgresql Load
+251210,DIKhan,1/1/1990,12/31/9999,4,243511,2,Asia:Pakistan:KP:DIKhan,1/2/2014,dharding,Initial Postgresql Load
+251211,Bannu,1/1/1990,12/31/9999,4,243512,2,Asia:Pakistan:KP:Bannu,1/2/2014,dharding,Initial Postgresql Load
+251213,Tank,1/1/1990,12/31/9999,4,243514,2,Asia:Pakistan:KP:Tank,1/2/2014,dharding,Initial Postgresql Load
+251075,Mirpurkhas,1/1/1990,12/31/9999,4,243459,2,Asia:Pakistan:SINDH:Mirpurkhas,1/2/2014,dharding,Initial Postgresql Load
+251076,Sanghar,1/1/1990,12/31/9999,4,243460,2,Asia:Pakistan:SINDH:Sanghar,1/2/2014,dharding,Initial Postgresql Load
+251079,Sukkur,1/1/1990,12/31/9999,4,243463,2,Asia:Pakistan:SINDH:Sukkur,1/2/2014,dharding,Initial Postgresql Load
+251080,Ghotki,1/1/1990,12/31/9999,4,243464,2,Asia:Pakistan:SINDH:Ghotki,1/2/2014,dharding,Initial Postgresql Load
+251081,Khairpur,1/1/1990,12/31/9999,4,243465,2,Asia:Pakistan:SINDH:Khairpur,1/2/2014,dharding,Initial Postgresql Load
+251084,Larkana,1/1/1990,12/31/9999,4,243468,2,Asia:Pakistan:SINDH:Larkana,1/2/2014,dharding,Initial Postgresql Load
+251085,Shikarpur,1/1/1990,12/31/9999,4,243469,2,Asia:Pakistan:SINDH:Shikarpur,1/2/2014,dharding,Initial Postgresql Load
+251086,Jacobabad,1/1/1990,12/31/9999,4,243470,2,Asia:Pakistan:SINDH:Jacobabad,1/2/2014,dharding,Initial Postgresql Load
+251087,Kashmore,1/1/1990,12/31/9999,4,243471,2,Asia:Pakistan:SINDH:Kashmore,1/2/2014,dharding,Initial Postgresql Load
+251088,Kambar,1/1/1990,12/31/9999,4,243472,2,Asia:Pakistan:SINDH:Kambar,1/2/2014,dharding,Initial Postgresql Load
+251106,Sibi,1/1/1990,12/31/9999,4,243526,2,Asia:Pakistan:BALOCHISTAN:Sibi,1/2/2014,dharding,Initial Postgresql Load
+251107,Noshki,1/1/1990,12/31/9999,4,243519,2,Asia:Pakistan:BALOCHISTAN:Noshki,1/2/2014,dharding,Initial Postgresql Load
+251108,Zhob,1/1/1990,12/31/9999,4,243520,2,Asia:Pakistan:BALOCHISTAN:Zhob,1/2/2014,dharding,Initial Postgresql Load
+251110,Pishin,1/1/1990,12/31/9999,4,243516,2,Asia:Pakistan:BALOCHISTAN:Pishin,1/2/2014,dharding,Initial Postgresql Load
+251113,Loralai,1/1/1990,12/31/9999,4,243521,2,Asia:Pakistan:BALOCHISTAN:Loralai,1/2/2014,dharding,Initial Postgresql Load
+251114,Barkhan,1/1/1990,12/31/9999,4,243522,2,Asia:Pakistan:BALOCHISTAN:Barkhan,1/2/2014,dharding,Initial Postgresql Load
+251115,Musakhel,1/1/1990,12/31/9999,4,243523,2,Asia:Pakistan:BALOCHISTAN:Musakhel,1/2/2014,dharding,Initial Postgresql Load
+251118,Ziarat,1/1/1990,12/31/9999,4,243527,2,Asia:Pakistan:BALOCHISTAN:Ziarat,1/2/2014,dharding,Initial Postgresql Load
+251119,Harnai,1/1/1990,12/31/9999,4,243528,2,Asia:Pakistan:BALOCHISTAN:Harnai,1/2/2014,dharding,Initial Postgresql Load
+251120,Kohlu,1/1/1990,12/31/9999,4,243529,2,Asia:Pakistan:BALOCHISTAN:Kohlu,1/2/2014,dharding,Initial Postgresql Load
+251126,Mastung,1/1/1990,12/31/9999,4,243535,2,Asia:Pakistan:BALOCHISTAN:Mastung,1/2/2014,dharding,Initial Postgresql Load
+251127,Kharan,1/1/1990,12/31/9999,4,243536,2,Asia:Pakistan:BALOCHISTAN:Kharan,1/2/2014,dharding,Initial Postgresql Load
+251128,Kalat,1/1/1990,12/31/9999,4,243537,2,Asia:Pakistan:BALOCHISTAN:Kalat,1/2/2014,dharding,Initial Postgresql Load
+251129,Khuzdar,1/1/1990,12/31/9999,4,243538,2,Asia:Pakistan:BALOCHISTAN:Khuzdar,1/2/2014,dharding,Initial Postgresql Load
+251131,Awaran,1/1/1990,12/31/9999,4,243540,2,Asia:Pakistan:BALOCHISTAN:Awaran,1/2/2014,dharding,Initial Postgresql Load
+251132,Washuk,1/1/1990,12/31/9999,4,243541,2,Asia:Pakistan:BALOCHISTAN:Washuk,1/2/2014,dharding,Initial Postgresql Load
+251133,Kech,1/1/1990,12/31/9999,4,243542,2,Asia:Pakistan:BALOCHISTAN:Kech,1/2/2014,dharding,Initial Postgresql Load
+251136,Rawalpindi,1/1/1990,12/31/9999,4,243414,2,Asia:Pakistan:PUNJAB:Rawalpindi,1/2/2014,dharding,Initial Postgresql Load
+251137,Attock,1/1/1990,12/31/9999,4,243415,2,Asia:Pakistan:PUNJAB:Attock,1/2/2014,dharding,Initial Postgresql Load
+251138,Chakwal,1/1/1990,12/31/9999,4,243416,2,Asia:Pakistan:PUNJAB:Chakwal,1/2/2014,dharding,Initial Postgresql Load
+251139,Jhelum,1/1/1990,12/31/9999,4,243417,2,Asia:Pakistan:PUNJAB:Jhelum,1/2/2014,dharding,Initial Postgresql Load
+251141,Hafizabad,1/1/1990,12/31/9999,4,243419,2,Asia:Pakistan:PUNJAB:Hafizabad,1/2/2014,dharding,Initial Postgresql Load
+251142,Gujrat,1/1/1990,12/31/9999,4,243420,2,Asia:Pakistan:PUNJAB:Gujrat,1/2/2014,dharding,Initial Postgresql Load
+251143,Mbdin,1/1/1990,12/31/9999,4,243421,2,Asia:Pakistan:PUNJAB:Mbdin,1/2/2014,dharding,Initial Postgresql Load
+251144,Sialkot,1/1/1990,12/31/9999,4,243422,2,Asia:Pakistan:PUNJAB:Sialkot,1/2/2014,dharding,Initial Postgresql Load
+251145,Narowal,1/1/1990,12/31/9999,4,243423,2,Asia:Pakistan:PUNJAB:Narowal,1/2/2014,dharding,Initial Postgresql Load
+251147,Kasur,1/1/1990,12/31/9999,4,243425,2,Asia:Pakistan:PUNJAB:Kasur,1/2/2014,dharding,Initial Postgresql Load
+251148,Sheikupura,1/1/1990,12/31/9999,4,243426,2,Asia:Pakistan:PUNJAB:Sheikupura,1/2/2014,dharding,Initial Postgresql Load
+251149,Okara,1/1/1990,12/31/9999,4,243427,2,Asia:Pakistan:PUNJAB:Okara,1/2/2014,dharding,Initial Postgresql Load
+251150,Nankanasahib,1/1/1990,12/31/9999,4,243428,2,Asia:Pakistan:PUNJAB:Nankanasahib,1/2/2014,dharding,Initial Postgresql Load
+251151,Sargodha,1/1/1990,12/31/9999,4,243429,2,Asia:Pakistan:PUNJAB:Sargodha,1/2/2014,dharding,Initial Postgresql Load
+251152,Khushab,1/1/1990,12/31/9999,4,243430,2,Asia:Pakistan:PUNJAB:Khushab,1/2/2014,dharding,Initial Postgresql Load
+251153,Mianwali,1/1/1990,12/31/9999,4,243431,2,Asia:Pakistan:PUNJAB:Mianwali,1/2/2014,dharding,Initial Postgresql Load
+251154,Bhakkar,1/1/1990,12/31/9999,4,243432,2,Asia:Pakistan:PUNJAB:Bhakkar,1/2/2014,dharding,Initial Postgresql Load
+251157,Jhang,1/1/1990,12/31/9999,4,243435,2,Asia:Pakistan:PUNJAB:Jhang,1/2/2014,dharding,Initial Postgresql Load
+251158,Chiniot,1/1/1990,12/31/9999,4,243436,2,Asia:Pakistan:PUNJAB:Chiniot,1/2/2014,dharding,Initial Postgresql Load
+251160,Khanewal,1/1/1990,12/31/9999,4,243438,2,Asia:Pakistan:PUNJAB:Khanewal,1/2/2014,dharding,Initial Postgresql Load
+251161,Vehari,1/1/1990,12/31/9999,4,243439,2,Asia:Pakistan:PUNJAB:Vehari,1/2/2014,dharding,Initial Postgresql Load
+251162,Lodhran,1/1/1990,12/31/9999,4,243440,2,Asia:Pakistan:PUNJAB:Lodhran,1/2/2014,dharding,Initial Postgresql Load
+251163,Sahiwal,1/1/1990,12/31/9999,4,243441,2,Asia:Pakistan:PUNJAB:Sahiwal,1/2/2014,dharding,Initial Postgresql Load
+251165,Bahawalpur,1/1/1990,12/31/9999,4,243443,2,Asia:Pakistan:PUNJAB:Bahawalpur,1/2/2014,dharding,Initial Postgresql Load
+251166,RYKhan,1/1/1990,12/31/9999,4,243444,2,Asia:Pakistan:PUNJAB:RYKhan,1/2/2014,dharding,Initial Postgresql Load
+251168,DGKhan,1/1/1990,12/31/9999,4,243446,2,Asia:Pakistan:PUNJAB:DGKhan,1/2/2014,dharding,Initial Postgresql Load
+251169,Rajanpur,1/1/1990,12/31/9999,4,243447,2,Asia:Pakistan:PUNJAB:Rajanpur,1/2/2014,dharding,Initial Postgresql Load
+251172,Hattian,1/1/1990,12/31/9999,4,243554,2,Asia:Pakistan:AJK:Hattian,1/2/2014,dharding,Initial Postgresql Load
+251173,Muzaffarabad,1/1/1990,12/31/9999,4,243545,2,Asia:Pakistan:AJK:Muzaffarabad,1/2/2014,dharding,Initial Postgresql Load
+251174,Mirpur,1/1/1990,12/31/9999,4,243546,2,Asia:Pakistan:AJK:Mirpur,1/2/2014,dharding,Initial Postgresql Load
+251175,Kotli,1/1/1990,12/31/9999,4,243547,2,Asia:Pakistan:AJK:Kotli,1/2/2014,dharding,Initial Postgresql Load
+251177,Bagh,1/1/1990,12/31/9999,4,243549,2,Asia:Pakistan:AJK:Bagh,1/2/2014,dharding,Initial Postgresql Load
+251178,Haveli,1/1/1990,12/31/9999,4,243550,2,Asia:Pakistan:AJK:Haveli,1/2/2014,dharding,Initial Postgresql Load
+251465,Sahiwal,1/1/1990,12/31/9999,4,243675,3,Asia:Pakistan:PUNJAB:Sargodha:Sahiwal,1/2/2014,dharding,Initial Postgresql Load
+251521,Dasht,1/1/1990,12/31/9999,4,243869,3,Asia:Pakistan:BALOCHISTAN:Mastung:Dasht,1/2/2014,dharding,Initial Postgresql Load
+251581,Gulberg,1/1/1990,12/31/9999,4,243997,3,Asia:Pakistan:PUNJAB:Lahore:Gulberg,1/2/2014,dharding,Initial Postgresql Load
+251597,Central,1/1/1990,12/31/9999,4,243830,3,Asia:Pakistan:FATA:Kurram:Central,1/2/2014,dharding,Initial Postgresql Load
+258364,Africa,,,4,243397,,Africa,1/21/2014,dharding,
+335518,North America,1/1/1990,12/31/9999,4,243400,-1,North America,9/2/2015,postgres,Name Cleanup 2015-08-18
+339789,Australia,1/1/1990,12/31/9999,4,243399,-1,Australia,9/2/2015,postgres,Name Cleanup 2015-08-18
+346343,Oceania,1/1/1990,12/31/9999,4,243401,-1,Oceania,9/2/2015,postgres,Name Cleanup 2015-08-18
+350517,South America,1/1/1990,12/31/9999,4,243402,-1,South America,9/2/2015,postgres,Name Cleanup 2015-08-18
+373144,Europe,1/1/1990,12/31/9999,4,243404,-1,Europe,9/2/2015,postgres,Name Cleanup 2015-08-18
+376399,EMEDNames,1/1/1990,12/31/9999,4,243396,-2,EMEDNames,9/2/2015,postgres,Name Cleanup 2015-08-18
+388837,Asia,1/1/1990,12/31/9999,4,243398,-1,Asia,9/2/2015,postgres,Name Cleanup 2015-08-18
+393709,Antarctica,1/1/1990,12/31/9999,4,243403,-1,Antarctica,9/2/2015,postgres,Name Cleanup 2015-08-18
+394373,Quetta City Sub-division,1/1/1990,12/31/9999,4,243892,3,Asia:Pakistan:BALOCHISTAN:Quetta:Quetta city,9/2/2015,postgres,Name Cleanup 2015-08-18
+394528,Sherani Sub-division,1/1/1990,12/31/9999,4,243889,3,Asia:Pakistan:BALOCHISTAN:Sharani:Sherani,9/2/2015,postgres,Name Cleanup 2015-08-18
+394584,BARA TEHSIL,1/1/1990,12/31/9999,4,243826,3,Asia:Pakistan:FATA:Khyber:Bara,9/2/2015,postgres,Name Cleanup 2015-08-18
+394861,PRANG GHAR TEHSIL,1/1/1990,12/31/9999,4,243820,3,Asia:Pakistan:FATA:Mohmand:Prang Ghar,9/2/2015,postgres,Name Cleanup 2015-08-18
+394875,VEHARI TEHSIL,1/1/1990,12/31/9999,4,243594,3,Asia:Pakistan:PUNJAB:Vehari:Vehari,9/2/2015,postgres,Name Cleanup 2015-08-18
+395014,Zhob Sub-division,1/1/1990,12/31/9999,4,243888,3,Asia:Pakistan:BALOCHISTAN:Zhob:Zhob,9/2/2015,postgres,Name Cleanup 2015-08-18
+395154,FORTABBAS TEHSIL,1/1/1990,12/31/9999,4,243771,3,Asia:Pakistan:PUNJAB:Bahwlnagar:Fortabbas,9/2/2015,postgres,Name Cleanup 2015-08-18
+395475,KOTRI TALUKA,1/1/1990,12/31/9999,4,243950,3,Asia:Pakistan:SINDH:Jamshoro:Kotri,9/2/2015,postgres,Name Cleanup 2015-08-18
+395528,GUJAR KHAN TEHSIL,1/1/1990,12/31/9999,4,243658,3,Asia:Pakistan:PUNJAB:Rawalpindi:Gujar Khan,9/2/2015,postgres,Name Cleanup 2015-08-18
+395614,HATTIAN TEHSIL,1/1/1990,12/31/9999,4,243719,3,Asia:Pakistan:AJK:Hattian:Hattian,9/2/2015,postgres,Name Cleanup 2015-08-18
+395679,SEHWAN TALUKA,1/1/1990,12/31/9999,4,243797,3,Asia:Pakistan:SINDH:Jamshoro:Sehwan,9/2/2015,postgres,Name Cleanup 2015-08-18
+395778,ATTOCK TEHSIL,1/1/1990,12/31/9999,4,243735,3,Asia:Pakistan:PUNJAB:Attock:Attock,9/2/2015,postgres,Name Cleanup 2015-08-18
+395806,SANGHAR TALUKA,1/1/1990,12/31/9999,4,243575,3,Asia:Pakistan:SINDH:Sanghar:Sanghar,9/2/2015,postgres,Name Cleanup 2015-08-18
+395869,PATTOKI TEHSIL,1/1/1990,12/31/9999,4,243607,3,Asia:Pakistan:PUNJAB:Kasur:Pattoki,9/2/2015,postgres,Name Cleanup 2015-08-18
+396101,DE-EXCLUDED AREA D.G KHAN,1/1/1990,12/31/9999,4,243777,3,Asia:Pakistan:PUNJAB:DGKhan:De-Excluded A DGK,9/2/2015,postgres,Name Cleanup 2015-08-18
+396164,QASIMABAD TALUKA,1/1/1990,12/31/9999,4,243795,3,Asia:Pakistan:SINDH:Hyderabad:Qasimabad,9/2/2015,postgres,Name Cleanup 2015-08-18
+396222,KHARIAN TEHSIL,1/1/1990,12/31/9999,4,243622,3,Asia:Pakistan:PUNJAB:Gujrat:Kharian,9/2/2015,postgres,Name Cleanup 2015-08-18
+396554,DOKRI TALUKA,1/1/1990,12/31/9999,4,243973,3,Asia:Pakistan:SINDH:Larkana:Dokri,9/2/2015,postgres,Name Cleanup 2015-08-18
+396633,THATTA TALUKA,1/1/1990,12/31/9999,4,243803,3,Asia:Pakistan:SINDH:Thatta:Thatta,9/2/2015,postgres,Name Cleanup 2015-08-18
+396650,TAKHT BHAI TEHSIL,1/1/1990,12/31/9999,4,243731,3,Asia:Pakistan:KP:Mardan:Takht Bhai,9/2/2015,postgres,Name Cleanup 2015-08-18
+396793,MIRPUR BATHORO TALUKA,1/1/1990,12/31/9999,4,243802,3,Asia:Pakistan:SINDH:Thatta:Mirpur Bathoro,9/2/2015,postgres,Name Cleanup 2015-08-18
+396835,NOWSHERA VIRKAN TEHSIL,1/1/1990,12/31/9999,4,243613,3,Asia:Pakistan:PUNJAB:Gujranwala:Nowshera Virkan,9/2/2015,postgres,Name Cleanup 2015-08-18
+397027,SARGODHA TEHSIL,1/1/1990,12/31/9999,4,243671,3,Asia:Pakistan:PUNJAB:Sargodha:Sargodha,9/2/2015,postgres,Name Cleanup 2015-08-18
+397340,FR LAKKI TEHSIL,1/1/1990,12/31/9999,4,243915,3,Asia:Pakistan:KP:Lakkimrwt:FR Lakki,9/2/2015,postgres,Name Cleanup 2015-08-18
+397546,MULTAN SADDAR TEHSIL,1/1/1990,12/31/9999,4,243587,3,Asia:Pakistan:PUNJAB:Multan:Multan Saddar,9/2/2015,postgres,Name Cleanup 2015-08-18
+397786,MIANWALI TEHSIL,1/1/1990,12/31/9999,4,243748,3,Asia:Pakistan:PUNJAB:Mianwali:Mianwali,9/2/2015,postgres,Name Cleanup 2015-08-18
+397815,PINDI GHEB TEHSIL,1/1/1990,12/31/9999,4,243728,3,Asia:Pakistan:PUNJAB:Attock:Pindi gheb,9/2/2015,postgres,Name Cleanup 2015-08-18
+397868,NAROWAL TEHSIL,1/1/1990,12/31/9999,4,243616,3,Asia:Pakistan:PUNJAB:Narowal:Narowal,9/2/2015,postgres,Name Cleanup 2015-08-18
+397917,FEROZEWALA TEHSIL,1/1/1990,12/31/9999,4,243610,3,Asia:Pakistan:PUNJAB:Sheikupura:Ferozewala,9/2/2015,postgres,Name Cleanup 2015-08-18
+397934,KANDYARO TALUKA,1/1/1990,12/31/9999,4,243687,3,Asia:Pakistan:SINDH:Nferoz:Kandyaro,9/2/2015,postgres,Name Cleanup 2015-08-18
+398279,ROJHAN TEHSIL,1/1/1990,12/31/9999,4,243784,3,Asia:Pakistan:PUNJAB:Rajanpur:Rojhan,9/2/2015,postgres,Name Cleanup 2015-08-18
+398428,JAMRUD TEHSIL,1/1/1990,12/31/9999,4,243911,3,Asia:Pakistan:FATA:Khyber:Jamrud,9/2/2015,postgres,Name Cleanup 2015-08-18
+398559,KOTLI SATTIAN TEHSIL,1/1/1990,12/31/9999,4,243705,3,Asia:Pakistan:PUNJAB:Rawalpindi:Kotli Sattian,9/2/2015,postgres,Name Cleanup 2015-08-18
+398720,KHANEWAL TEHSIL,1/1/1990,12/31/9999,4,243592,3,Asia:Pakistan:PUNJAB:Khanewal:Khanewal,9/2/2015,postgres,Name Cleanup 2015-08-18
+399152,LOWER TEHSIL,1/1/1990,12/31/9999,4,243827,3,Asia:Pakistan:FATA:Orakzai:Lower,9/2/2015,postgres,Name Cleanup 2015-08-18
+399176,GAMBAT TALUKA,1/1/1990,12/31/9999,4,243688,3,Asia:Pakistan:SINDH:Khairpur:Gambat,9/2/2015,postgres,Name Cleanup 2015-08-18
+399258,MIAN CHANNU TEHSIL,1/1/1990,12/31/9999,4,243595,3,Asia:Pakistan:PUNJAB:Khanewal:Mian Channu,9/2/2015,postgres,Name Cleanup 2015-08-18
+399373,DAHARKI TALUKA,1/1/1990,12/31/9999,4,243789,3,Asia:Pakistan:SINDH:Ghotki:Daharki,9/2/2015,postgres,Name Cleanup 2015-08-18
+399410,Mastung Sub-division,1/1/1990,12/31/9999,4,243853,3,Asia:Pakistan:BALOCHISTAN:Mastung:Mastung,9/2/2015,postgres,Name Cleanup 2015-08-18
+399509,Hub Sub-division,1/1/1990,12/31/9999,4,243890,3,Asia:Pakistan:BALOCHISTAN:Lasbela:Hub,9/2/2015,postgres,Name Cleanup 2015-08-18
+399935,SUMMUNDRI TEHSIL,1/1/1990,12/31/9999,4,243654,3,Asia:Pakistan:PUNJAB:Faisalabad:Summundri,9/2/2015,postgres,Name Cleanup 2015-08-18
+399959,LARKANA TALUKA,1/1/1990,12/31/9999,4,243692,3,Asia:Pakistan:SINDH:Larkana:Larkana,9/2/2015,postgres,Name Cleanup 2015-08-18
+400248,LIAQUAT PUR TEHSIL,1/1/1990,12/31/9999,4,243786,3,Asia:Pakistan:PUNJAB:RYKhan:Liaquatpur,9/2/2015,postgres,Name Cleanup 2015-08-18
+400402,KASUR TEHSIL,1/1/1990,12/31/9999,4,243603,3,Asia:Pakistan:PUNJAB:Kasur:Kasur,9/2/2015,postgres,Name Cleanup 2015-08-18
+400408,RAZMAK TEHSIL,1/1/1990,12/31/9999,4,243900,3,Asia:Pakistan:FATA:Wazir-n:Razmak,9/2/2015,postgres,Name Cleanup 2015-08-18
+400710,LODHRAN TEHSIL,1/1/1990,12/31/9999,4,243769,3,Asia:Pakistan:PUNJAB:Lodhran:Lodhran,9/2/2015,postgres,Name Cleanup 2015-08-18
+400852,Awaran Sub-division,1/1/1990,12/31/9999,4,243844,3,Asia:Pakistan:BALOCHISTAN:Awaran:Awaran,9/2/2015,postgres,Name Cleanup 2015-08-18
+400914,TRIBAL AREA ADJ BANNU DISTRICT,1/1/1990,12/31/9999,4,243757,3,Asia:Pakistan:KP:Bannu:FR Bannu,9/2/2015,postgres,Name Cleanup 2015-08-18
+400951,MANJHAND TALUKA,1/1/1990,12/31/9999,4,243951,3,Asia:Pakistan:SINDH:Jamshoro:Manjhand,9/2/2015,postgres,Name Cleanup 2015-08-18
+400994,MIRPUR SAKRO TALUKA,1/1/1990,12/31/9999,4,243935,3,Asia:Pakistan:SINDH:Thatta:Mirpur Sakro,9/2/2015,postgres,Name Cleanup 2015-08-18
+401448,DASKA TEHSIL,1/1/1990,12/31/9999,4,243618,3,Asia:Pakistan:PUNJAB:Sialkot:Daska,9/2/2015,postgres,Name Cleanup 2015-08-18
+401453,KOHAT TEHSIL,1/1/1990,12/31/9999,4,243979,3,Asia:Pakistan:KP:Kohat:Kohat,9/2/2015,postgres,Name Cleanup 2015-08-18
+401527,GOJRA TEHSIL,1/1/1990,12/31/9999,4,243664,3,Asia:Pakistan:PUNJAB:Ttsingh:Gojra,9/2/2015,postgres,Name Cleanup 2015-08-18
+401542,SHAKARGARH TEHSIL,1/1/1990,12/31/9999,4,243615,3,Asia:Pakistan:PUNJAB:Narowal:Shakargarh,9/2/2015,postgres,Name Cleanup 2015-08-18
+401607,SAM RANI ZAI SUB-DIVISION,1/1/1990,12/31/9999,4,243732,3,Asia:Pakistan:KP:Malakand:Batkhela,9/2/2015,postgres,Name Cleanup 2015-08-18
+401682,SHAHKOT TEHSIL,1/1/1990,12/31/9999,4,243945,3,Asia:Pakistan:PUNJAB:Nankanasahib:Shahkot,9/2/2015,postgres,Name Cleanup 2015-08-18
+402381,UPPER MOHAMMAD TEHSIL,1/1/1990,12/31/9999,4,243823,3,Asia:Pakistan:FATA:Mohmand:Upper Mohammad,9/2/2015,postgres,Name Cleanup 2015-08-18
+402458,PAKPATTAN TEHSIL,1/1/1990,12/31/9999,4,243600,3,Asia:Pakistan:PUNJAB:Pakpatten:Pakpattan,9/2/2015,postgres,Name Cleanup 2015-08-18
+402470,PINDIALI TEHSIL,1/1/1990,12/31/9999,4,243825,3,Asia:Pakistan:FATA:Mohmand:Pindiali,9/2/2015,postgres,Name Cleanup 2015-08-18
+402626,KOTLI TEHSIL,1/1/1990,12/31/9999,4,243710,3,Asia:Pakistan:AJK:Kotli:Kotli,9/2/2015,postgres,Name Cleanup 2015-08-18
+402686,LEIAH TEHSIL,1/1/1990,12/31/9999,4,243742,3,Asia:Pakistan:PUNJAB:Layyah:Leiah,9/2/2015,postgres,Name Cleanup 2015-08-18
+402803,Barkhan Sub-division,1/1/1990,12/31/9999,4,243875,3,Asia:Pakistan:BALOCHISTAN:Barkhan:Barkhan,9/2/2015,postgres,Name Cleanup 2015-08-18
+402823,Dhadar Sub-division,1/1/1990,12/31/9999,4,243859,3,Asia:Pakistan:BALOCHISTAN:Bolan:Dhadar,9/2/2015,postgres,Name Cleanup 2015-08-18
+402874,SOBHO DERO TALUKA,1/1/1990,12/31/9999,4,243682,3,Asia:Pakistan:SINDH:Khairpur:Sobho Dero,9/2/2015,postgres,Name Cleanup 2015-08-18
+403421,CDA TEHSIL,1/1/1990,12/31/9999,4,243893,3,Asia:Pakistan:ISLAMABAD:CDA:CDA,9/2/2015,postgres,Name Cleanup 2015-08-18
+403526,HAROONABAD TEHSIL,1/1/1990,12/31/9999,4,243774,3,Asia:Pakistan:PUNJAB:Bahwlnagar:Haroonabad,9/2/2015,postgres,Name Cleanup 2015-08-18
+403953,Killa Saifullah Sub-division,1/1/1990,12/31/9999,4,243884,3,Asia:Pakistan:BALOCHISTAN:Ksaifulah:Ksaifullah,9/2/2015,postgres,Name Cleanup 2015-08-18
+403983,TOBA TEK SINGH TEHSIL,1/1/1990,12/31/9999,4,243663,3,Asia:Pakistan:PUNJAB:Ttsingh:Toba TekSingh,9/2/2015,postgres,Name Cleanup 2015-08-18
+403993,YAKE GHUND TEHSIL,1/1/1990,12/31/9999,4,243819,3,Asia:Pakistan:FATA:Mohmand:Yake Ghund,9/2/2015,postgres,Name Cleanup 2015-08-18
+404155,MATIARI TALUKA,1/1/1990,12/31/9999,4,243793,3,Asia:Pakistan:SINDH:Matiari:Matiari,9/2/2015,postgres,Name Cleanup 2015-08-18
+404326,TANDO ADAM TALUKA,1/1/1990,12/31/9999,4,243571,3,Asia:Pakistan:SINDH:Sanghar:Tando Adam,9/2/2015,postgres,Name Cleanup 2015-08-18
+404578,Sinjawi Sub-division,1/1/1990,12/31/9999,4,243867,3,Asia:Pakistan:BALOCHISTAN:Loralai:Sinjawi,9/2/2015,postgres,Name Cleanup 2015-08-18
+404848,ATHMUQAM TEHSIL,1/1/1990,12/31/9999,4,243713,3,Asia:Pakistan:AJK:Neelum:Athmuqam,9/2/2015,postgres,Name Cleanup 2015-08-18
+405005,SADIQABAD TEHSIL,1/1/1990,12/31/9999,4,243897,3,Asia:Pakistan:PUNJAB:RYKhan:Sadiqabad,9/2/2015,postgres,Name Cleanup 2015-08-18
+405082,MALAKWAL TEHSIL,1/1/1990,12/31/9999,4,243810,3,Asia:Pakistan:PUNJAB:Mbdin:Malakwal,9/2/2015,postgres,Name Cleanup 2015-08-18
+405170,DUDYAL TEHSIL,1/1/1990,12/31/9999,4,243626,3,Asia:Pakistan:AJK:Mirpur:Dudyal,9/2/2015,postgres,Name Cleanup 2015-08-18
+405242,Kech (turbat) Sub-division,1/1/1990,12/31/9999,4,243841,3,Asia:Pakistan:BALOCHISTAN:Kech:Kech,9/2/2015,postgres,Name Cleanup 2015-08-18
+405267,HALIM ZAI TEHSIL,1/1/1990,12/31/9999,4,243824,3,Asia:Pakistan:FATA:Mohmand:Halim Zai,9/2/2015,postgres,Name Cleanup 2015-08-18
+405346,MINCHINABAD TEHSIL,1/1/1990,12/31/9999,4,243599,3,Asia:Pakistan:PUNJAB:Bahwlnagar:Minchinabad,9/2/2015,postgres,Name Cleanup 2015-08-18
+405395,SHAHDADPUR TALUKA,1/1/1990,12/31/9999,4,243573,3,Asia:Pakistan:SINDH:Sanghar:Shahdadpur,9/2/2015,postgres,Name Cleanup 2015-08-18
+405446,LAKKI MARWAT TEHSIL,1/1/1990,12/31/9999,4,243916,3,Asia:Pakistan:KP:Lakkimrwt:Lakki Marwat,9/2/2015,postgres,Name Cleanup 2015-08-18
+405487,SAFI TEHSIL,1/1/1990,12/31/9999,4,243822,3,Asia:Pakistan:FATA:Mohmand:Safi,9/2/2015,postgres,Name Cleanup 2015-08-18
+405518,MAILSI TEHSIL,1/1/1990,12/31/9999,4,243590,3,Asia:Pakistan:PUNJAB:Vehari:Mailsi,9/2/2015,postgres,Name Cleanup 2015-08-18
+405605,BARANG TEHSIL,1/1/1990,12/31/9999,4,243812,3,Asia:Pakistan:FATA:Bajour:Barang,9/2/2015,postgres,Name Cleanup 2015-08-18
+405667,AHMADPUR EAST TEHSIL,1/1/1990,12/31/9999,4,243780,3,Asia:Pakistan:PUNJAB:Bahawalpur:Ahmadpur East,9/2/2015,postgres,Name Cleanup 2015-08-18
+405943,KAMALIA TEHSIL,1/1/1990,12/31/9999,4,243651,3,Asia:Pakistan:PUNJAB:Ttsingh:Kamalia,9/2/2015,postgres,Name Cleanup 2015-08-18
+405990,BULRI SHAH KARIM,1/1/1990,12/31/9999,4,243959,3,Asia:Pakistan:SINDH:TMKhan:B.S. Karim,9/2/2015,postgres,Name Cleanup 2015-08-18
+406056,Karezat Sub-division,1/1/1990,12/31/9999,4,243881,3,Asia:Pakistan:BALOCHISTAN:Pishin:Karezat,9/2/2015,postgres,Name Cleanup 2015-08-18
+406136,MANSEHRA TEHSIL,1/1/1990,12/31/9999,4,243702,3,Asia:Pakistan:KP:Mansehra:Mansehra,9/2/2015,postgres,Name Cleanup 2015-08-18
+406166,TIRAH TEHSIL,1/1/1990,12/31/9999,4,243910,3,Asia:Pakistan:FATA:Khyber:Tirah,9/2/2015,postgres,Name Cleanup 2015-08-18
+406259,BATAGRAM TEHSIL,1/1/1990,12/31/9999,4,243630,3,Asia:Pakistan:KP:Batagram:Batagram,9/2/2015,postgres,Name Cleanup 2015-08-18
+406388,JACOBABAD TALUKA,1/1/1990,12/31/9999,4,243684,3,Asia:Pakistan:SINDH:Jacobabad:Jacobabad,9/2/2015,postgres,Name Cleanup 2015-08-18
+406486,ALIPUR TEHSIL,1/1/1990,12/31/9999,4,243782,3,Asia:Pakistan:PUNJAB:Muzfargarh:Alipur,9/2/2015,postgres,Name Cleanup 2015-08-18
+406996,PAHARPUR TEHSIL,1/1/1990,12/31/9999,4,243753,3,Asia:Pakistan:KP:DIKhan:Paharpur,9/2/2015,postgres,Name Cleanup 2015-08-18
+407146,JATI TALUKA,1/1/1990,12/31/9999,4,243805,3,Asia:Pakistan:SINDH:Thatta:Jati,9/2/2015,postgres,Name Cleanup 2015-08-18
+407175,CHACHRO TALUKA,1/1/1990,12/31/9999,4,243583,3,Asia:Pakistan:SINDH:Tharparkar:Chachro,9/2/2015,postgres,Name Cleanup 2015-08-18
+407280,Chaman Sub-division,1/1/1990,12/31/9999,4,243878,3,Asia:Pakistan:BALOCHISTAN:Kabdulah:Chaman,9/2/2015,postgres,Name Cleanup 2015-08-18
+407405,GIQBAL,1/1/1990,12/31/9999,4,243477,2,Asia:Pakistan:SINDH:KHIGIQBAL,9/2/2015,postgres,Name Cleanup 2015-08-18
+407435,DAULAT PUR TALUKA,1/1/1990,12/31/9999,4,243794,3,Asia:Pakistan:SINDH:Sbenazirabad:Daulatpur,9/2/2015,postgres,Name Cleanup 2015-08-18
+407480,MANDI BAHAUDDIN TEHSIL,1/1/1990,12/31/9999,4,243811,3,Asia:Pakistan:PUNJAB:Mbdin:Mbdin,9/2/2015,postgres,Name Cleanup 2015-08-18
+407510,OKARA TEHSIL,1/1/1990,12/31/9999,4,243608,3,Asia:Pakistan:PUNJAB:Okara:Okara,9/2/2015,postgres,Name Cleanup 2015-08-18
+407523,HAVELIAN TEHSIL,1/1/1990,12/31/9999,4,243949,3,Asia:Pakistan:KP:Abotabad:Havelian,9/2/2015,postgres,Name Cleanup 2015-08-18
+407622,Kalat Sub-division,1/1/1990,12/31/9999,4,243854,3,Asia:Pakistan:BALOCHISTAN:Kalat:Kalat,9/2/2015,postgres,Name Cleanup 2015-08-18
+407783,KAHUTA TEHSIL,1/1/1990,12/31/9999,4,243697,3,Asia:Pakistan:PUNJAB:Rawalpindi:Kahuta,9/2/2015,postgres,Name Cleanup 2015-08-18
+407979,SHUJABAD TEHSIL,1/1/1990,12/31/9999,4,243589,3,Asia:Pakistan:PUNJAB:Multan:Shujabad,9/2/2015,postgres,Name Cleanup 2015-08-18
+408162,MALIR,1/1/1990,12/31/9999,4,243483,2,Asia:Pakistan:SINDH:KHIMALIR,9/2/2015,postgres,Name Cleanup 2015-08-18
+408283,BUREWALA TEHSIL,1/1/1990,12/31/9999,4,243596,3,Asia:Pakistan:PUNJAB:Vehari:Burewala,9/2/2015,postgres,Name Cleanup 2015-08-18
+408569,TAXILA TEHSIL,1/1/1990,12/31/9999,4,243627,3,Asia:Pakistan:PUNJAB:Rawalpindi:Taxila,9/2/2015,postgres,Name Cleanup 2015-08-18
+408571,THANO BULA KHAN TALUKA,1/1/1990,12/31/9999,4,243801,3,Asia:Pakistan:SINDH:Jamshoro:TBKhan,9/2/2015,postgres,Name Cleanup 2015-08-18
+408842,KABIRWALA TEHSIL,1/1/1990,12/31/9999,4,243649,3,Asia:Pakistan:PUNJAB:Khanewal:Kabirwala,9/2/2015,postgres,Name Cleanup 2015-08-18
+408893,KINGRI TALUKA,1/1/1990,12/31/9999,4,243685,3,Asia:Pakistan:SINDH:Khairpur:Kingri,9/2/2015,postgres,Name Cleanup 2015-08-18
+408978,CHUNIAN TEHSIL,1/1/1990,12/31/9999,4,243602,3,Asia:Pakistan:PUNJAB:Kasur:Chunian,9/2/2015,postgres,Name Cleanup 2015-08-18
+409030,Harnai Sub-division,1/1/1990,12/31/9999,4,243871,3,Asia:Pakistan:BALOCHISTAN:Harnai:Harnai,9/2/2015,postgres,Name Cleanup 2015-08-18
+409103,Jhat Pat Sub-division,1/1/1990,12/31/9999,4,243861,3,Asia:Pakistan:BALOCHISTAN:Jafarabad:Jhat Pat,9/2/2015,postgres,Name Cleanup 2015-08-18
+409152,KANDHKOT TALUKA,1/1/1990,12/31/9999,4,243975,3,Asia:Pakistan:SINDH:Kashmore:Kandhkot,9/2/2015,postgres,Name Cleanup 2015-08-18
+409208,Gandawa Sub-division,1/1/1990,12/31/9999,4,243857,3,Asia:Pakistan:BALOCHISTAN:Jhalmagsi:Gandawa,9/2/2015,postgres,Name Cleanup 2015-08-18
+409485,KULACHI TEHSIL,1/1/1990,12/31/9999,4,243982,3,Asia:Pakistan:KP:DIKhan:Kulachi,9/2/2015,postgres,Name Cleanup 2015-08-18
+409699,TANDLIAN WALA TEHSIL,1/1/1990,12/31/9999,4,243650,3,Asia:Pakistan:PUNJAB:Faisalabad:Tandlianwala,9/2/2015,postgres,Name Cleanup 2015-08-18
+409706,DIR SUB-DIVISION,1/1/1990,12/31/9999,4,243907,3,Asia:Pakistan:KP:Dirupper:DIR,9/2/2015,postgres,Name Cleanup 2015-08-18
+409819,BHALWAL TEHSIL,1/1/1990,12/31/9999,4,243980,3,Asia:Pakistan:PUNJAB:Sargodha:Bhalwal,9/2/2015,postgres,Name Cleanup 2015-08-18
+409860,KAROR LAL ESAN TEHSIL,1/1/1990,12/31/9999,4,243746,3,Asia:Pakistan:PUNJAB:Layyah:KarorlalEsan,9/2/2015,postgres,Name Cleanup 2015-08-18
+410050,KOT MOMIN TEHSIL,1/1/1990,12/31/9999,4,243981,3,Asia:Pakistan:PUNJAB:Sargodha:Kot Momin,9/2/2015,postgres,Name Cleanup 2015-08-18
+410154,CHAMBER TALUKA,1/1/1990,12/31/9999,4,243963,3,Asia:Pakistan:SINDH:T.Allahyar:Chamber,9/2/2015,postgres,Name Cleanup 2015-08-18
+410276,MIR ALI TEHSILS,1/1/1990,12/31/9999,4,243912,3,Asia:Pakistan:FATA:Wazir-n:Mir Ali,9/2/2015,postgres,Name Cleanup 2015-08-18
+410307,Kakar Khurasan Sub-division,1/1/1990,12/31/9999,4,243880,3,Asia:Pakistan:BALOCHISTAN:Zhob:Kakar Khurasan,9/2/2015,postgres,Name Cleanup 2015-08-18
+410324,CHOUBARA TEHSIL,1/1/1990,12/31/9999,4,243722,3,Asia:Pakistan:PUNJAB:Layyah:Choubara,9/2/2015,postgres,Name Cleanup 2015-08-18
+410400,JOHI TALUKA,1/1/1990,12/31/9999,4,243798,3,Asia:Pakistan:SINDH:Dadu:Johi,9/2/2015,postgres,Name Cleanup 2015-08-18
+411035,DASSU SUB-DIVISION,1/1/1990,12/31/9999,4,243700,3,Asia:Pakistan:KP:Kohistan:Dassu,9/2/2015,postgres,Name Cleanup 2015-08-18
+411064,LIAQAT,1/1/1990,12/31/9999,4,243481,2,Asia:Pakistan:SINDH:KHILIAQAT,9/2/2015,postgres,Name Cleanup 2015-08-18
+411090,PESHAWAR TEHSIL,1/1/1990,12/31/9999,4,243739,3,Asia:Pakistan:KP:Peshawar:Peshawar,9/2/2015,postgres,Name Cleanup 2015-08-18
+411094,SIJAWAL TALUKA,1/1/1990,12/31/9999,4,243972,3,Asia:Pakistan:SINDH:Kambar:Sijawal,9/2/2015,postgres,Name Cleanup 2015-08-18
+411125,SAHIWAL TEHSIL,1/1/1990,12/31/9999,4,243675,3,Asia:Pakistan:PUNJAB:Sargodha:Sahiwal,9/2/2015,postgres,Name Cleanup 2015-08-18
+411240,CHOA SAIDAN SHAH TEHSIL,1/1/1990,12/31/9999,4,243661,3,Asia:Pakistan:PUNJAB:Chakwal:Choa Saidan,9/2/2015,postgres,Name Cleanup 2015-08-18
+411242,YAZMAN TEHSIL,1/1/1990,12/31/9999,4,243781,3,Asia:Pakistan:PUNJAB:Bahawalpur:Yazman,9/2/2015,postgres,Name Cleanup 2015-08-18
+411326,GHORABARI TALUKA,1/1/1990,12/31/9999,4,243808,3,Asia:Pakistan:SINDH:Thatta:Ghorabari,9/2/2015,postgres,Name Cleanup 2015-08-18
+411342,ABBASPUR TEHSIL,1/1/1990,12/31/9999,4,243716,3,Asia:Pakistan:AJK:Poonch:Abbaspur,9/2/2015,postgres,Name Cleanup 2015-08-18
+411921,FRTANK DISTT,1/1/1990,12/31/9999,4,243756,3,Asia:Pakistan:KP:Tank:FRTank,9/2/2015,postgres,Name Cleanup 2015-08-18
+411975,Kharan Sub-division,1/1/1990,12/31/9999,4,243851,3,Asia:Pakistan:BALOCHISTAN:Kharan:Kharan,9/2/2015,postgres,Name Cleanup 2015-08-18
+412054,CHITRAL SUB-DIVISION,1/1/1990,12/31/9999,4,243633,3,Asia:Pakistan:KP:Chitral:Chitral,9/2/2015,postgres,Name Cleanup 2015-08-18
+412084,Sui Sub-division,1/1/1990,12/31/9999,4,243863,3,Asia:Pakistan:BALOCHISTAN:DBugti:Sui,9/2/2015,postgres,Name Cleanup 2015-08-18
+412119,Tump Sub-division,1/1/1990,12/31/9999,4,243840,3,Asia:Pakistan:BALOCHISTAN:Kech:Tump,9/2/2015,postgres,Name Cleanup 2015-08-18
+412414,Bela Sub-division,1/1/1990,12/31/9999,4,243836,3,Asia:Pakistan:BALOCHISTAN:Lasbela:Bela,9/2/2015,postgres,Name Cleanup 2015-08-18
+412612,HAJIRA TEHSIL,1/1/1990,12/31/9999,4,243711,3,Asia:Pakistan:AJK:Poonch:Hajira,9/2/2015,postgres,Name Cleanup 2015-08-18
+412668,SAKRAND TALUKA,1/1/1990,12/31/9999,4,243904,3,Asia:Pakistan:SINDH:Sbenazirabad:Sakrand,9/2/2015,postgres,Name Cleanup 2015-08-18
+412700,SWABI TEHSIL,1/1/1990,12/31/9999,4,243727,3,Asia:Pakistan:KP:Swabi:Swabi,9/2/2015,postgres,Name Cleanup 2015-08-18
+413214,Naal Sub-division,1/1/1990,12/31/9999,4,243846,3,Asia:Pakistan:BALOCHISTAN:Khuzdar:Naal,9/2/2015,postgres,Name Cleanup 2015-08-18
+413354,THUL TALUKA,1/1/1990,12/31/9999,4,243763,3,Asia:Pakistan:SINDH:Jacobabad:Thul,9/2/2015,postgres,Name Cleanup 2015-08-18
+413826,PATTAN SUB-DIVISION,1/1/1990,12/31/9999,4,243634,3,Asia:Pakistan:KP:Kohistan:Pattan,9/2/2015,postgres,Name Cleanup 2015-08-18
+413867,LAYARI,1/1/1990,12/31/9999,4,243482,2,Asia:Pakistan:SINDH:KHILAYARI,9/2/2015,postgres,Name Cleanup 2015-08-18
+413911,UPPER KURRAM TEHSIL,1/1/1990,12/31/9999,4,243829,3,Asia:Pakistan:FATA:Kurram:Upper Kuram,9/2/2015,postgres,Name Cleanup 2015-08-18
+413944,TANDO GHULAM HYDER,1/1/1990,12/31/9999,4,243961,3,Asia:Pakistan:SINDH:TMKhan:T.G. Hyder,9/2/2015,postgres,Name Cleanup 2015-08-18
+414203,TRIBAL AREA ADJ D.I.KHAN DISTT,1/1/1990,12/31/9999,4,243766,3,Asia:Pakistan:KP:DIKhan:FR DIKhan,9/2/2015,postgres,Name Cleanup 2015-08-18
+414241,Mawand Sub-division,1/1/1990,12/31/9999,4,243873,3,Asia:Pakistan:BALOCHISTAN:Kohlu:Mawand,9/2/2015,postgres,Name Cleanup 2015-08-18
+414469,Lehri Sub-division,1/1/1990,12/31/9999,4,243865,3,Asia:Pakistan:BALOCHISTAN:Bolan:Lehri,9/2/2015,postgres,Name Cleanup 2015-08-18
+414815,LAKHI TALUKA,1/1/1990,12/31/9999,4,243760,3,Asia:Pakistan:SINDH:Shikarpur:Lakhi,9/2/2015,postgres,Name Cleanup 2015-08-18
+414992,MIRO KHAN TALUKA,1/1/1990,12/31/9999,4,243971,3,Asia:Pakistan:SINDH:Kambar:Miro Khan,9/2/2015,postgres,Name Cleanup 2015-08-18
+415148,SAEEDABAD TALUKA,1/1/1990,12/31/9999,4,243966,3,Asia:Pakistan:SINDH:Matiari:Saeedabad,9/2/2015,postgres,Name Cleanup 2015-08-18
+415177,Dera Bugti Sub-division,1/1/1990,12/31/9999,4,243862,3,Asia:Pakistan:BALOCHISTAN:DBugti:Der Bugti,9/2/2015,postgres,Name Cleanup 2015-08-18
+415254,ALLAI TEHSIL,1/1/1990,12/31/9999,4,243698,3,Asia:Pakistan:KP:Batagram:Allai,9/2/2015,postgres,Name Cleanup 2015-08-18
+415535,BALA KOT TEHSIL,1/1/1990,12/31/9999,4,243712,3,Asia:Pakistan:KP:Mansehra:Bala Kot,9/2/2015,postgres,Name Cleanup 2015-08-18
+415550,KHUSHAB TEHSIL,1/1/1990,12/31/9999,4,243674,3,Asia:Pakistan:PUNJAB:Khushab:Khushab,9/2/2015,postgres,Name Cleanup 2015-08-18
+415602,Ziarat Sub-division,1/1/1990,12/31/9999,4,243868,3,Asia:Pakistan:BALOCHISTAN:Ziarat:Ziarat,9/2/2015,postgres,Name Cleanup 2015-08-18
+415772,Gwadar Sub-division,1/1/1990,12/31/9999,4,243834,3,Asia:Pakistan:BALOCHISTAN:Gwadur:Gwadar,9/2/2015,postgres,Name Cleanup 2015-08-18
+416245,BHIRYA TALUKA,1/1/1990,12/31/9999,4,243676,3,Asia:Pakistan:SINDH:Nferoz:Bhirya,9/2/2015,postgres,Name Cleanup 2015-08-18
+416522,BANNU TEHSIL,1/1/1990,12/31/9999,4,243758,3,Asia:Pakistan:KP:Bannu:Bannu,9/2/2015,postgres,Name Cleanup 2015-08-18
+416594,HASAN ABDAL TEHSIL,1/1/1990,12/31/9999,4,243724,3,Asia:Pakistan:PUNJAB:Attock:Hasan Abdal,9/2/2015,postgres,Name Cleanup 2015-08-18
+416627,NANKANASAHIB TEHSIL,1/1/1990,12/31/9999,4,243611,3,Asia:Pakistan:PUNJAB:Nankanasahib:Nankanasahib,9/2/2015,postgres,Name Cleanup 2015-08-18
+416648,SARAI ALAMGIR TEHSIL,1/1/1990,12/31/9999,4,243623,3,Asia:Pakistan:PUNJAB:Gujrat:Sarai Alamgir,9/2/2015,postgres,Name Cleanup 2015-08-18
+416983,KAMBAR TALUKA,1/1/1990,12/31/9999,4,243695,3,Asia:Pakistan:SINDH:Kambar:Kambar,9/2/2015,postgres,Name Cleanup 2015-08-18
+416985,SALARZAI TEHSIL,1/1/1990,12/31/9999,4,243814,3,Asia:Pakistan:FATA:Bajour:Salarzai,9/2/2015,postgres,Name Cleanup 2015-08-18
+417164,SADDAR,1/1/1990,12/31/9999,4,243488,2,Asia:Pakistan:SINDH:KHISADDAR,9/2/2015,postgres,Name Cleanup 2015-08-18
+417217,Dalbandin Sub-division,1/1/1990,12/31/9999,4,243850,3,Asia:Pakistan:BALOCHISTAN:Chaghai:Dalbandin,9/2/2015,postgres,Name Cleanup 2015-08-18
+417255,TANGWANI TALUKA,1/1/1990,12/31/9999,4,243976,3,Asia:Pakistan:SINDH:Kashmore:Tangwani,9/2/2015,postgres,Name Cleanup 2015-08-18
+417301,RAWALPINDI TEHSIL,1/1/1990,12/31/9999,4,243659,3,Asia:Pakistan:PUNJAB:Rawalpindi:Rawalpindi,9/2/2015,postgres,Name Cleanup 2015-08-18
+417381,CHICHAWATNI TEHSIL,1/1/1990,12/31/9999,4,243604,3,Asia:Pakistan:PUNJAB:Sahiwal:Chichawatni,9/2/2015,postgres,Name Cleanup 2015-08-18
+417532,Mashkhel Sub-division,1/1/1990,12/31/9999,4,243838,3,Asia:Pakistan:BALOCHISTAN:Washuk:Mashkhel,9/2/2015,postgres,Name Cleanup 2015-08-18
+417607,Chhattar Sub-division,1/1/1990,12/31/9999,4,243866,3,Asia:Pakistan:BALOCHISTAN:Nsirabad:Chhattar,9/2/2015,postgres,Name Cleanup 2015-08-18
+417866,KASHMORE TALUKA,1/1/1990,12/31/9999,4,243895,3,Asia:Pakistan:SINDH:Kashmore:Kashmore,9/2/2015,postgres,Name Cleanup 2015-08-18
+418147,HASILPUR TEHSIL,1/1/1990,12/31/9999,4,243773,3,Asia:Pakistan:PUNJAB:Bahawalpur:Hasilpur,9/2/2015,postgres,Name Cleanup 2015-08-18
+418241,UMER KOT TALUKA,1/1/1990,12/31/9999,4,243581,3,Asia:Pakistan:SINDH:Umerkot:Umer Kot,9/2/2015,postgres,Name Cleanup 2015-08-18
+418287,RATODERO TALUKA,1/1/1990,12/31/9999,4,243691,3,Asia:Pakistan:SINDH:Larkana:Ratodero,9/2/2015,postgres,Name Cleanup 2015-08-18
+418411,Quetta Saddar Sub-division,1/1/1990,12/31/9999,4,243891,3,Asia:Pakistan:BALOCHISTAN:Quetta:Quetta Saddar,9/2/2015,postgres,Name Cleanup 2015-08-18
+418549,Kanraj Sub-division,1/1/1990,12/31/9999,4,243832,3,Asia:Pakistan:BALOCHISTAN:Lasbela:Kanraj,9/2/2015,postgres,Name Cleanup 2015-08-18
+418779,D. I. KHAN TEHSIL,1/1/1990,12/31/9999,4,243985,3,Asia:Pakistan:KP:DIKhan:DIKhan,9/2/2015,postgres,Name Cleanup 2015-08-18
+418794,MUZAFFARABAD TEHSIL,1/1/1990,12/31/9999,4,243718,3,Asia:Pakistan:AJK:Muzaffarabad:Muzaffarabad,9/2/2015,postgres,Name Cleanup 2015-08-18
+418941,SAHIWAL TEHSIL,1/1/1990,12/31/9999,4,243605,3,Asia:Pakistan:PUNJAB:Sahiwal:Sahiwal,9/2/2015,postgres,Name Cleanup 2015-08-18
+418972,KOT. G.M,1/1/1990,12/31/9999,4,243952,3,Asia:Pakistan:SINDH:Mirpurkhas:Kot G.M,9/2/2015,postgres,Name Cleanup 2015-08-18
+419267,NAGAR PARKAR TALUKA,1/1/1990,12/31/9999,4,243585,3,Asia:Pakistan:SINDH:Tharparkar:Nagar Parkar,9/2/2015,postgres,Name Cleanup 2015-08-18
+419321,MASTUJ SUB-DIVISION,1/1/1990,12/31/9999,4,243636,3,Asia:Pakistan:KP:Chitral:Mastuj,9/2/2015,postgres,Name Cleanup 2015-08-18
+419580,MURREE TEHSIL,1/1/1990,12/31/9999,4,243704,3,Asia:Pakistan:PUNJAB:Rawalpindi:Muree,9/2/2015,postgres,Name Cleanup 2015-08-18
+419722,LATIFABAD TALUKA,1/1/1990,12/31/9999,4,243800,3,Asia:Pakistan:SINDH:Hyderabad:Latifabad,9/2/2015,postgres,Name Cleanup 2015-08-18
+420039,MORO TALUKA,1/1/1990,12/31/9999,4,243678,3,Asia:Pakistan:SINDH:Nferoz:Moro,9/2/2015,postgres,Name Cleanup 2015-08-18
+420395,KOT ADDU TEHSIL,1/1/1990,12/31/9999,4,243743,3,Asia:Pakistan:PUNJAB:Muzfargarh:Kot Addu,9/2/2015,postgres,Name Cleanup 2015-08-18
+420410,SWAT TEHSIL,1/1/1990,12/31/9999,4,243905,3,Asia:Pakistan:KP:Swat:Swat,9/2/2015,postgres,Name Cleanup 2015-08-18
+420932,Kohlu Sub-division,1/1/1990,12/31/9999,4,243874,3,Asia:Pakistan:BALOCHISTAN:Kohlu:Kohlu,9/2/2015,postgres,Name Cleanup 2015-08-18
+420994,BAHAWALPUR TEHSIL,1/1/1990,12/31/9999,4,243776,3,Asia:Pakistan:PUNJAB:Bahawalpur:Bahawalpur,9/2/2015,postgres,Name Cleanup 2015-08-18
+421085,AMBAR UTMAN KHEL TEHSIL,1/1/1990,12/31/9999,4,243821,3,Asia:Pakistan:FATA:Mohmand:Ambar Utman,9/2/2015,postgres,Name Cleanup 2015-08-18
+421135,NOWSHERA TEHSIL,1/1/1990,12/31/9999,4,243738,3,Asia:Pakistan:KP:Nowshera:Nowshera,9/2/2015,postgres,Name Cleanup 2015-08-18
+421212,DEPALPUR TEHSIL,1/1/1990,12/31/9999,4,243601,3,Asia:Pakistan:PUNJAB:Okara:Depalpur,9/2/2015,postgres,Name Cleanup 2015-08-18
+421258,TRIBAL AREA ADJ PESHAWAR DISTT,1/1/1990,12/31/9999,4,243740,3,Asia:Pakistan:KP:Peshawar:FR Peshawar,9/2/2015,postgres,Name Cleanup 2015-08-18
+421542,JHELUM TEHSIL,1/1/1990,12/31/9999,4,243660,3,Asia:Pakistan:PUNJAB:Jhelum:Jhelum,9/2/2015,postgres,Name Cleanup 2015-08-18
+421661,DAGGAR TEHSIL,1/1/1990,12/31/9999,4,243989,3,Asia:Pakistan:KP:Bunir:Daggar,9/2/2015,postgres,Name Cleanup 2015-08-18
+421944,BHAKKAR TEHSIL,1/1/1990,12/31/9999,4,243745,3,Asia:Pakistan:PUNJAB:Bhakkar:Bhakkar,9/2/2015,postgres,Name Cleanup 2015-08-18
+422284,SILLANWALI TEHSIL,1/1/1990,12/31/9999,4,243669,3,Asia:Pakistan:PUNJAB:Sargodha:Sillanwali,9/2/2015,postgres,Name Cleanup 2015-08-18
+422286,CENTRAL KURRAM,1/1/1990,12/31/9999,4,243830,3,Asia:Pakistan:FATA:Kurram:Central,9/2/2015,postgres,Name Cleanup 2015-08-18
+422359,Usta Mohammad Sub-division,1/1/1990,12/31/9999,4,243848,3,Asia:Pakistan:BALOCHISTAN:Jafarabad:Usta Mohammad,9/2/2015,postgres,Name Cleanup 2015-08-18
+422641,NANDI PUR TEHSIL,1/1/1990,12/31/9999,4,244003,3,Asia:Pakistan:PUNJAB:Gujranwala:Nandi Pur,9/2/2015,postgres,Name Cleanup 2015-08-18
+422916,SHAHDAD KOT TALUKA,1/1/1990,12/31/9999,4,243970,3,Asia:Pakistan:SINDH:Kambar:Shahdad Kot,9/2/2015,postgres,Name Cleanup 2015-08-18
+423278,GHOTKI TALUKA,1/1/1990,12/31/9999,4,243896,3,Asia:Pakistan:SINDH:Ghotki:Ghotki,9/2/2015,postgres,Name Cleanup 2015-08-18
+423738,BINQASIM,1/1/1990,12/31/9999,4,243474,2,Asia:Pakistan:SINDH:KHIBINQASIM,9/2/2015,postgres,Name Cleanup 2015-08-18
+423897,JHANDO MUREE,1/1/1990,12/31/9999,4,243964,3,Asia:Pakistan:SINDH:T.Allahyar:J.Muree,9/2/2015,postgres,Name Cleanup 2015-08-18
+423926,LAHOR TEHSIL,1/1/1990,12/31/9999,4,243734,3,Asia:Pakistan:KP:Swabi:Lahor,9/2/2015,postgres,Name Cleanup 2015-08-18
+424063,RENALA KHURD TEHSIL,1/1/1990,12/31/9999,4,243606,3,Asia:Pakistan:PUNJAB:Okara:Renala Khurd,9/2/2015,postgres,Name Cleanup 2015-08-18
+424288,TANDO ALLAHYAR TALUKA,1/1/1990,12/31/9999,4,243962,3,Asia:Pakistan:SINDH:T.Allahyar:Tando Allahyar,9/2/2015,postgres,Name Cleanup 2015-08-18
+424304,JAMPUR TEHSIL,1/1/1990,12/31/9999,4,243778,3,Asia:Pakistan:PUNJAB:Rajanpur:Jampur,9/2/2015,postgres,Name Cleanup 2015-08-18
+424499,KETI BUNDER TALUKA,1/1/1990,12/31/9999,4,243807,3,Asia:Pakistan:SINDH:Thatta:Keti Bunder,9/2/2015,postgres,Name Cleanup 2015-08-18
+424517,DHIR KOT TEHSIL,1/1/1990,12/31/9999,4,243717,3,Asia:Pakistan:AJK:Bagh:Dhir Kot,9/2/2015,postgres,Name Cleanup 2015-08-18
+424549,FAISALABAD CITY TEHSIL,1/1/1990,12/31/9999,4,243652,3,Asia:Pakistan:PUNJAB:Faisalabad:Faisalabad City,9/2/2015,postgres,Name Cleanup 2015-08-18
+424646,KARACHI GULBERG,1/1/1990,12/31/9999,4,243923,3,Asia:Pakistan:SINDH:KHIGULBERG:Gulberg,9/2/2015,postgres,Name Cleanup 2015-08-18
+425205,MATTA TEHSIL,1/1/1990,12/31/9999,4,243906,3,Asia:Pakistan:KP:Swat:Matta,9/2/2015,postgres,Name Cleanup 2015-08-18
+425333,JHANG TEHSIL,1/1/1990,12/31/9999,4,243670,3,Asia:Pakistan:PUNJAB:Jhang:Jhang,9/2/2015,postgres,Name Cleanup 2015-08-18
+425447,SAMARO TALUKA,1/1/1990,12/31/9999,4,243580,3,Asia:Pakistan:SINDH:Umerkot:Samaro,9/2/2015,postgres,Name Cleanup 2015-08-18
+425631,Musakhel Sub-division,1/1/1990,12/31/9999,4,243887,3,Asia:Pakistan:BALOCHISTAN:Musakhel:Musakhel,9/2/2015,postgres,Name Cleanup 2015-08-18
+425765,Panjgur Sub-division,1/1/1990,12/31/9999,4,243842,3,Asia:Pakistan:BALOCHISTAN:Panjgour:Panjgur,9/2/2015,postgres,Name Cleanup 2015-08-18
+425896,DARYA KHAN TEHSIL,1/1/1990,12/31/9999,4,243744,3,Asia:Pakistan:PUNJAB:Bhakkar:Darya Khan,9/2/2015,postgres,Name Cleanup 2015-08-18
+425958,WARAH TALUKA,1/1/1990,12/31/9999,4,243967,3,Asia:Pakistan:SINDH:Kambar:Warah,9/2/2015,postgres,Name Cleanup 2015-08-18
+426019,NAUSHAHRO FEROZE TALUKA,1/1/1990,12/31/9999,4,243679,3,Asia:Pakistan:SINDH:Nferoz:Nferoze,9/2/2015,postgres,Name Cleanup 2015-08-18
+426023,GHAZI TEHSIL,1/1/1990,12/31/9999,4,243725,3,Asia:Pakistan:KP:Haripur:Ghazi,9/2/2015,postgres,Name Cleanup 2015-08-18
+426075,BAKRANI TALUKA,1/1/1990,12/31/9999,4,243974,3,Asia:Pakistan:SINDH:Larkana:Bakrani,9/2/2015,postgres,Name Cleanup 2015-08-18
+426302,Pishin Sub-division,1/1/1990,12/31/9999,4,243877,3,Asia:Pakistan:BALOCHISTAN:Pishin:Pishin,9/2/2015,postgres,Name Cleanup 2015-08-18
+426337,Duki Sub-division,1/1/1990,12/31/9999,4,243879,3,Asia:Pakistan:BALOCHISTAN:Loralai:Duki,9/2/2015,postgres,Name Cleanup 2015-08-18
+426354,KHAIRPUR TALUKA,1/1/1990,12/31/9999,4,243681,3,Asia:Pakistan:SINDH:Khairpur:Khairpur,9/2/2015,postgres,Name Cleanup 2015-08-18
+426464,BAHAWALNAGAR TEHSIL,1/1/1990,12/31/9999,4,243598,3,Asia:Pakistan:PUNJAB:Bahwlnagar:Bahawalnagar,9/2/2015,postgres,Name Cleanup 2015-08-18
+426509,AROOP TEHSIL,1/1/1990,12/31/9999,4,244004,3,Asia:Pakistan:PUNJAB:Gujranwala:Aroop,9/2/2015,postgres,Name Cleanup 2015-08-18
+426735,BHIMBER TEHSIL,1/1/1990,12/31/9999,4,243624,3,Asia:Pakistan:AJK:Bhimber:Bhimber,9/2/2015,postgres,Name Cleanup 2015-08-18
+426945,Buleda Sub-division,1/1/1990,12/31/9999,4,243843,3,Asia:Pakistan:BALOCHISTAN:Kech:Buleda,9/2/2015,postgres,Name Cleanup 2015-08-18
+427124,LANDHI,1/1/1990,12/31/9999,4,243480,2,Asia:Pakistan:SINDH:KHILANDHI,9/2/2015,postgres,Name Cleanup 2015-08-18
+427176,SALEHPAT TALUKA,1/1/1990,12/31/9999,4,243761,3,Asia:Pakistan:SINDH:Sukkur:Salehpat,9/2/2015,postgres,Name Cleanup 2015-08-18
+427235,SEHNSA TEHSIL,1/1/1990,12/31/9999,4,243696,3,Asia:Pakistan:AJK:Kotli:Sehnsa,9/2/2015,postgres,Name Cleanup 2015-08-18
+427280,Khuzdar Sub-division,1/1/1990,12/31/9999,4,243886,3,Asia:Pakistan:BALOCHISTAN:Khuzdar:Khuzdar,9/2/2015,postgres,Name Cleanup 2015-08-18
+427329,MIRAN SHAH TEHSIL,1/1/1990,12/31/9999,4,243901,3,Asia:Pakistan:FATA:Wazir-n:Miran Shah,9/2/2015,postgres,Name Cleanup 2015-08-18
+427381,CENTRAL TEHSIL,1/1/1990,12/31/9999,4,243828,3,Asia:Pakistan:FATA:Orakzai:Central,9/2/2015,postgres,Name Cleanup 2015-08-18
+427480,Mach Sub-division,1/1/1990,12/31/9999,4,243855,3,Asia:Pakistan:BALOCHISTAN:Bolan:Mach,9/2/2015,postgres,Name Cleanup 2015-08-18
+427591,Kahan Sub-division,1/1/1990,12/31/9999,4,243872,3,Asia:Pakistan:BALOCHISTAN:Kohlu:Kahan,9/2/2015,postgres,Name Cleanup 2015-08-18
+427878,Dasht Sub-division,1/1/1990,12/31/9999,4,243835,3,Asia:Pakistan:BALOCHISTAN:Kech:Dasht,9/2/2015,postgres,Name Cleanup 2015-08-18
+427943,ISAKHEL TEHSIL,1/1/1990,12/31/9999,4,243754,3,Asia:Pakistan:PUNJAB:Mianwali:Isakhel,9/2/2015,postgres,Name Cleanup 2015-08-18
+428331,UPPER TEHSIL,1/1/1990,12/31/9999,4,243909,3,Asia:Pakistan:FATA:Orakzai:Upper,9/2/2015,postgres,Name Cleanup 2015-08-18
+428524,MULTAN SADDAR TEHSIL,1/1/1990,12/31/9999,4,243591,3,Asia:Pakistan:PUNJAB:Multan:Multan City,9/2/2015,postgres,Name Cleanup 2015-08-18
+428529,NARA TALUKA,1/1/1990,12/31/9999,4,243577,3,Asia:Pakistan:SINDH:Khairpur:Nara,9/2/2015,postgres,Name Cleanup 2015-08-18
+428755,ABBOTTABAD TEHSIL,1/1/1990,12/31/9999,4,243948,3,Asia:Pakistan:KP:Abotabad:Abbottabad,9/2/2015,postgres,Name Cleanup 2015-08-18
+428780,KUNRI TALUKA,1/1/1990,12/31/9999,4,243582,3,Asia:Pakistan:SINDH:Umerkot:Kunri,9/2/2015,postgres,Name Cleanup 2015-08-18
+428921,Dera Murad Jamali Sub-division,1/1/1990,12/31/9999,4,243864,3,Asia:Pakistan:BALOCHISTAN:Nsirabad:DMJamali,9/2/2015,postgres,Name Cleanup 2015-08-18
+429372,Loralai Sub-division,1/1/1990,12/31/9999,4,243883,3,Asia:Pakistan:BALOCHISTAN:Loralai:Loralai,9/2/2015,postgres,Name Cleanup 2015-08-18
+429396,NAWABSHAH TALUKA,1/1/1990,12/31/9999,4,243990,3,Asia:Pakistan:SINDH:Sbenazirabad:Nawabshah,9/2/2015,postgres,Name Cleanup 2015-08-18
+429490,HAVELI TEHSIL,1/1/1990,12/31/9999,4,243715,3,Asia:Pakistan:AJK:Haveli:Haveli,9/2/2015,postgres,Name Cleanup 2015-08-18
+429676,Upper Zhob Sub-division,1/1/1990,12/31/9999,4,243885,3,Asia:Pakistan:BALOCHISTAN:Ksaifulah:Upper Zhob,9/2/2015,postgres,Name Cleanup 2015-08-18
+429703,Dasht Sub-division,1/1/1990,12/31/9999,4,243869,3,Asia:Pakistan:BALOCHISTAN:Mastung:Dasht,9/2/2015,postgres,Name Cleanup 2015-08-18
+429737,HANGU TEHSIL,1/1/1990,12/31/9999,4,243752,3,Asia:Pakistan:KP:Hangu:Hangu,9/2/2015,postgres,Name Cleanup 2015-08-18
+429849,BIRMAL TEHSIL,1/1/1990,12/31/9999,4,243914,3,Asia:Pakistan:FATA:Wazir-s:Birmal,9/2/2015,postgres,Name Cleanup 2015-08-18
+430290,Gulistan Sub-division,1/1/1990,12/31/9999,4,243876,3,Asia:Pakistan:BALOCHISTAN:Kabdulah:Gulistan,9/2/2015,postgres,Name Cleanup 2015-08-18
+430410,NAWAGAI TEHSIL,1/1/1990,12/31/9999,4,243818,3,Asia:Pakistan:FATA:Bajour:Nawagai,9/2/2015,postgres,Name Cleanup 2015-08-18
+430432,OGHI TEHSIL,1/1/1990,12/31/9999,4,243629,3,Asia:Pakistan:KP:Mansehra:Oghi,9/2/2015,postgres,Name Cleanup 2015-08-18
+430528,Pasni Sub-division,1/1/1990,12/31/9999,4,243833,3,Asia:Pakistan:BALOCHISTAN:Gwadur:Pasni,9/2/2015,postgres,Name Cleanup 2015-08-18
+430636,PALAS SUB-DIVISION,1/1/1990,12/31/9999,4,243699,3,Asia:Pakistan:KP:Kohistan:Palas,9/2/2015,postgres,Name Cleanup 2015-08-18
+430748,PHALIA TEHSIL,1/1/1990,12/31/9999,4,243656,3,Asia:Pakistan:PUNJAB:Mbdin:Phalia,9/2/2015,postgres,Name Cleanup 2015-08-18
+430837,NNAZIM,1/1/1990,12/31/9999,4,243485,2,Asia:Pakistan:SINDH:KHINNAZIM,9/2/2015,postgres,Name Cleanup 2015-08-18
+431149,PANO AQIL TALUKA,1/1/1990,12/31/9999,4,243787,3,Asia:Pakistan:SINDH:Sukkur:Pano Aqil,9/2/2015,postgres,Name Cleanup 2015-08-18
+431159,PIND DADAN KHAN TEHSIL,1/1/1990,12/31/9999,4,243668,3,Asia:Pakistan:PUNJAB:Jhelum:Pind Dadan,9/2/2015,postgres,Name Cleanup 2015-08-18
+431206,HAFIZABAD TEHSIL,1/1/1990,12/31/9999,4,243614,3,Asia:Pakistan:PUNJAB:Hafizabad:Hafizabad,9/2/2015,postgres,Name Cleanup 2015-08-18
+431274,CHINIOT TEHSIL,1/1/1990,12/31/9999,4,243666,3,Asia:Pakistan:PUNJAB:Chiniot:Chiniot,9/2/2015,postgres,Name Cleanup 2015-08-18
+431352,LADHA TEHSIL,1/1/1990,12/31/9999,4,243899,3,Asia:Pakistan:FATA:Wazir-s:Ladha,9/2/2015,postgres,Name Cleanup 2015-08-18
+431476,MUZAFFARGARH TEHSIL,1/1/1990,12/31/9999,4,243723,3,Asia:Pakistan:PUNJAB:Muzfargarh:Muzaffargarh,9/2/2015,postgres,Name Cleanup 2015-08-18
+431513,RAWALAKOT TEHSIL,1/1/1990,12/31/9999,4,243714,3,Asia:Pakistan:AJK:Poonch:Rawalakot,9/2/2015,postgres,Name Cleanup 2015-08-18
+431578,Sibi Sub-division,1/1/1990,12/31/9999,4,243870,3,Asia:Pakistan:BALOCHISTAN:Sibi:Sibi,9/2/2015,postgres,Name Cleanup 2015-08-18
+431669,BAGH TEHSIL,1/1/1990,12/31/9999,4,243720,3,Asia:Pakistan:AJK:Bagh:Bagh,9/2/2015,postgres,Name Cleanup 2015-08-18
+431788,HYDERABAD CITY TALUKA,1/1/1990,12/31/9999,4,243792,3,Asia:Pakistan:SINDH:Hyderabad:Hyderabad city,9/2/2015,postgres,Name Cleanup 2015-08-18
+432336,MANKERA TEHSIL,1/1/1990,12/31/9999,4,243721,3,Asia:Pakistan:PUNJAB:Bhakkar:Mankera,9/2/2015,postgres,Name Cleanup 2015-08-18
+432510,CHAKWAL TEHSIL,1/1/1990,12/31/9999,4,243667,3,Asia:Pakistan:PUNJAB:Chakwal:Chakwal,9/2/2015,postgres,Name Cleanup 2015-08-18
+432836,MEHAR TALUKA,1/1/1990,12/31/9999,4,243693,3,Asia:Pakistan:SINDH:Dadu:Mehar,9/2/2015,postgres,Name Cleanup 2015-08-18
+433027,JAMSHEED,1/1/1990,12/31/9999,4,243478,2,Asia:Pakistan:SINDH:KHIJAMSHEED,9/2/2015,postgres,Name Cleanup 2015-08-18
+433189,ORANGI,1/1/1990,12/31/9999,4,243486,2,Asia:Pakistan:SINDH:KHIORANGI,9/2/2015,postgres,Name Cleanup 2015-08-18
+433374,ARIF WALA TEHSIL,1/1/1990,12/31/9999,4,243597,3,Asia:Pakistan:PUNJAB:Pakpatten:Arifwala,9/2/2015,postgres,Name Cleanup 2015-08-18
+433474,JAND TEHSIL,1/1/1990,12/31/9999,4,243749,3,Asia:Pakistan:PUNJAB:Attock:Jand,9/2/2015,postgres,Name Cleanup 2015-08-18
+433534,TRIBAL AREA ADJ KOHAT DISTRICT,1/1/1990,12/31/9999,4,243741,3,Asia:Pakistan:KP:Kohat:FR Kohat,9/2/2015,postgres,Name Cleanup 2015-08-18
+433615,Surab Sub-division,1/1/1990,12/31/9999,4,243849,3,Asia:Pakistan:BALOCHISTAN:Kalat:Surab,9/2/2015,postgres,Name Cleanup 2015-08-18
+433998,SHIKARPUR TALUKA,1/1/1990,12/31/9999,4,243683,3,Asia:Pakistan:SINDH:Shikarpur:Shikarpur,9/2/2015,postgres,Name Cleanup 2015-08-18
+434090,Dureji Sub-division,1/1/1990,12/31/9999,4,243837,3,Asia:Pakistan:BALOCHISTAN:Lasbela:Dureji,9/2/2015,postgres,Name Cleanup 2015-08-18
+434168,Wadh Sub-division,1/1/1990,12/31/9999,4,243845,3,Asia:Pakistan:BALOCHISTAN:Khuzdar:Wadh,9/2/2015,postgres,Name Cleanup 2015-08-18
+434189,SUJAWAL TALUKA,1/1/1990,12/31/9999,4,243804,3,Asia:Pakistan:SINDH:Thatta:Sujawal,9/2/2015,postgres,Name Cleanup 2015-08-18
+434192,KOT DIJI TALUKA,1/1/1990,12/31/9999,4,243680,3,Asia:Pakistan:SINDH:Khairpur:Kot Diji,9/2/2015,postgres,Name Cleanup 2015-08-18
+434292,SUKKUR TALUKA,1/1/1990,12/31/9999,4,243759,3,Asia:Pakistan:SINDH:Sukkur:Sukkur,9/2/2015,postgres,Name Cleanup 2015-08-18
+434396,KHARO CHAN TALUKA,1/1/1990,12/31/9999,4,243806,3,Asia:Pakistan:SINDH:Thatta:Kharo Chan,9/2/2015,postgres,Name Cleanup 2015-08-18
+434470,Barshore Sub-division,1/1/1990,12/31/9999,4,243882,3,Asia:Pakistan:BALOCHISTAN:Pishin:Barshore,9/2/2015,postgres,Name Cleanup 2015-08-18
+434492,SAMAHNI TEHSIL,1/1/1990,12/31/9999,4,243708,3,Asia:Pakistan:AJK:Bhimber:Samahni,9/2/2015,postgres,Name Cleanup 2015-08-18
+434540,FAISALABAD SADAR TEHSIL,1/1/1990,12/31/9999,4,243665,3,Asia:Pakistan:PUNJAB:Faisalabad:Faisalabad Sadar,9/2/2015,postgres,Name Cleanup 2015-08-18
+434563,PALLANDARI TEHSIL,1/1/1990,12/31/9999,4,243703,3,Asia:Pakistan:AJK:Sudnuti:Pallandari,9/2/2015,postgres,Name Cleanup 2015-08-18
+434648,KHAR BAJAUR TEHSIL,1/1/1990,12/31/9999,4,243815,3,Asia:Pakistan:FATA:Bajour:Khar Bajaur,9/2/2015,postgres,Name Cleanup 2015-08-18
+434712,Bhag Sub-division,1/1/1990,12/31/9999,4,243860,3,Asia:Pakistan:BALOCHISTAN:Bolan:Bhag,9/2/2015,postgres,Name Cleanup 2015-08-18
+434807,DIPLO TALUKA,1/1/1990,12/31/9999,4,243799,3,Asia:Pakistan:SINDH:Tharparkar:Diplo,9/2/2015,postgres,Name Cleanup 2015-08-18
+434816,Noshki Sub-division,1/1/1990,12/31/9999,4,243852,3,Asia:Pakistan:BALOCHISTAN:Noshki:Noshki,9/2/2015,postgres,Name Cleanup 2015-08-18
+434909,JAHANIAN TEHSIL,1/1/1990,12/31/9999,4,243593,3,Asia:Pakistan:PUNJAB:Khanewal:Jahanian,9/2/2015,postgres,Name Cleanup 2015-08-18
+435050,JALALPUR PIRWALA TEHSIL,1/1/1990,12/31/9999,4,243770,3,Asia:Pakistan:PUNJAB:Multan:Jalalpur Pirwala,9/2/2015,postgres,Name Cleanup 2015-08-18
+435055,CHARSADDA TEHSIL,1/1/1990,12/31/9999,4,243737,3,Asia:Pakistan:KP:Charsada:Charsada,9/2/2015,postgres,Name Cleanup 2015-08-18
+435093,NOORPUR TEHSIL,1/1/1990,12/31/9999,4,243672,3,Asia:Pakistan:PUNJAB:Khushab:Noorpur,9/2/2015,postgres,Name Cleanup 2015-08-18
+435130,BALDIA,1/1/1990,12/31/9999,4,243473,2,Asia:Pakistan:SINDH:KHIBALDIA,9/2/2015,postgres,Name Cleanup 2015-08-18
+435184,SWAT RANI ZAI SUB-DIVISION,1/1/1990,12/31/9999,4,243726,3,Asia:Pakistan:KP:Malakand:Dargai,9/2/2015,postgres,Name Cleanup 2015-08-18
+435652,LANDHI,1/1/1990,12/31/9999,4,243919,3,Asia:Pakistan:SINDH:KHILANDHI:Landi,9/2/2015,postgres,Name Cleanup 2015-08-18
+435722,SHAH BUNDER TALUKA,1/1/1990,12/31/9999,4,243809,3,Asia:Pakistan:SINDH:Thatta:Shah Bunder,9/2/2015,postgres,Name Cleanup 2015-08-18
+435764,SIALKOT TEHSIL,1/1/1990,12/31/9999,4,243620,3,Asia:Pakistan:PUNJAB:Sialkot:Sialkot,9/2/2015,postgres,Name Cleanup 2015-08-18
+435810,SAFDARABAD TEHSIL,1/1/1990,12/31/9999,4,243946,3,Asia:Pakistan:PUNJAB:Nankanasahib:Safdarabad,9/2/2015,postgres,Name Cleanup 2015-08-18
+435866,RAHIM YAR KHAN TEHSIL,1/1/1990,12/31/9999,4,243785,3,Asia:Pakistan:PUNJAB:RYKhan:RYKhan,9/2/2015,postgres,Name Cleanup 2015-08-18
+435898,HARIPUR TEHSIL,1/1/1990,12/31/9999,4,243701,3,Asia:Pakistan:KP:Haripur:Haripur,9/2/2015,postgres,Name Cleanup 2015-08-18
+435979,RAJANPUR TEHSIL,1/1/1990,12/31/9999,4,243779,3,Asia:Pakistan:PUNJAB:Rajanpur:Rajanpur,9/2/2015,postgres,Name Cleanup 2015-08-18
+436108,JARANWALA TEHSIL,1/1/1990,12/31/9999,4,243653,3,Asia:Pakistan:PUNJAB:Faisalabad:Jaranwala,9/2/2015,postgres,Name Cleanup 2015-08-18
+436326,KAHROR PACCA TEHSIL,1/1/1990,12/31/9999,4,243586,3,Asia:Pakistan:PUNJAB:Lodhran:Kahror Pacca,9/2/2015,postgres,Name Cleanup 2015-08-18
+436514,FATEH JANG TEHSIL,1/1/1990,12/31/9999,4,243730,3,Asia:Pakistan:PUNJAB:Attock:Fateh Jang,9/2/2015,postgres,Name Cleanup 2015-08-18
+436554,JAM NAWAZ ALI TALUKA,1/1/1990,12/31/9999,4,243572,3,Asia:Pakistan:SINDH:Sanghar:Jam Nawaz Ali,9/2/2015,postgres,Name Cleanup 2015-08-18
+436667,DADU TALUKA,1/1/1990,12/31/9999,4,243689,3,Asia:Pakistan:SINDH:Dadu:Dadu,9/2/2015,postgres,Name Cleanup 2015-08-18
+436830,JATOI TEHSIL,1/1/1990,12/31/9999,4,243768,3,Asia:Pakistan:PUNJAB:Muzfargarh:Jatoi,9/2/2015,postgres,Name Cleanup 2015-08-18
+437144,MIRPUR TEHSIL,1/1/1990,12/31/9999,4,243625,3,Asia:Pakistan:AJK:Mirpur:Mirpur,9/2/2015,postgres,Name Cleanup 2015-08-18
+437216,KARAK TEHSIL,1/1/1990,12/31/9999,4,243902,3,Asia:Pakistan:KP:Karak:Karak,9/2/2015,postgres,Name Cleanup 2015-08-18
+437234,DAREL\TANGIR,1/1/1990,12/31/9999,4,243942,3,Asia:Pakistan:GB:Diamir:Darel/ Tangir,9/2/2015,postgres,Name Cleanup 2015-08-18
+437384,BANDA DAUD SHAH TEHSIL,1/1/1990,12/31/9999,4,243751,3,Asia:Pakistan:KP:Karak:B D Shah,9/2/2015,postgres,Name Cleanup 2015-08-18
+437499,DUNYAPUR TEHSIL,1/1/1990,12/31/9999,4,243588,3,Asia:Pakistan:PUNJAB:Lodhran:Dunyapur,9/2/2015,postgres,Name Cleanup 2015-08-18
+437504,MAMUND TEHSIL,1/1/1990,12/31/9999,4,243816,3,Asia:Pakistan:FATA:Bajour:Mamund,9/2/2015,postgres,Name Cleanup 2015-08-18
+437635,NASIRABAD TALUKA,1/1/1990,12/31/9999,4,243968,3,Asia:Pakistan:SINDH:Kambar:Nasirabad,9/2/2015,postgres,Name Cleanup 2015-08-18
+437681,GADAP,1/1/1990,12/31/9999,4,243475,2,Asia:Pakistan:SINDH:KHIGADAP,9/2/2015,postgres,Name Cleanup 2015-08-18
+437702,Jhal Magsi Sub-division,1/1/1990,12/31/9999,4,243847,3,Asia:Pakistan:BALOCHISTAN:Jhalmagsi:Jhal Magsi,9/2/2015,postgres,Name Cleanup 2015-08-18
+437744,MITHI TALUKA,1/1/1990,12/31/9999,4,243584,3,Asia:Pakistan:SINDH:Tharparkar:Mithi,9/2/2015,postgres,Name Cleanup 2015-08-18
+437770,KAMOKE TEHSIL,1/1/1990,12/31/9999,4,243612,3,Asia:Pakistan:PUNJAB:Gujranwala:Kamoke,9/2/2015,postgres,Name Cleanup 2015-08-18
+437799,KHIPRO TALUKA,1/1/1990,12/31/9999,4,243579,3,Asia:Pakistan:SINDH:Sanghar:Khipro,9/2/2015,postgres,Name Cleanup 2015-08-18
+438099,TEMERGARA SUB-DIVISION,1/1/1990,12/31/9999,4,243632,3,Asia:Pakistan:KP:Dirlower:Temergara,9/2/2015,postgres,Name Cleanup 2015-08-18
+438549,SHORKOT TEHSIL,1/1/1990,12/31/9999,4,243662,3,Asia:Pakistan:PUNJAB:Jhang:Shorkot,9/2/2015,postgres,Name Cleanup 2015-08-18
+438556,UBAURO TALUKA,1/1/1990,12/31/9999,4,243898,3,Asia:Pakistan:SINDH:Ghotki:Ubauro,9/2/2015,postgres,Name Cleanup 2015-08-18
+438617,GUJRAT TEHSIL,1/1/1990,12/31/9999,4,243621,3,Asia:Pakistan:PUNJAB:Gujrat:Gujrat,9/2/2015,postgres,Name Cleanup 2015-08-18
+438700,SHAHPUR TEHSIL,1/1/1990,12/31/9999,4,243673,3,Asia:Pakistan:PUNJAB:Sargodha:Shahpur,9/2/2015,postgres,Name Cleanup 2015-08-18
+438840,FAIZ GANJ TALUKA,1/1/1990,12/31/9999,4,243576,3,Asia:Pakistan:SINDH:Khairpur:Faiz Ganj,9/2/2015,postgres,Name Cleanup 2015-08-18
+439129,DERA GHAZI KHAN TEHSIL,1/1/1990,12/31/9999,4,243767,3,Asia:Pakistan:PUNJAB:DGKhan:DGKhan,9/2/2015,postgres,Name Cleanup 2015-08-18
+439209,Phelawagh Sub-division,1/1/1990,12/31/9999,4,243856,3,Asia:Pakistan:BALOCHISTAN:DBugti:Phelawagh,9/2/2015,postgres,Name Cleanup 2015-08-18
+439269,WANA TEHSIL,1/1/1990,12/31/9999,4,243913,3,Asia:Pakistan:FATA:Wazir-s:Wana,9/2/2015,postgres,Name Cleanup 2015-08-18
+439288,Sanni Sub-division,1/1/1990,12/31/9999,4,243858,3,Asia:Pakistan:BALOCHISTAN:Bolan:Sanni,9/2/2015,postgres,Name Cleanup 2015-08-18
+439323,WARI SUB-DIVISION,1/1/1990,12/31/9999,4,243908,3,Asia:Pakistan:KP:Dirupper:Wari,9/2/2015,postgres,Name Cleanup 2015-08-18
+439498,PASRUR TEHSIL,1/1/1990,12/31/9999,4,243617,3,Asia:Pakistan:PUNJAB:Sialkot:Pasrur,9/2/2015,postgres,Name Cleanup 2015-08-18
+439709,ROHRI TALUKA,1/1/1990,12/31/9999,4,243762,3,Asia:Pakistan:SINDH:Sukkur:Rohri,9/2/2015,postgres,Name Cleanup 2015-08-18
+439929,JANDOOL SUB-DIVISION,1/1/1990,12/31/9999,4,243628,3,Asia:Pakistan:KP:Dirlower:Samarbagh,9/2/2015,postgres,Name Cleanup 2015-08-18
+440518,KALUR KOT TEHSIL,1/1/1990,12/31/9999,4,243747,3,Asia:Pakistan:PUNJAB:Bhakkar:Kalur Kot,9/2/2015,postgres,Name Cleanup 2015-08-18
+440732,CHISHTIAN TEHSIL,1/1/1990,12/31/9999,4,243775,3,Asia:Pakistan:PUNJAB:Bahwlnagar:Chishtian,9/2/2015,postgres,Name Cleanup 2015-08-18
+440960,GARHI KHAIRO TALUKA,1/1/1990,12/31/9999,4,243690,3,Asia:Pakistan:SINDH:Jacobabad:Garhi Khairo,9/2/2015,postgres,Name Cleanup 2015-08-18
+441646,TAUNSA TEHSIL,1/1/1990,12/31/9999,4,243765,3,Asia:Pakistan:PUNJAB:DGKhan:Taunsa,9/2/2015,postgres,Name Cleanup 2015-08-18
+441650,MARDAN TEHSIL,1/1/1990,12/31/9999,4,243736,3,Asia:Pakistan:KP:Mardan:Mardan,9/2/2015,postgres,Name Cleanup 2015-08-18
+441660,H.B.MURREE,1/1/1990,12/31/9999,4,243957,3,Asia:Pakistan:SINDH:Mirpurkhas:H.B. Murree,9/2/2015,postgres,Name Cleanup 2015-08-18
+441808,CHAK JHUMRA TEHSIL,1/1/1990,12/31/9999,4,243655,3,Asia:Pakistan:PUNJAB:Faisalabad:Chak Jhumra,9/2/2015,postgres,Name Cleanup 2015-08-18
+441896,PITHORO TALUKA,1/1/1990,12/31/9999,4,243578,3,Asia:Pakistan:SINDH:Umerkot:Pithoro,9/2/2015,postgres,Name Cleanup 2015-08-18
+442040,WAZIRABAD TEHSIL,1/1/1990,12/31/9999,4,243619,3,Asia:Pakistan:PUNJAB:Gujranwala:Wazirabad,9/2/2015,postgres,Name Cleanup 2015-08-18
+442122,KAMARI,1/1/1990,12/31/9999,4,243450,2,Asia:Pakistan:SINDH:KHIKAMARI,9/2/2015,postgres,Name Cleanup 2015-08-18
+442234,TANDO MUHAMMAD KHAN TALUKA,1/1/1990,12/31/9999,4,243960,3,Asia:Pakistan:SINDH:TMKhan:TMKhan,9/2/2015,postgres,Name Cleanup 2015-08-18
+442566,DE-EXCLUDED AREA,1/1/1990,12/31/9999,4,243790,3,Asia:Pakistan:PUNJAB:Rajanpur:FR Rajanpur,9/2/2015,postgres,Name Cleanup 2015-08-18
+442567,TANGI TEHSIL,1/1/1990,12/31/9999,4,243733,3,Asia:Pakistan:KP:Charsada:Tangi,9/2/2015,postgres,Name Cleanup 2015-08-18
+442819,TANK TEHSIL,1/1/1990,12/31/9999,4,243755,3,Asia:Pakistan:KP:Tank:Tank,9/2/2015,postgres,Name Cleanup 2015-08-18
+442921,SOHAWA TEHSIL,1/1/1990,12/31/9999,4,243657,3,Asia:Pakistan:PUNJAB:Jhelum:Sohawa,9/2/2015,postgres,Name Cleanup 2015-08-18
+442857,BAR CHAMER KAND TEHSIL,1/1/1990,12/31/9999,4,243817,3,Asia:Pakistan:FATA:Bajour:Bar Chamer Kand,9/2/2015,postgres,Name Cleanup 2015-08-18
+443056,MIRPUR MATHELO TALUKA,1/1/1990,12/31/9999,4,243791,3,Asia:Pakistan:SINDH:Ghotki:Mirpur Mathelo,9/2/2015,postgres,Name Cleanup 2015-08-18
+443194,SHAH FAISAL,1/1/1990,12/31/9999,4,243487,2,Asia:Pakistan:SINDH:KHISHAHFAISAL,9/2/2015,postgres,Name Cleanup 2015-08-18
+443209,TALA GANG TEHSIL,1/1/1990,12/31/9999,4,243729,3,Asia:Pakistan:PUNJAB:Chakwal:Tala Gang,9/2/2015,postgres,Name Cleanup 2015-08-18
+443222,THARI MIRWAH TALUKA,1/1/1990,12/31/9999,4,243677,3,Asia:Pakistan:SINDH:Khairpur:Thari Mirwah,9/2/2015,postgres,Name Cleanup 2015-08-18
+443237,LOWER KURRAM TEHSIL,1/1/1990,12/31/9999,4,243831,3,Asia:Pakistan:FATA:Kurram:Lower Kurram,9/2/2015,postgres,Name Cleanup 2015-08-18
+443328,UTMAN KHEL TEHSIL,1/1/1990,12/31/9999,4,243813,3,Asia:Pakistan:FATA:Bajour:Utman Khel,9/2/2015,postgres,Name Cleanup 2015-08-18
+443427,HYDERABAD RURAL TALUKA,1/1/1990,12/31/9999,4,243796,3,Asia:Pakistan:SINDH:Hyderabad:Hyderabad Rural,9/2/2015,postgres,Name Cleanup 2015-08-18
+443556,KHAIRPUR TAMEWALI TEHSIL,1/1/1990,12/31/9999,4,243772,3,Asia:Pakistan:PUNJAB:Bahawalpur:Khairpur Tamewali,9/2/2015,postgres,Name Cleanup 2015-08-18
+443804,KHANGARH TALUKA,1/1/1990,12/31/9999,4,243788,3,Asia:Pakistan:SINDH:Ghotki:Khangarh,9/2/2015,postgres,Name Cleanup 2015-08-18
+443807,PIPLAN TEHSIL,1/1/1990,12/31/9999,4,243750,3,Asia:Pakistan:PUNJAB:Mianwali:Piplan,9/2/2015,postgres,Name Cleanup 2015-08-18
+443919,ICT TEHSIL,1/1/1990,12/31/9999,4,243894,3,Asia:Pakistan:ISLAMABAD:ICT:ICT,9/2/2015,postgres,Name Cleanup 2015-08-18
+444088,SINJHORO TALUKA,1/1/1990,12/31/9999,4,243574,3,Asia:Pakistan:SINDH:Sanghar:Sinjhoro,9/2/2015,postgres,Name Cleanup 2015-08-18
+444120,Taftan Sub-division,1/1/1990,12/31/9999,4,243839,3,Asia:Pakistan:BALOCHISTAN:Chaghai:Taftan,9/2/2015,postgres,Name Cleanup 2015-08-18
+444158,BARNALA TEHSIL,1/1/1990,12/31/9999,4,243706,3,Asia:Pakistan:AJK:Bhimber:Barnala,9/2/2015,postgres,Name Cleanup 2015-08-18
