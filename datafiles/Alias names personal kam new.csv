@@ -1,0 +1,1113 @@
+"id","alias","valid_from_date","valid_to_date","nameset_id","hierarchy_name_id","admin_level","alias_dot_name","last_upddate","last_userid","message","parent_id"
+NA,"kpakhtunkhwa",NA,NA,9,243412,1,"asia:pakistan:kpakhtunkhwa",NA,"skroiss",NA,-999999
+NA,"arewa",NA,NA,9,317213,2,"africa:nigeria:kebbi:arewa",NA,"kmccarthy",NA,288963
+NA,"briniwa",NA,NA,9,317103,2,"africa:nigeria:jigawa:briniwa",NA,"kmccarthy",NA,288986
+NA,"ayedade",NA,NA,9,317355,2,"africa:nigeria:osun:ayedade",NA,"kmccarthy",NA,288992
+NA,"malam madori",NA,NA,9,317079,2,"africa:nigeria:jigawa:malam madori",NA,"kmccarthy",NA,288986
+NA,"ayedire",NA,NA,9,317349,2,"africa:nigeria:osun:ayedire",NA,"kmccarthy",NA,288992
+NA,"nassarawa",NA,NA,9,317285,2,"africa:nigeria:nassarawa:nassarawa",NA,"kmccarthy",NA,288975
+NA,"fct abuja",NA,NA,9,288925,1,"africa:nigeria:fct abuja",NA,"kmccarthy",NA,288513
+NA,"yewa south",NA,NA,9,317329,2,"africa:nigeria:ogun:yewa south",NA,"kmccarthy",NA,288995
+NA,"yewa north",NA,NA,9,317323,2,"africa:nigeria:ogun:yewa north",NA,"kmccarthy",NA,288995
+NA,"buu",NA,NA,9,288542,0,"africa:buu",NA,"kmccarthy",NA,288488
+NA,"les",NA,NA,9,288646,0,"africa:les",NA,"kmccarthy",NA,288488
+NA,"rwa",NA,NA,9,288514,0,"africa:rwa",NA,"kmccarthy",NA,288488
+NA,"dji",NA,NA,9,288595,0,"africa:dji",NA,"kmccarthy",NA,288488
+NA,"mas",NA,NA,9,288509,0,"africa:mas",NA,"kmccarthy",NA,288488
+NA,"nie",NA,NA,9,288513,0,"africa:nie",NA,"kmccarthy",NA,288488
+NA,"nig",NA,NA,9,288729,0,"africa:nig",NA,"kmccarthy",NA,288488
+NA,"sil",NA,NA,9,288657,0,"africa:sil",NA,"kmccarthy",NA,288488
+NA,"uga",NA,NA,9,288733,0,"africa:uga",NA,"kmccarthy",NA,288488
+NA,"zim",NA,NA,9,288626,0,"africa:zim",NA,"kmccarthy",NA,288488
+NA,"alg",NA,NA,9,288700,0,"africa:alg",NA,"kmccarthy",NA,288488
+NA,"cod",NA,NA,9,288528,0,"africa:cod",NA,"kmccarthy",NA,288488
+NA,"ang",NA,NA,9,288499,0,"africa:ang",NA,"kmccarthy",NA,288488
+NA,"ben",NA,NA,9,288530,0,"africa:ben",NA,"kmccarthy",NA,288488
+NA,"bfa",NA,NA,9,288732,0,"africa:bfa",NA,"kmccarthy",NA,288488
+NA,"bot",NA,NA,9,288653,0,"africa:bot",NA,"kmccarthy",NA,288488
+NA,"cae",NA,NA,9,288547,0,"africa:cae",NA,"kmccarthy",NA,288488
+NA,"caf",NA,NA,9,288537,0,"africa:caf",NA,"kmccarthy",NA,288488
+NA,"cav",NA,NA,9,288539,0,"africa:cav",NA,"kmccarthy",NA,288488
+NA,"cha",NA,NA,9,288545,0,"africa:cha",NA,"kmccarthy",NA,288488
+NA,"cng",NA,NA,9,288663,0,"africa:cng",NA,"kmccarthy",NA,288488
+NA,"com",NA,NA,9,288664,0,"africa:com",NA,"kmccarthy",NA,288488
+NA,"eqg",NA,NA,9,288701,0,"africa:eqg",NA,"kmccarthy",NA,288488
+NA,"eri",NA,NA,9,288557,0,"africa:eri",NA,"kmccarthy",NA,288488
+NA,"eth",NA,NA,9,288551,0,"africa:eth",NA,"kmccarthy",NA,288488
+NA,"gab",NA,NA,9,288563,0,"africa:gab",NA,"kmccarthy",NA,288488
+NA,"gam",NA,NA,9,288714,0,"africa:gam",NA,"kmccarthy",NA,288488
+NA,"gha",NA,NA,9,288565,0,"africa:gha",NA,"kmccarthy",NA,288488
+NA,"gub",NA,NA,9,288507,0,"africa:gub",NA,"kmccarthy",NA,288488
+NA,"gui",NA,NA,9,288571,0,"africa:gui",NA,"kmccarthy",NA,288488
+NA,"ivc",NA,NA,9,288708,0,"africa:ivc",NA,"kmccarthy",NA,288488
+NA,"ken",NA,NA,9,288726,0,"africa:ken",NA,"kmccarthy",NA,288488
+NA,"lib",NA,NA,9,288629,0,"africa:lib",NA,"kmccarthy",NA,288488
+NA,"mad",NA,NA,9,288618,0,"africa:mad",NA,"kmccarthy",NA,288488
+NA,"mai",NA,NA,9,288719,0,"africa:mai",NA,"kmccarthy",NA,288488
+NA,"mal",NA,NA,9,288590,0,"africa:mal",NA,"kmccarthy",NA,288488
+NA,"mau",NA,NA,9,288512,0,"africa:mau",NA,"kmccarthy",NA,288488
+NA,"moz",NA,NA,9,288597,0,"africa:moz",NA,"kmccarthy",NA,288488
+NA,"nam",NA,NA,9,288678,0,"africa:nam",NA,"kmccarthy",NA,288488
+NA,"sen",NA,NA,9,288622,0,"africa:sen",NA,"kmccarthy",NA,288488
+NA,"sey",NA,NA,9,288516,0,"africa:sey",NA,"kmccarthy",NA,288488
+NA,"soa",NA,NA,9,288677,0,"africa:soa",NA,"kmccarthy",NA,288488
+NA,"stp",NA,NA,9,288694,0,"africa:stp",NA,"kmccarthy",NA,288488
+NA,"swz",NA,NA,9,288706,0,"africa:swz",NA,"kmccarthy",NA,288488
+NA,"tan",NA,NA,9,288704,0,"africa:tan",NA,"kmccarthy",NA,288488
+NA,"tog",NA,NA,9,288604,0,"africa:tog",NA,"kmccarthy",NA,288488
+NA,"zam",NA,NA,9,288655,0,"africa:zam",NA,"kmccarthy",NA,288488
+NA,"egy",NA,NA,9,288558,0,"africa:egy",NA,"kmccarthy",NA,288488
+NA,"liy",NA,NA,9,288549,0,"africa:liy",NA,"kmccarthy",NA,288488
+NA,"mor",NA,NA,9,288501,0,"africa:mor",NA,"kmccarthy",NA,288488
+NA,"som",NA,NA,9,288580,0,"africa:som",NA,"kmccarthy",NA,288488
+NA,"sud",NA,NA,9,288616,0,"africa:sud",NA,"kmccarthy",NA,288488
+NA,"tun",NA,NA,9,288640,0,"africa:tun",NA,"kmccarthy",NA,288488
+NA,"oued-ed-dahab-lagoui",NA,NA,9,290596,1,"africa:mor:oued-ed-dahab-lagoui",NA,"kmccarthy",NA,288501
+NA,"ain defla",NA,NA,9,290016,1,"africa:alg:ain defla",NA,"kmccarthy",NA,288700
+NA,"ain temouchent",NA,NA,9,290004,1,"africa:alg:ain temouchent",NA,"kmccarthy",NA,288700
+NA,"el oued",NA,NA,9,289962,1,"africa:alg:el oued",NA,"kmccarthy",NA,288700
+NA,"el tarf",NA,NA,9,289953,1,"africa:alg:el tarf",NA,"kmccarthy",NA,288700
+NA,"oum el bouaghi",NA,NA,9,289988,1,"africa:alg:oum el bouaghi",NA,"kmccarthy",NA,288700
+NA,"sidi bel abbes",NA,NA,9,289996,1,"africa:alg:sidi bel abbes",NA,"kmccarthy",NA,288700
+NA,"souk ahras",NA,NA,9,290002,1,"africa:alg:souk ahras",NA,"kmccarthy",NA,288700
+NA,"tizi ouzou",NA,NA,9,289997,1,"africa:alg:tizi ouzou",NA,"kmccarthy",NA,288700
+NA,"bujumbura-mairie",NA,NA,9,289559,1,"africa:buu:bujumbura-mairie",NA,"kmccarthy",NA,288542
+NA,"bujumbura-rural",NA,NA,9,289558,1,"africa:buu:bujumbura-rural",NA,"kmccarthy",NA,288542
+NA,"extreme-nord",NA,NA,9,289776,1,"africa:cae:extreme-nord",NA,"kmccarthy",NA,288547
+NA,"nord-ouest",NA,NA,9,289785,1,"africa:cae:nord-ouest",NA,"kmccarthy",NA,288547
+NA,"sud-ouest",NA,NA,9,289794,1,"africa:cae:sud-ouest",NA,"kmccarthy",NA,288547
+NA,"kasai occidental",NA,NA,9,289529,1,"africa:cod:kasai occidental",NA,"kmccarthy",NA,288528
+NA,"kasai oriental",NA,NA,9,288756,1,"africa:cod:kasai oriental",NA,"kmccarthy",NA,288528
+NA,"nord kivu",NA,NA,9,289705,1,"africa:cod:nord kivu",NA,"kmccarthy",NA,288528
+NA,"sud kivu",NA,NA,9,290938,1,"africa:cod:sud kivu",NA,"kmccarthy",NA,288528
+NA,"centro sur",NA,NA,9,290116,1,"africa:eqg:centro sur",NA,"kmccarthy",NA,288701
+NA,"kie ntem",NA,NA,9,290115,1,"africa:eqg:kie ntem",NA,"kmccarthy",NA,288701
+NA,"wele nzas",NA,NA,9,290112,1,"africa:eqg:wele nzas",NA,"kmccarthy",NA,288701
+NA,"gash barka",NA,NA,9,289970,1,"africa:eri:gash barka",NA,"kmccarthy",NA,288557
+NA,"moyen ogooue",NA,NA,9,290075,1,"africa:gab:moyen ogooue",NA,"kmccarthy",NA,288563
+NA,"thaba-tseka",NA,NA,9,290503,1,"africa:les:thaba-tseka",NA,"kmccarthy",NA,288646
+NA,"north western",NA,NA,9,289406,1,"africa:zam:north western",NA,"kmccarthy",NA,288655
+NA,"kabale",NA,NA,9,321356,1,"africa:uga:kabale",NA,"kmccarthy",NA,288929
+NA,"kabarole",NA,NA,9,321362,1,"africa:uga:kabarole",NA,"kmccarthy",NA,289097
+NA,"kalangala",NA,NA,9,321357,1,"africa:uga:kalangala",NA,"kmccarthy",NA,288949
+NA,"masvingo",NA,NA,9,325295,1,"africa:zim:masvingo",NA,"kmccarthy",NA,291189
+NA,"annaba",NA,NA,9,305576,1,"africa:alg:annaba",NA,"kmccarthy",NA,290005
+NA,"batna",NA,NA,9,305577,1,"africa:alg:batna",NA,"kmccarthy",NA,289954
+NA,"bechar",NA,NA,9,305578,1,"africa:alg:bechar",NA,"kmccarthy",NA,289956
+NA,"bejaia",NA,NA,9,305579,1,"africa:alg:bejaia",NA,"kmccarthy",NA,290011
+NA,"biskra",NA,NA,9,305580,1,"africa:alg:biskra",NA,"kmccarthy",NA,289959
+NA,"bouira",NA,NA,9,305583,1,"africa:alg:bouira",NA,"kmccarthy",NA,289955
+NA,"constantine",NA,NA,9,305586,1,"africa:alg:constantine",NA,"kmccarthy",NA,289960
+NA,"djelfa",NA,NA,9,305587,1,"africa:alg:djelfa",NA,"kmccarthy",NA,289961
+NA,"jijel",NA,NA,9,291299,1,"africa:alg:jijel",NA,"kmccarthy",NA,290013
+NA,"mascara",NA,NA,9,305596,1,"africa:alg:mascara",NA,"kmccarthy",NA,289974
+NA,"mila",NA,NA,9,305598,1,"africa:alg:mila",NA,"kmccarthy",NA,289981
+NA,"mostaganem",NA,NA,9,305599,1,"africa:alg:mostaganem",NA,"kmccarthy",NA,289982
+NA,"m'sila",NA,NA,9,305595,1,"africa:alg:m'sila",NA,"kmccarthy",NA,289973
+NA,"naama",NA,NA,9,305600,1,"africa:alg:naama",NA,"kmccarthy",NA,289983
+NA,"oran",NA,NA,9,305601,1,"africa:alg:oran",NA,"kmccarthy",NA,289985
+NA,"ouargla",NA,NA,9,305602,1,"africa:alg:ouargla",NA,"kmccarthy",NA,289986
+NA,"saida",NA,NA,9,305605,1,"africa:alg:saida",NA,"kmccarthy",NA,289993
+NA,"setif",NA,NA,9,305606,1,"africa:alg:setif",NA,"kmccarthy",NA,289994
+NA,"skikda",NA,NA,9,305608,1,"africa:alg:skikda",NA,"kmccarthy",NA,289998
+NA,"tebessa",NA,NA,9,305612,1,"africa:alg:tebessa",NA,"kmccarthy",NA,290006
+NA,"tiaret",NA,NA,9,305613,1,"africa:alg:tiaret",NA,"kmccarthy",NA,290012
+NA,"tlemcen",NA,NA,9,305618,1,"africa:alg:tlemcen",NA,"kmccarthy",NA,290007
+NA,"benguela",NA,NA,9,291428,1,"africa:ang:benguela",NA,"kmccarthy",NA,289458
+NA,"cabinda",NA,NA,9,293749,1,"africa:ang:cabinda",NA,"kmccarthy",NA,289452
+NA,"huambo",NA,NA,9,293761,1,"africa:ang:huambo",NA,"kmccarthy",NA,289465
+NA,"luanda",NA,NA,9,293812,1,"africa:ang:luanda",NA,"kmccarthy",NA,288741
+NA,"moxico",NA,NA,9,293848,1,"africa:ang:moxico",NA,"kmccarthy",NA,288742
+NA,"namibe",NA,NA,9,293855,1,"africa:ang:namibe",NA,"kmccarthy",NA,289472
+NA,"uige",NA,NA,9,293868,1,"africa:ang:uige",NA,"kmccarthy",NA,289473
+NA,"banfora",NA,NA,9,295627,1,"africa:bfa:banfora",NA,"kmccarthy",NA,289539
+NA,"dedougou",NA,NA,9,295621,1,"africa:bfa:dedougou",NA,"kmccarthy",NA,289533
+NA,"dori",NA,NA,9,295676,1,"africa:bfa:dori",NA,"kmccarthy",NA,289527
+NA,"gaoua",NA,NA,9,295681,1,"africa:bfa:gaoua",NA,"kmccarthy",NA,289528
+NA,"kaya",NA,NA,9,295644,1,"africa:bfa:kaya",NA,"kmccarthy",NA,289526
+NA,"koudougou",NA,NA,9,295648,1,"africa:bfa:koudougou",NA,"kmccarthy",NA,289536
+NA,"manga",NA,NA,9,295651,1,"africa:bfa:manga",NA,"kmccarthy",NA,289505
+NA,"ouahigouya",NA,NA,9,295668,1,"africa:bfa:ouahigouya",NA,"kmccarthy",NA,288755
+NA,"tenkodogo",NA,NA,9,295636,1,"africa:bfa:tenkodogo",NA,"kmccarthy",NA,289525
+NA,"bobirwa",NA,NA,9,300202,1,"africa:bot:bobirwa",NA,"kmccarthy",NA,289690
+NA,"boteti",NA,NA,9,300203,1,"africa:bot:boteti",NA,"kmccarthy",NA,289684
+NA,"chobe",NA,NA,9,300208,1,"africa:bot:chobe",NA,"kmccarthy",NA,289698
+NA,"francistown",NA,NA,9,300209,1,"africa:bot:francistown",NA,"kmccarthy",NA,289697
+NA,"gaborone",NA,NA,9,300210,1,"africa:bot:gaborone",NA,"kmccarthy",NA,289696
+NA,"gantsi",NA,NA,9,300211,1,"africa:bot:gantsi",NA,"kmccarthy",NA,289694
+NA,"goodhope",NA,NA,9,300206,1,"africa:bot:goodhope",NA,"kmccarthy",NA,289702
+NA,"hukuntsi",NA,NA,9,300212,1,"africa:bot:hukuntsi",NA,"kmccarthy",NA,289695
+NA,"jwaneng",NA,NA,9,300207,1,"africa:bot:jwaneng",NA,"kmccarthy",NA,289702
+NA,"kgalagadi",NA,NA,9,300213,1,"africa:bot:kgalagadi",NA,"kmccarthy",NA,289691
+NA,"kgatleng",NA,NA,9,300214,1,"africa:bot:kgatleng",NA,"kmccarthy",NA,289693
+NA,"kweneng east",NA,NA,9,300215,1,"africa:bot:kweneng east",NA,"kmccarthy",NA,289678
+NA,"kweneng west",NA,NA,9,300216,1,"africa:bot:kweneng west",NA,"kmccarthy",NA,289677
+NA,"lobatse",NA,NA,9,300217,1,"africa:bot:lobatse",NA,"kmccarthy",NA,289692
+NA,"mahalapye",NA,NA,9,300218,1,"africa:bot:mahalapye",NA,"kmccarthy",NA,289679
+NA,"ngami",NA,NA,9,300220,1,"africa:bot:ngami",NA,"kmccarthy",NA,289703
+NA,"north east",NA,NA,9,300221,1,"africa:bot:north east",NA,"kmccarthy",NA,289680
+NA,"selibe phikwe",NA,NA,9,300223,1,"africa:bot:selibe phikwe",NA,"kmccarthy",NA,289699
+NA,"serowe/palapye",NA,NA,9,300224,1,"africa:bot:serowe/palapye",NA,"kmccarthy",NA,289655
+NA,"south east",NA,NA,9,300225,1,"africa:bot:south east",NA,"kmccarthy",NA,289685
+NA,"tutume",NA,NA,9,300227,1,"africa:bot:tutume",NA,"kmccarthy",NA,289689
+NA,"bubanza",NA,NA,9,295689,1,"africa:buu:bubanza",NA,"kmccarthy",NA,289561
+NA,"bururi",NA,NA,9,295696,1,"africa:buu:bururi",NA,"kmccarthy",NA,289540
+NA,"cankuzo",NA,NA,9,295699,1,"africa:buu:cankuzo",NA,"kmccarthy",NA,289552
+NA,"cibitoke",NA,NA,9,295700,1,"africa:buu:cibitoke",NA,"kmccarthy",NA,289503
+NA,"gitega",NA,NA,9,295702,1,"africa:buu:gitega",NA,"kmccarthy",NA,289548
+NA,"kayanza",NA,NA,9,295707,1,"africa:buu:kayanza",NA,"kmccarthy",NA,289557
+NA,"kirundo",NA,NA,9,295709,1,"africa:buu:kirundo",NA,"kmccarthy",NA,289562
+NA,"makamba",NA,NA,9,295712,1,"africa:buu:makamba",NA,"kmccarthy",NA,289555
+NA,"muramvya",NA,NA,9,295714,1,"africa:buu:muramvya",NA,"kmccarthy",NA,289553
+NA,"muyinga",NA,NA,9,295716,1,"africa:buu:muyinga",NA,"kmccarthy",NA,289551
+NA,"ngozi",NA,NA,9,295720,1,"africa:buu:ngozi",NA,"kmccarthy",NA,289538
+NA,"rutana",NA,NA,9,295722,1,"africa:buu:rutana",NA,"kmccarthy",NA,289542
+NA,"ruyigi",NA,NA,9,295725,1,"africa:buu:ruyigi",NA,"kmccarthy",NA,289549
+NA,"maio",NA,NA,9,305409,1,"africa:cav:maio",NA,"kmccarthy",NA,289892
+NA,"sao vicente",NA,NA,9,305420,1,"africa:cav:sao vicente",NA,"kmccarthy",NA,289873
+NA,"bandundu",NA,NA,9,300531,1,"africa:cod:bandundu",NA,"kmccarthy",NA,291160
+NA,"kinshasa",NA,NA,9,300818,1,"africa:cod:kinshasa",NA,"kmccarthy",NA,288754
+NA,"mwali",NA,NA,9,312434,1,"africa:com:mwali",NA,"kmccarthy",NA,290344
+NA,"dire dawa",NA,NA,9,306184,1,"africa:eth:dire dawa",NA,"kmccarthy",NA,288856
+NA,"harari",NA,NA,9,306187,1,"africa:eth:harari",NA,"kmccarthy",NA,289984
+NA,"banjul",NA,NA,9,306490,1,"africa:gam:banjul",NA,"kmccarthy",NA,290102
+NA,"maccarthy island",NA,NA,9,306496,1,"africa:gam:maccarthy island",NA,"kmccarthy",NA,290103
+NA,"bafata",NA,NA,9,325329,1,"africa:gub:bafata",NA,"kmccarthy",NA,290165
+NA,"bolama",NA,NA,9,306954,1,"africa:gub:bolama",NA,"kmccarthy",NA,290170
+NA,"biombo",NA,NA,9,291799,1,"africa:gub:biombo",NA,"kmccarthy",NA,290166
+NA,"bissau",NA,NA,9,306949,1,"africa:gub:bissau",NA,"kmccarthy",NA,290161
+NA,"cacheu",NA,NA,9,306951,1,"africa:gub:cacheu",NA,"kmccarthy",NA,290164
+NA,"gabu",NA,NA,9,306952,1,"africa:gub:gabu",NA,"kmccarthy",NA,290172
+NA,"oio",NA,NA,9,306953,1,"africa:gub:oio",NA,"kmccarthy",NA,290177
+NA,"quinara",NA,NA,9,306955,1,"africa:gub:quinara",NA,"kmccarthy",NA,290170
+NA,"tombali",NA,NA,9,306956,1,"africa:gub:tombali",NA,"kmccarthy",NA,290171
+NA,"boke",NA,NA,9,306525,1,"africa:gui:boke",NA,"kmccarthy",NA,288872
+NA,"mamou",NA,NA,9,306553,1,"africa:gui:mamou",NA,"kmccarthy",NA,290110
+NA,"n'zerekore",NA,NA,9,306561,1,"africa:gui:n'zerekore",NA,"kmccarthy",NA,290111
+NA,"kankan",NA,NA,9,306538,1,"africa:gui:kankan",NA,"kmccarthy",NA,290106
+NA,"kindia",NA,NA,9,306543,1,"africa:gui:kindia",NA,"kmccarthy",NA,290105
+NA,"faranah",NA,NA,9,306536,1,"africa:gui:faranah",NA,"kmccarthy",NA,290104
+NA,"labe",NA,NA,9,306550,1,"africa:gui:labe",NA,"kmccarthy",NA,290108
+NA,"nairobi",NA,NA,9,312216,1,"africa:ken:nairobi",NA,"kmccarthy",NA,290460
+NA,"berea",NA,NA,9,312809,1,"africa:les:berea",NA,"kmccarthy",NA,290563
+NA,"leribe",NA,NA,9,312811,1,"africa:les:leribe",NA,"kmccarthy",NA,290548
+NA,"mafeteng",NA,NA,9,312812,1,"africa:les:mafeteng",NA,"kmccarthy",NA,290556
+NA,"maseru",NA,NA,9,312813,1,"africa:les:maseru",NA,"kmccarthy",NA,290519
+NA,"mokhotlong",NA,NA,9,312815,1,"africa:les:mokhotlong",NA,"kmccarthy",NA,290562
+NA,"quthing",NA,NA,9,312817,1,"africa:les:quthing",NA,"kmccarthy",NA,290564
+NA,"bomi",NA,NA,9,312804,1,"africa:lib:bomi",NA,"kmccarthy",NA,290549
+NA,"bong",NA,NA,9,312794,1,"africa:lib:bong",NA,"kmccarthy",NA,290552
+NA,"gbarpolu",NA,NA,9,312795,1,"africa:lib:gbarpolu",NA,"kmccarthy",NA,290542
+NA,"grand bassa",NA,NA,9,312796,1,"africa:lib:grand bassa",NA,"kmccarthy",NA,290545
+NA,"grand cape mount",NA,NA,9,312798,1,"africa:lib:grand cape mount",NA,"kmccarthy",NA,290558
+NA,"grand gedeh",NA,NA,9,312800,1,"africa:lib:grand gedeh",NA,"kmccarthy",NA,290547
+NA,"grand kru",NA,NA,9,312803,1,"africa:lib:grand kru",NA,"kmccarthy",NA,290550
+NA,"lofa",NA,NA,9,312801,1,"africa:lib:lofa",NA,"kmccarthy",NA,290543
+NA,"margibi",NA,NA,9,312805,1,"africa:lib:margibi",NA,"kmccarthy",NA,290549
+NA,"maryland",NA,NA,9,312802,1,"africa:lib:maryland",NA,"kmccarthy",NA,290550
+NA,"montserrado",NA,NA,9,312806,1,"africa:lib:montserrado",NA,"kmccarthy",NA,290549
+NA,"nimba",NA,NA,9,312807,1,"africa:lib:nimba",NA,"kmccarthy",NA,290555
+NA,"rivercess",NA,NA,9,312797,1,"africa:lib:rivercess",NA,"kmccarthy",NA,290545
+NA,"river gee",NA,NA,9,312799,1,"africa:lib:river gee",NA,"kmccarthy",NA,290547
+NA,"sinoe",NA,NA,9,312808,1,"africa:lib:sinoe",NA,"kmccarthy",NA,290559
+NA,"gao",NA,NA,9,313155,1,"africa:mai:gao",NA,"kmccarthy",NA,290898
+NA,"koulikoro",NA,NA,9,313176,1,"africa:mai:koulikoro",NA,"kmccarthy",NA,290907
+NA,"sikasso",NA,NA,9,313192,1,"africa:mai:sikasso",NA,"kmccarthy",NA,290906
+NA,"kayes",NA,NA,9,313164,1,"africa:mai:kayes",NA,"kmccarthy",NA,290899
+NA,"kidal",NA,NA,9,313167,1,"africa:mai:kidal",NA,"kmccarthy",NA,290915
+NA,"mopti",NA,NA,9,313179,1,"africa:mai:mopti",NA,"kmccarthy",NA,290897
+NA,"segou",NA,NA,9,313201,1,"africa:mai:segou",NA,"kmccarthy",NA,290905
+NA,"tombouctou",NA,NA,9,313204,1,"africa:mai:tombouctou",NA,"kmccarthy",NA,290913
+NA,"moka",NA,NA,9,313631,1,"africa:mas:moka",NA,"kmccarthy",NA,288762
+NA,"pamplemousses",NA,NA,9,313633,1,"africa:mas:pamplemousses",NA,"kmccarthy",NA,288761
+NA,"port louis",NA,NA,9,313635,1,"africa:mas:port louis",NA,"kmccarthy",NA,290573
+NA,"savanne",NA,NA,9,313636,1,"africa:mas:savanne",NA,"kmccarthy",NA,291056
+NA,"black river",NA,NA,9,313628,1,"africa:mas:black river",NA,"kmccarthy",NA,291049
+NA,"flacq",NA,NA,9,313629,1,"africa:mas:flacq",NA,"kmccarthy",NA,291052
+NA,"grand port",NA,NA,9,313630,1,"africa:mas:grand port",NA,"kmccarthy",NA,291057
+NA,"manica",NA,NA,9,316612,1,"africa:moz:manica",NA,"kmccarthy",NA,288795
+NA,"bauchi",NA,NA,9,316870,1,"africa:nie:bauchi",NA,"kmccarthy",NA,288983
+NA,"ebonyi",NA,NA,9,316986,1,"africa:nie:ebonyi",NA,"kmccarthy",NA,289009
+NA,"gombe",NA,NA,9,317046,1,"africa:nie:gombe",NA,"kmccarthy",NA,289844
+NA,"katsina",NA,NA,9,317176,1,"africa:nie:katsina",NA,"kmccarthy",NA,288997
+NA,"kogi",NA,NA,9,317240,1,"africa:nie:kogi",NA,"kmccarthy",NA,288979
+NA,"nasarawa",NA,NA,9,317285,1,"africa:nie:nasarawa",NA,"kmccarthy",NA,288975
+NA,"agadez",NA,NA,9,316735,1,"africa:nig:agadez",NA,"kmccarthy",NA,288958
+NA,"diffa",NA,NA,9,316741,1,"africa:nig:diffa",NA,"kmccarthy",NA,288959
+NA,"dosso",NA,NA,9,316743,1,"africa:nig:dosso",NA,"kmccarthy",NA,288961
+NA,"tahoua",NA,NA,9,316752,1,"africa:nig:tahoua",NA,"kmccarthy",NA,288962
+NA,"zinder",NA,NA,9,316770,1,"africa:nig:zinder",NA,"kmccarthy",NA,289163
+NA,"diourbel",NA,NA,9,319256,1,"africa:sen:diourbel",NA,"kmccarthy",NA,290567
+NA,"fatick",NA,NA,9,319261,1,"africa:sen:fatick",NA,"kmccarthy",NA,290448
+NA,"kaolack",NA,NA,9,319267,1,"africa:sen:kaolack",NA,"kmccarthy",NA,290570
+NA,"tambacounda",NA,NA,9,319283,1,"africa:sen:tambacounda",NA,"kmccarthy",NA,289796
+NA,"kolda",NA,NA,9,291393,1,"africa:sen:kolda",NA,"kmccarthy",NA,290568
+NA,"louga",NA,NA,9,319270,1,"africa:sen:louga",NA,"kmccarthy",NA,289795
+NA,"thies",NA,NA,9,319293,1,"africa:sen:thies",NA,"kmccarthy",NA,289764
+NA,"ziguinchor",NA,NA,9,319297,1,"africa:sen:ziguinchor",NA,"kmccarthy",NA,290447
+NA,"hhohho",NA,NA,9,319858,1,"africa:swz:hhohho",NA,"kmccarthy",NA,290707
+NA,"lubombo",NA,NA,9,319859,1,"africa:swz:lubombo",NA,"kmccarthy",NA,290709
+NA,"manzini",NA,NA,9,319860,1,"africa:swz:manzini",NA,"kmccarthy",NA,290713
+NA,"shiselweni",NA,NA,9,319861,1,"africa:swz:shiselweni",NA,"kmccarthy",NA,290706
+NA,"arusha",NA,NA,9,321265,1,"africa:tan:arusha",NA,"kmccarthy",NA,290812
+NA,"iringa",NA,NA,9,321279,1,"africa:tan:iringa",NA,"kmccarthy",NA,290767
+NA,"kigoma",NA,NA,9,321301,1,"africa:tan:kigoma",NA,"kmccarthy",NA,288845
+NA,"lindi",NA,NA,9,321176,1,"africa:tan:lindi",NA,"kmccarthy",NA,290813
+NA,"mwanza",NA,NA,9,321324,1,"africa:tan:mwanza",NA,"kmccarthy",NA,290776
+NA,"morogoro",NA,NA,9,321198,1,"africa:tan:morogoro",NA,"kmccarthy",NA,290785
+NA,"singida",NA,NA,9,321245,1,"africa:tan:singida",NA,"kmccarthy",NA,290745
+NA,"south pemba",NA,NA,9,321217,1,"africa:tan:south pemba",NA,"kmccarthy",NA,290761
+NA,"tanga",NA,NA,9,321261,1,"africa:tan:tanga",NA,"kmccarthy",NA,290787
+NA,"adjumani",NA,NA,9,321345,1,"africa:uga:adjumani",NA,"kmccarthy",NA,291093
+NA,"apac",NA,NA,9,321347,1,"africa:uga:apac",NA,"kmccarthy",NA,291090
+NA,"arua",NA,NA,9,321373,1,"africa:uga:arua",NA,"kmccarthy",NA,289000
+NA,"bugiri",NA,NA,9,321348,1,"africa:uga:bugiri",NA,"kmccarthy",NA,291055
+NA,"bundibugyo",NA,NA,9,321352,1,"africa:uga:bundibugyo",NA,"kmccarthy",NA,289027
+NA,"bushenyi",NA,NA,9,321351,1,"africa:uga:bushenyi",NA,"kmccarthy",NA,290063
+NA,"gulu",NA,NA,9,321367,1,"africa:uga:gulu",NA,"kmccarthy",NA,288927
+NA,"hoima",NA,NA,9,321353,1,"africa:uga:hoima",NA,"kmccarthy",NA,289027
+NA,"iganga",NA,NA,9,321375,1,"africa:uga:iganga",NA,"kmccarthy",NA,288921
+NA,"jinja",NA,NA,9,321354,1,"africa:uga:jinja",NA,"kmccarthy",NA,289392
+NA,"kampala",NA,NA,9,321360,1,"africa:uga:kampala",NA,"kmccarthy",NA,289001
+NA,"kamuli",NA,NA,9,321361,1,"africa:uga:kamuli",NA,"kmccarthy",NA,289393
+NA,"kapchorwa",NA,NA,9,321363,1,"africa:uga:kapchorwa",NA,"kmccarthy",NA,289327
+NA,"kasese",NA,NA,9,321364,1,"africa:uga:kasese",NA,"kmccarthy",NA,289096
+NA,"katakwi",NA,NA,9,321346,1,"africa:uga:katakwi",NA,"kmccarthy",NA,291087
+NA,"kibaale",NA,NA,9,321365,1,"africa:uga:kibaale",NA,"kmccarthy",NA,289092
+NA,"kiboga",NA,NA,9,321366,1,"africa:uga:kiboga",NA,"kmccarthy",NA,288928
+NA,"kisoro",NA,NA,9,321369,1,"africa:uga:kisoro",NA,"kmccarthy",NA,290879
+NA,"kitgum",NA,NA,9,321370,1,"africa:uga:kitgum",NA,"kmccarthy",NA,290827
+NA,"kotido",NA,NA,9,321355,1,"africa:uga:kotido",NA,"kmccarthy",NA,289002
+NA,"kumi",NA,NA,9,321371,1,"africa:uga:kumi",NA,"kmccarthy",NA,290924
+NA,"lira",NA,NA,9,321372,1,"africa:uga:lira",NA,"kmccarthy",NA,289078
+NA,"mpigi",NA,NA,9,321379,1,"africa:uga:mpigi",NA,"kmccarthy",NA,288792
+NA,"mubende",NA,NA,9,321380,1,"africa:uga:mubende",NA,"kmccarthy",NA,288757
+NA,"mukono",NA,NA,9,321381,1,"africa:uga:mukono",NA,"kmccarthy",NA,291075
+NA,"luwero",NA,NA,9,292880,1,"africa:uga:luwero",NA,"kmccarthy",NA,290876
+NA,"masaka",NA,NA,9,321359,1,"africa:uga:masaka",NA,"kmccarthy",NA,288949
+NA,"masindi",NA,NA,9,321374,1,"africa:uga:masindi",NA,"kmccarthy",NA,288950
+NA,"mbale",NA,NA,9,292881,1,"africa:uga:mbale",NA,"kmccarthy",NA,291015
+NA,"mbarara",NA,NA,9,321368,1,"africa:uga:mbarara",NA,"kmccarthy",NA,291095
+NA,"moroto",NA,NA,9,321377,1,"africa:uga:moroto",NA,"kmccarthy",NA,290882
+NA,"moyo",NA,NA,9,321378,1,"africa:uga:moyo",NA,"kmccarthy",NA,288847
+NA,"nakasongola",NA,NA,9,321382,1,"africa:uga:nakasongola",NA,"kmccarthy",NA,291054
+NA,"nebbi",NA,NA,9,321383,1,"africa:uga:nebbi",NA,"kmccarthy",NA,291053
+NA,"ntungamo",NA,NA,9,321384,1,"africa:uga:ntungamo",NA,"kmccarthy",NA,291050
+NA,"pallisa",NA,NA,9,321385,1,"africa:uga:pallisa",NA,"kmccarthy",NA,289150
+NA,"rakai",NA,NA,9,321386,1,"africa:uga:rakai",NA,"kmccarthy",NA,288743
+NA,"rukungiri",NA,NA,9,321387,1,"africa:uga:rukungiri",NA,"kmccarthy",NA,289149
+NA,"soroti",NA,NA,9,321389,1,"africa:uga:soroti",NA,"kmccarthy",NA,289098
+NA,"tororo",NA,NA,9,321390,1,"africa:uga:tororo",NA,"kmccarthy",NA,289133
+NA,"bulawayo",NA,NA,9,325254,1,"africa:zim:bulawayo",NA,"kmccarthy",NA,291176
+NA,"harare",NA,NA,9,325257,1,"africa:zim:harare",NA,"kmccarthy",NA,288879
+NA,"manicaland",NA,NA,9,325264,1,"africa:zim:manicaland",NA,"kmccarthy",NA,291186
+NA,"dikhil",NA,NA,9,305422,1,"africa:dji:dikhil",NA,"kmccarthy",NA,289815
+NA,"djibouti",NA,NA,9,305423,1,"africa:dji:djibouti",NA,"kmccarthy",NA,289773
+NA,"tadjourah",NA,NA,9,305425,1,"africa:dji:tadjourah",NA,"kmccarthy",NA,289915
+NA,"6th of october",NA,NA,9,305963,1,"africa:egy:6th of october",NA,"kmccarthy",NA,290041
+NA,"assiut",NA,NA,9,291606,1,"africa:egy:assiut",NA,"kmccarthy",NA,289842
+NA,"aswan",NA,NA,9,305862,1,"africa:egy:aswan",NA,"kmccarthy",NA,290033
+NA,"damietta",NA,NA,9,305935,1,"africa:egy:damietta",NA,"kmccarthy",NA,290045
+NA,"helwaan",NA,NA,9,305980,1,"africa:egy:helwaan",NA,"kmccarthy",NA,290034
+NA,"ismailia",NA,NA,9,305981,1,"africa:egy:ismailia",NA,"kmccarthy",NA,290042
+NA,"matrouh",NA,NA,9,306017,1,"africa:egy:matrouh",NA,"kmccarthy",NA,290030
+NA,"menia",NA,NA,9,306022,1,"africa:egy:menia",NA,"kmccarthy",NA,290031
+NA,"new valley",NA,NA,9,306045,1,"africa:egy:new valley",NA,"kmccarthy",NA,290040
+NA,"port said",NA,NA,9,306051,1,"africa:egy:port said",NA,"kmccarthy",NA,288849
+NA,"qena",NA,NA,9,306053,1,"africa:egy:qena",NA,"kmccarthy",NA,290035
+NA,"red sea",NA,NA,9,306067,1,"africa:egy:red sea",NA,"kmccarthy",NA,290036
+NA,"sohag",NA,NA,9,306095,1,"africa:egy:sohag",NA,"kmccarthy",NA,289606
+NA,"gharyan",NA,NA,9,312822,1,"africa:liy:gharyan",NA,"kmccarthy",NA,290569
+NA,"al khums",NA,NA,9,312851,1,"africa:liy:al khums",NA,"kmccarthy",NA,290565
+NA,"al zawiyah",NA,NA,9,312829,1,"africa:liy:al zawiyah",NA,"kmccarthy",NA,290575
+NA,"benghazi",NA,NA,9,312833,1,"africa:liy:benghazi",NA,"kmccarthy",NA,288915
+NA,"sabha",NA,NA,9,312842,1,"africa:liy:sabha",NA,"kmccarthy",NA,290576
+NA,"sert",NA,NA,9,312846,1,"africa:liy:sert",NA,"kmccarthy",NA,290572
+NA,"tarabulus",NA,NA,9,312849,1,"africa:liy:tarabulus",NA,"kmccarthy",NA,290565
+NA,"ben-arous",NA,NA,9,320770,1,"africa:tun:ben-arous",NA,"kmccarthy",NA,290919
+NA,"jendouba",NA,NA,9,320809,1,"africa:tun:jendouba",NA,"kmccarthy",NA,290921
+NA,"mahdia",NA,NA,9,320869,1,"africa:tun:mahdia",NA,"kmccarthy",NA,291096
+NA,"monastir",NA,NA,9,320891,1,"africa:tun:monastir",NA,"kmccarthy",NA,291089
+NA,"nabeul",NA,NA,9,320907,1,"africa:tun:nabeul",NA,"kmccarthy",NA,290874
+NA,"tataouine",NA,NA,9,320978,1,"africa:tun:tataouine",NA,"kmccarthy",NA,289192
+NA,"tozeur",NA,NA,9,320981,1,"africa:tun:tozeur",NA,"kmccarthy",NA,290354
+NA,"zaghouan",NA,NA,9,321007,1,"africa:tun:zaghouan",NA,"kmccarthy",NA,290048
+NA,"mashonal west",NA,NA,9,288880,1,"africa:zim:mashonal west",NA,"kmccarthy",NA,288626
+NA,"oriental",NA,NA,9,288756,1,"africa:cod:oriental",NA,"kmccarthy",NA,288528
+NA,"alger",NA,NA,9,289972,1,"africa:alg:alger",NA,"kmccarthy",NA,288700
+NA,"bourdj bou arrer",NA,NA,9,288846,1,"africa:alg:bourdj bou arrer",NA,"kmccarthy",NA,288700
+NA,"huila",NA,NA,9,289466,1,"africa:ang:huila",NA,"kmccarthy",NA,288499
+NA,"cuando cubango",NA,NA,9,289467,1,"africa:ang:cuando cubango",NA,"kmccarthy",NA,288499
+NA,"cuanza norte",NA,NA,9,289468,1,"africa:ang:cuanza norte",NA,"kmccarthy",NA,288499
+NA,"cuanza sul",NA,NA,9,288734,1,"africa:ang:cuanza sul",NA,"kmccarthy",NA,288499
+NA,"malanje",NA,NA,9,289471,1,"africa:ang:malanje",NA,"kmccarthy",NA,288499
+NA,"plateau",NA,NA,9,288815,1,"africa:ben:plateau",NA,"kmccarthy",NA,288530
+NA,"donga",NA,NA,9,289573,1,"africa:ben:donga",NA,"kmccarthy",NA,288530
+NA,"littoral",NA,NA,9,289571,1,"africa:ben:littoral",NA,"kmccarthy",NA,288530
+NA,"mono",NA,NA,9,289570,1,"africa:ben:mono",NA,"kmccarthy",NA,288530
+NA,"oueme",NA,NA,9,289574,1,"africa:ben:oueme",NA,"kmccarthy",NA,288530
+NA,"centre",NA,NA,9,289801,1,"africa:cae:centre",NA,"kmccarthy",NA,288547
+NA,"nord",NA,NA,9,289781,1,"africa:cae:nord",NA,"kmccarthy",NA,288547
+NA,"borkou-ennedi-tibesti",NA,NA,9,290727,1,"africa:cha:borkou-ennedi-tibesti",NA,"kmccarthy",NA,288545
+NA,"hadjer lamis",NA,NA,9,290726,1,"africa:cha:hadjer lamis",NA,"kmccarthy",NA,288545
+NA,"plateaux",NA,NA,9,289725,1,"africa:cng:plateaux",NA,"kmccarthy",NA,288663
+NA,"benishangul gumuz",NA,NA,9,290053,1,"africa:eth:benishangul gumuz",NA,"kmccarthy",NA,288551
+NA,"nyanga",NA,NA,9,290073,1,"africa:gab:nyanga",NA,"kmccarthy",NA,288563
+NA,"wouleu ntem",NA,NA,9,290068,1,"africa:gab:wouleu ntem",NA,"kmccarthy",NA,288563
+NA,"lower rive",NA,NA,9,290097,1,"africa:gam:lower rive",NA,"kmccarthy",NA,288714
+NA,"central",NA,NA,9,290089,1,"africa:gha:central",NA,"kmccarthy",NA,288565
+NA,"northern",NA,NA,9,289980,1,"africa:gha:northern",NA,"kmccarthy",NA,288565
+NA,"western",NA,NA,9,290086,1,"africa:gha:western",NA,"kmccarthy",NA,288565
+NA,"vallee du bandaman",NA,NA,9,289740,1,"africa:ivc:vallee du bandaman",NA,"kmccarthy",NA,288708
+NA,"nyanza",NA,NA,9,290465,1,"africa:ken:nyanza",NA,"kmccarthy",NA,288726
+NA,"buhta-buhte",NA,NA,9,290546,1,"africa:les:buhta-buhte",NA,"kmccarthy",NA,288646
+NA,"mohale's hoek",NA,NA,9,290561,1,"africa:les:mohale's hoek",NA,"kmccarthy",NA,288646
+NA,"qacha's nek",NA,NA,9,290526,1,"africa:les:qacha's nek",NA,"kmccarthy",NA,288646
+NA,"southern",NA,NA,9,288764,1,"africa:mal:southern",NA,"kmccarthy",NA,288590
+NA,"plaine wilhems",NA,NA,9,288758,1,"africa:mas:plaine wilhems",NA,"kmccarthy",NA,288509
+NA,"rodrigues",NA,NA,9,290578,1,"africa:mas:rodrigues",NA,"kmccarthy",NA,288509
+NA,"delta",NA,NA,9,289010,1,"africa:nie:delta",NA,"kmccarthy",NA,288513
+NA,"tillabery",NA,NA,9,288974,1,"africa:nig:tillabery",NA,"kmccarthy",NA,288729
+NA,"est",NA,NA,9,290557,1,"africa:rwa:est",NA,"kmccarthy",NA,288514
+NA,"ouest",NA,NA,9,288913,1,"africa:rwa:ouest",NA,"kmccarthy",NA,288514
+NA,"saint-louis",NA,NA,9,289797,1,"africa:sen:saint-louis",NA,"kmccarthy",NA,288622
+NA,"centre",NA,NA,9,290754,1,"africa:tog:centre",NA,"kmccarthy",NA,288604
+NA,"buliisa",NA,NA,9,321385,1,"africa:uga:buliisa",NA,"kmccarthy",NA,289150
+NA,"kamwenge",NA,NA,9,289097,1,"africa:uga:kamwenge",NA,"kmccarthy",NA,288733
+NA,"mayuge",NA,NA,9,288921,1,"africa:uga:mayuge",NA,"kmccarthy",NA,288733
+NA,"ssembabule",NA,NA,9,290838,1,"africa:uga:ssembabule",NA,"kmccarthy",NA,288733
+NA,"southern",NA,NA,9,289403,1,"africa:zam:southern",NA,"kmccarthy",NA,288655
+NA,"mashonal east",NA,NA,9,289407,1,"africa:zim:mashonal east",NA,"kmccarthy",NA,288626
+NA,"ali sabieh",NA,NA,9,289832,1,"africa:dji:ali sabieh",NA,"kmccarthy",NA,288595
+NA,"alexandria",NA,NA,9,290008,1,"africa:egy:alexandria",NA,"kmccarthy",NA,288558
+NA,"bay",NA,NA,9,289375,1,"africa:som:bay",NA,"kmccarthy",NA,288580
+NA,"north bahr el ghazal",NA,NA,9,289354,1,"africa:sud:north bahr el ghazal",NA,"kmccarthy",NA,288616
+NA,"warab",NA,NA,9,289356,1,"africa:sud:warab",NA,"kmccarthy",NA,288616
+NA,"west bahr el ghazal",NA,NA,9,289340,1,"africa:sud:west bahr el ghazal",NA,"kmccarthy",NA,288616
+NA,"maakel",NA,NA,9,289978,1,"africa:eritrea:maakel",NA,"kmccarthy",NA,288557
+NA,"northern",NA,NA,9,289979,1,"africa:eritrea:northern",NA,"kmccarthy",NA,288557
+NA,"southern",NA,NA,9,289976,1,"africa:eritrea:southern",NA,"kmccarthy",NA,288557
+NA,"fct",NA,NA,9,288925,1,"africa:nie:fct",NA,"kmccarthy",NA,288513
+NA,"bahr el jebel",NA,NA,9,289344,1,"africa:sud:bahr el jebel",NA,"kmccarthy",NA,288616
+NA,"matabel south",NA,NA,9,291187,1,"africa:zim:matabel south",NA,"kmccarthy",NA,288626
+NA,"matabel north",NA,NA,9,288881,1,"africa:zim:matabel north",NA,"kmccarthy",NA,288626
+NA,"mashonal central",NA,NA,9,291184,1,"africa:zim:mashonal central",NA,"kmccarthy",NA,288626
+NA,"kanye/moshopa",NA,NA,9,289702,1,"africa:bot:kanye/moshopa",NA,"kmccarthy",NA,288653
+NA,"bafing-denguele",NA,NA,9,289742,1,"africa:ivc:bafing-denguele",NA,"kmccarthy",NA,288708
+NA,"grand comore",NA,NA,9,290341,1,"africa:com:grand comore",NA,"kmccarthy",NA,288664
+NA,"kaberamaido",NA,NA,9,289098,1,"africa:uga:kaberamaido",NA,"kmccarthy",NA,288733
+NA,"kaliro",NA,NA,9,289150,1,"africa:uga:kaliro",NA,"kmccarthy",NA,288733
+NA,"abim",NA,NA,9,289002,1,"africa:uga:abim",NA,"kmccarthy",NA,288733
+NA,"amolatar",NA,NA,9,289078,1,"africa:uga:amolatar",NA,"kmccarthy",NA,288733
+NA,"amuru",NA,NA,9,288927,1,"africa:uga:amuru",NA,"kmccarthy",NA,288733
+NA,"budaka",NA,NA,9,289150,1,"africa:uga:budaka",NA,"kmccarthy",NA,288733
+NA,"bududa",NA,NA,9,291015,1,"africa:uga:bududa",NA,"kmccarthy",NA,288733
+NA,"bukedea",NA,NA,9,290924,1,"africa:uga:bukedea",NA,"kmccarthy",NA,288733
+NA,"bukwa",NA,NA,9,289327,1,"africa:uga:bukwa",NA,"kmccarthy",NA,288733
+NA,"busia",NA,NA,9,289133,1,"africa:uga:busia",NA,"kmccarthy",NA,288733
+NA,"butaleja",NA,NA,9,288939,1,"africa:uga:butaleja",NA,"kmccarthy",NA,288671
+NA,"dokolo",NA,NA,9,289098,1,"africa:uga:dokolo",NA,"kmccarthy",NA,288733
+NA,"ibanda",NA,NA,9,291095,1,"africa:uga:ibanda",NA,"kmccarthy",NA,288733
+NA,"isingiro",NA,NA,9,291050,1,"africa:uga:isingiro",NA,"kmccarthy",NA,288733
+NA,"kanungu",NA,NA,9,289149,1,"africa:uga:kanungu",NA,"kmccarthy",NA,288733
+NA,"kayunga",NA,NA,9,289001,1,"africa:uga:kayunga",NA,"kmccarthy",NA,288733
+NA,"koboko",NA,NA,9,289000,1,"africa:uga:koboko",NA,"kmccarthy",NA,288733
+NA,"kyenjojo",NA,NA,9,289097,1,"africa:uga:kyenjojo",NA,"kmccarthy",NA,288733
+NA,"lyantonde",NA,NA,9,288743,1,"africa:uga:lyantonde",NA,"kmccarthy",NA,288733
+NA,"manafwa",NA,NA,9,291015,1,"africa:uga:nakapiripirit",NA,"kmccarthy",NA,288733
+NA,"nakapiripirit",NA,NA,9,290882,1,"africa:uga:manafwa",NA,"kmccarthy",NA,288733
+NA,"nakaseke",NA,NA,9,290876,1,"africa:uga:nakaseke",NA,"kmccarthy",NA,288733
+NA,"namutumba",NA,NA,9,289392,1,"africa:uga:namutumba",NA,"kmccarthy",NA,288733
+NA,"oyam",NA,NA,9,291090,1,"africa:uga:oyam",NA,"kmccarthy",NA,288733
+NA,"pader",NA,NA,9,290827,1,"africa:uga:pader",NA,"kmccarthy",NA,288733
+NA,"sironko",NA,NA,9,291015,1,"africa:uga:sironko",NA,"kmccarthy",NA,288733
+NA,"wakiso",NA,NA,9,288792,1,"africa:uga:wakiso",NA,"kmccarthy",NA,288733
+NA,"yumbe",NA,NA,9,289000,1,"africa:uga:yumbe",NA,"kmccarthy",NA,288733
+NA,"fct  abuja",NA,NA,9,288925,1,"africa:nigeria:fct  abuja",NA,"kmccarthy",NA,288513
+NA,"esan north-east","1/1/1990","12/31/9999",9,316999,2,"africa:nigeria:edo:esan north-east",NA,"kmccarthy",NA,289004
+NA,"koko besse","1/1/1990","12/31/9999",9,317203,2,"africa:nigeria:kebbi:koko besse",NA,"kmccarthy",NA,288963
+NA,"dange shuni","1/1/1990","12/31/9999",9,317463,2,"africa:nigeria:sokoto:dange shuni",NA,"kmccarthy",NA,288989
+NA,"ado ekiti","1/1/1990","12/31/9999",9,317019,2,"africa:nigeria:ekiti:ado ekiti",NA,"kmccarthy",NA,289003
+NA,"sokotosouth","1/1/1990","12/31/9999",9,292487,2,"africa:nigeria:sokoto:sokotosouth",NA,"kmccarthy",NA,288989
+NA,"oshodi\isolo","1/1/1990","12/31/9999",9,317271,2,"africa:nigeria:lagos:oshodi\isolo",NA,"kmccarthy",NA,288981
+NA,"ido/osi","1/1/1990","12/31/9999",9,317007,2,"africa:nigeria:ekiti:ido/osi",NA,"kmccarthy",NA,289003
+NA,"tafawa balewa","1/1/1990","12/31/9999",9,316880,2,"africa:nigeria:bauchi:tafawa balewa",NA,"kmccarthy",NA,288983
+NA,"katsina ala","1/1/1990","12/31/9999",9,316905,2,"africa:nigeria:benue:katsina ala",NA,"kmccarthy",NA,289013
+NA,"dutsin-ma","1/1/1990","12/31/9999",9,317191,2,"africa:nigeria:katsina:dutsin-ma",NA,"kmccarthy",NA,288997
+NA,"quaanpan","1/1/1990","12/31/9999",9,317410,2,"africa:nigeria:plateau:quaanpan",NA,"kmccarthy",NA,290694
+NA,"yamaltu deba","1/1/1990","12/31/9999",9,317044,2,"africa:nigeria:gombe:yamaltu deba",NA,"kmccarthy",NA,289844
+NA,"jima","1/1/1990","12/31/9999",9,306201,2,"africa:ethiopia:oromia:jima",NA,"kmccarthy",NA,289989
+NA,"mekelle","1/1/1990","12/31/9999",9,306235,2,"africa:ethiopia:tigray:mekelle",NA,"kmccarthy",NA,290000
+NA,"wammako","1/1/1990","12/31/9999",9,317451,2,"africa:nigeria:sokoto:wammako",NA,"kmccarthy",NA,288989
+NA,"wamakko","1/1/1990","12/31/9999",9,317451,2,"africa:nigeria:sokoto:wamakko",NA,"kmccarthy",NA,288989
+NA,"kiri kassama","1/1/1990","12/31/9999",9,317083,2,"africa:nigeria:jigawa:kiri kassama",NA,"kmccarthy",NA,288986
+NA,"shanono","1/1/1990","12/31/9999",9,317142,2,"africa:nigeria:katsina:shanono",NA,"kmccarthy",NA,288984
+NA,"iwo","1/1/1990","12/31/9999",9,317367,2,"africa:nigeria:oyo:iwo",NA,"kmccarthy",NA,288992
+NA,"ahoada west","1/1/1990","12/31/9999",9,317423,2,"africa:nigeria:bayelsa:ahoada west",NA,"kmccarthy",NA,288993
+NA,"sagbama","1/1/1990","12/31/9999",9,316885,2,"africa:nigeria:delta:sagbama",NA,"kmccarthy",NA,288990
+NA,"gwandu","1/1/1990","12/31/9999",9,317220,2,"africa:nigeria:kaduna:gwandu",NA,"kmccarthy",NA,288963
+NA,"kebbe","1/1/1990","12/31/9999",9,317459,2,"africa:nigeria:kebbi:kebbe",NA,"kmccarthy",NA,288989
+NA,"ifo","1/1/1990","12/31/9999",9,317318,2,"africa:nigeria:osun:ifo",NA,"kmccarthy",NA,288995
+NA,"dutse","1/1/1990","12/31/9999",9,317101,2,"africa:nigeria:katsina:dutse",NA,"kmccarthy",NA,288986
+NA,"ibadan north west","1/1/1990","12/31/9999",9,317378,2,"africa:nigeria:ogun:ibadan north west",NA,"kmccarthy",NA,288991
+NA,"gwandu","1/1/1990","12/31/9999",9,317220,2,"africa:nigeria:sokoto:gwandu",NA,"kmccarthy",NA,288963
+NA,"nguru","1/1/1990","12/31/9999",9,317490,2,"africa:nigeria:jigawa:nguru",NA,"kmccarthy",NA,288977
+NA,"ede south","1/1/1990","12/31/9999",9,317359,2,"africa:nigeria:oyo:ede south",NA,"kmccarthy",NA,288992
+NA,"eti osa","1/1/1990","12/31/9999",9,317270,2,"africa:nigeria:oyo:eti osa",NA,"kmccarthy",NA,288981
+NA,"ado","1/1/1990","12/31/9999",9,316900,2,"africa:nigeria:ekiti:ado",NA,"kmccarthy",NA,289013
+NA,"sagbama","1/1/1990","12/31/9999",9,316885,2,"africa:nigeria:ogun:sagbama",NA,"kmccarthy",NA,288990
+NA,"e harerghe","1/1/1990","12/31/9999",9,306192,2,"africa:ethiopia:oromia:e harerghe",NA,"kmccarthy",NA,289989
+NA,"kefa","1/1/1990","12/31/9999",9,306221,2,"africa:ethiopia:snnpr:kefa",NA,"kmccarthy",NA,289990
+NA,"wolayta","1/1/1990","12/31/9999",9,306202,2,"africa:ethiopia:snnpr:wolayta",NA,"kmccarthy",NA,289990
+NA,"c tigray","1/1/1990","12/31/9999",9,306237,2,"africa:ethiopia:tigray:c tigray",NA,"kmccarthy",NA,290000
+NA,"w harerghe","1/1/1990","12/31/9999",9,306199,2,"africa:ethiopia:oromia:w harerghe",NA,"kmccarthy",NA,289989
+NA,"afar 2","1/1/1990","12/31/9999",9,306167,2,"africa:ethiopia:afar:afar 2",NA,"kmccarthy",NA,290001
+NA,"w shewa","1/1/1990","12/31/9999",9,306198,2,"africa:ethiopia:oromia:w shewa",NA,"kmccarthy",NA,289989
+NA,"sw shewa","1/1/1990","12/31/9999",9,306200,2,"africa:ethiopia:oromia:sw shewa",NA,"kmccarthy",NA,289989
+NA,"n wello","1/1/1990","12/31/9999",9,306171,2,"africa:ethiopia:amhara:n wello",NA,"kmccarthy",NA,290052
+NA,"w arsi","1/1/1990","12/31/9999",9,306194,2,"africa:ethiopia:oromia:w arsi",NA,"kmccarthy",NA,289989
+NA,"kembata/tembaro","1/1/1990","12/31/9999",9,306219,2,"africa:ethiopia:snnpr:kembata/tembaro",NA,"kmccarthy",NA,289990
+NA,"n gonder","1/1/1990","12/31/9999",9,306179,2,"africa:ethiopia:amhara:n gonder",NA,"kmccarthy",NA,290052
+NA,"hareri","1/1/1990","12/31/9999",9,306187,2,"africa:ethiopia:hareri:hareri",NA,"kmccarthy",NA,289984
+NA,"w wellega","1/1/1990","12/31/9999",9,306189,2,"africa:ethiopia:oromia:w wellega",NA,"kmccarthy",NA,289989
+NA,"w gojjam","1/1/1990","12/31/9999",9,306177,2,"africa:ethiopia:amhara:w gojjam",NA,"kmccarthy",NA,290052
+NA,"n shoa","1/1/1990","12/31/9999",9,306196,2,"africa:ethiopia:oromia:n shoa",NA,"kmccarthy",NA,289989
+NA,"afar 4","1/1/1990","12/31/9999",9,306169,2,"africa:ethiopia:afar:afar 4",NA,"kmccarthy",NA,290001
+NA,"afar 5","1/1/1990","12/31/9999",9,306168,2,"africa:ethiopia:afar:afar 5",NA,"kmccarthy",NA,290001
+NA,"s gonder","1/1/1990","12/31/9999",9,306180,2,"africa:ethiopia:amhara:s gonder",NA,"kmccarthy",NA,290052
+NA,"e shewa","1/1/1990","12/31/9999",9,306197,2,"africa:ethiopia:oromia:e shewa",NA,"kmccarthy",NA,289989
+NA,"e gojjam","1/1/1990","12/31/9999",9,306174,2,"africa:ethiopia:amhara:e gojjam",NA,"kmccarthy",NA,290052
+NA,"bench maji","1/1/1990","12/31/9999",9,306212,2,"africa:ethiopia:snnpr:bench maji",NA,"kmccarthy",NA,289990
+NA,"n shewa","1/1/1990","12/31/9999",9,306175,2,"africa:ethiopia:amhara:n shewa",NA,"kmccarthy",NA,290052
+NA,"s wello","1/1/1990","12/31/9999",9,306176,2,"africa:ethiopia:amhara:s wello",NA,"kmccarthy",NA,290052
+NA,"degehabur","1/1/1990","12/31/9999",9,306231,2,"africa:ethiopia:somali:degehabur",NA,"kmccarthy",NA,289999
+NA,"sw tigray","1/1/1990","12/31/9999",9,306233,2,"africa:ethiopia:tigray:sw tigray",NA,"kmccarthy",NA,290000
+NA,"fik","1/1/1990","12/31/9999",9,306223,2,"africa:ethiopia:somali:fik",NA,"kmccarthy",NA,289999
+NA,"afar 1","1/1/1990","12/31/9999",9,306166,2,"africa:ethiopia:afar:afar 1",NA,"kmccarthy",NA,290001
+NA,"e wellega","1/1/1990","12/31/9999",9,306190,2,"africa:ethiopia:oromia:e wellega",NA,"kmccarthy",NA,289989
+NA,"nw tigray","1/1/1990","12/31/9999",9,306236,2,"africa:ethiopia:tigray:nw tigray",NA,"kmccarthy",NA,290000
+NA,"sheka","1/1/1990","12/31/9999",9,306214,2,"africa:ethiopia:snnpr:sheka",NA,"kmccarthy",NA,289990
+NA,"s tigray","1/1/1990","12/31/9999",9,306233,2,"africa:ethiopia:tigray:s tigray",NA,"kmccarthy",NA,290000
+NA,"oromiya","1/1/1990","12/31/9999",9,306172,2,"africa:ethiopia:amhara:oromiya",NA,"kmccarthy",NA,290052
+NA,"silti","1/1/1990","12/31/9999",9,306215,2,"africa:ethiopia:snnpr:silti",NA,"kmccarthy",NA,289990
+NA,"girie","1/1/1990","12/31/9999",9,316793,2,"africa:nigeria:adamawa:girie",NA,"kmccarthy",NA,288965
+NA,"dawro","1/1/1990","12/31/9999",9,306222,2,"africa:ethiopia:snnpr:dawro",NA,"kmccarthy",NA,289990
+NA,"afar 3","1/1/1990","12/31/9999",9,306170,2,"africa:ethiopia:afar:afar 3",NA,"kmccarthy",NA,290001
+NA,"e tigray","1/1/1990","12/31/9999",9,306234,2,"africa:ethiopia:tigray:e tigray",NA,"kmccarthy",NA,290000
+NA,"s omo","1/1/1990","12/31/9999",9,306211,2,"africa:ethiopia:snnpr:s omo",NA,"kmccarthy",NA,289990
+NA,"ileela","1/1/1990","12/31/9999",9,317450,2,"africa:nigeria:sokoto:ileela",NA,"kmccarthy",NA,288989
+NA,"wag himra","1/1/1990","12/31/9999",9,325323,2,"africa:ethiopia:amhara:wag himra",NA,"kmccarthy",NA,290052
+NA,"municipal area counc","1/1/1990","12/31/9999",9,317039,2,"africa:nigeria:fct abuja:municipal area counc",NA,"kmccarthy",NA,288925
+NA,"aliero","1/1/1990","12/31/9999",9,291459,2,"africa:nigeria:kebbi:aliero",NA,"kmccarthy",NA,288963
+NA,"sule tankarkar","1/1/1990","12/31/9999",9,317081,2,"africa:nigeria:jigawa:sule tankarkar",NA,"kmccarthy",NA,288986
+NA,"jima t","1/1/1990","12/31/9999",9,306201,2,"africa:ethiopia:oromia:jima t",NA,"kmccarthy",NA,289989
+NA,"s/north","1/1/1990","12/31/9999",9,317456,2,"africa:nigeria:sokoto:s/north",NA,"kmccarthy",NA,288989
+NA,"birin kudu","1/1/1990","12/31/9999",9,317088,2,"africa:nigeria:jigawa:birin kudu",NA,"kmccarthy",NA,288986
+NA,"birniwa","1/1/1990","12/31/9999",9,317103,2,"africa:nigeria:jigawa:birniwa",NA,"kmccarthy",NA,288986
+NA,"ungogo","1/1/1990","12/31/9999",9,317143,2,"africa:nigeria:kano:ungogo",NA,"kmccarthy",NA,288984
+NA,"garun malam","1/1/1990","12/31/9999",9,317136,2,"africa:nigeria:kano:garun malam",NA,"kmccarthy",NA,288984
+NA,"kubau","1/1/1990","12/31/9999",9,317115,2,"africa:nigeria:kaduna:kubau",NA,"kmccarthy",NA,288985
+NA,"khatcha","1/1/1990","12/31/9999",9,317308,2,"africa:nigeria:niger:khatcha",NA,"kmccarthy",NA,288982
+NA,"jima t.","1/1/1990","12/31/9999",9,306201,2,"africa:ethiopia:oromia:jima t.",NA,"kmccarthy",NA,289989
+NA,"buruku","1/1/1990","12/31/9999",9,316891,2,"africa:nigeria:benue:buruku",NA,"kmccarthy",NA,289013
+NA,"n  wello","1/1/1990","12/31/9999",9,306171,2,"africa:ethiopia:amhara:n  wello",NA,"kmccarthy",NA,290052
+NA,"af3","1/1/1990","12/31/9999",9,306170,2,"africa:ethiopia:afar:af3",NA,"kmccarthy",NA,290001
+NA,"mekelle city","1/1/1990","12/31/9999",9,306235,2,"africa:ethiopia:tigray:mekelle city",NA,"kmccarthy",NA,290000
+NA,"bursari","1/1/1990","12/31/9999",9,317485,2,"africa:nigeria:yobe:bursari",NA,"kmccarthy",NA,288977
+NA,"se tigray","1/1/1990","12/31/9999",9,306233,2,"africa:ethiopia:tigray:se tigray",NA,"kmccarthy",NA,290000
+NA,"bade","1/1/1990","12/31/9999",9,317487,2,"africa:nigeria:yobe:bade",NA,"kmccarthy",NA,288977
+NA,"silte","1/1/1990","12/31/9999",9,306215,2,"africa:ethiopia:snnpr:silte",NA,"kmccarthy",NA,289990
+NA,"munya","1/1/1990","12/31/9999",9,317286,2,"africa:nigeria:niger:munya",NA,"kmccarthy",NA,288982
+NA,"illibabur","1/1/1990","12/31/9999",9,306195,2,"africa:ethiopia:oromia:illibabur",NA,"kmccarthy",NA,289989
+NA,"tarmuwa","1/1/1990","12/31/9999",9,317486,2,"africa:nigeria:yobe:tarmuwa",NA,"kmccarthy",NA,288977
+NA,"makurdi","1/1/1990","12/31/9999",9,316904,2,"africa:nigeria:benue:makurdi",NA,"kmccarthy",NA,289013
+NA,"onuimo","1/1/1990","12/31/9999",9,317056,2,"africa:nigeria:imo:onuimo",NA,"kmccarthy",NA,288987
+NA,"toungo","1/1/1990","12/31/9999",9,316794,2,"africa:nigeria:adamawa:toungo",NA,"kmccarthy",NA,288965
+NA,"shinile/siti","1/1/1990","12/31/9999",9,306229,2,"africa:ethiopia:somali:shinile/siti",NA,"kmccarthy",NA,289999
+NA,"fik/nogob","1/1/1990","12/31/9999",9,306223,2,"africa:ethiopia:somali:fik/nogob",NA,"kmccarthy",NA,289999
+NA,"liben/liban","1/1/1990","12/31/9999",9,306224,2,"africa:ethiopia:somali:liben/liban",NA,"kmccarthy",NA,289999
+NA,"lamurde","1/1/1990","12/31/9999",9,316797,2,"africa:nigeria:adamawa:lamurde",NA,"kmccarthy",NA,288965
+NA,"warder/dolo","1/1/1990","12/31/9999",9,306225,2,"africa:ethiopia:somali:warder/dolo",NA,"kmccarthy",NA,289999
+NA,"degehabur/jarar","1/1/1990","12/31/9999",9,306231,2,"africa:ethiopia:somali:degehabur/jarar",NA,"kmccarthy",NA,289999
+NA,"jijiga/fafan","1/1/1990","12/31/9999",9,306227,2,"africa:ethiopia:somali:jijiga/fafan",NA,"kmccarthy",NA,289999
+NA,"gode/shabele","1/1/1990","12/31/9999",9,306228,2,"africa:ethiopia:somali:gode/shabele",NA,"kmccarthy",NA,289999
+NA,"patigi","1/1/1990","12/31/9999",9,317247,2,"africa:nigeria:kwara:patigi",NA,"kmccarthy",NA,288980
+NA,"birnin magaji/kiyawa","1/1/1990","12/31/9999",9,291475,2,"africa:nigeria:zamfara:birnin magaji/kiyawa",NA,"kmccarthy",NA,288978
+NA,"bole","1/1/1990","12/31/9999",9,306165,2,"africa:ethiopia:addis ababa:bole",NA,"kmccarthy",NA,290056
+NA,"awassa ca","1/1/1990","12/31/9999",9,306209,2,"africa:ethiopia:snnpr:awassa ca",NA,"kmccarthy",NA,289990
+NA,"yeka","1/1/1990","12/31/9999",9,306160,2,"africa:ethiopia:addis ababa:yeka",NA,"kmccarthy",NA,290056
+NA,"bahir dar","1/1/1990","12/31/9999",9,306177,2,"africa:ethiopia:amhara:bahir dar",NA,"kmccarthy",NA,290052
+NA,"shashemene t.","1/1/1990","12/31/9999",9,306197,2,"africa:ethiopia:oromia:shashemene t.",NA,"kmccarthy",NA,289989
+NA,"lideta","1/1/1990","12/31/9999",9,306161,2,"africa:ethiopia:addis ababa:lideta",NA,"kmccarthy",NA,290056
+NA,"arada","1/1/1990","12/31/9999",9,306160,2,"africa:ethiopia:addis ababa:arada",NA,"kmccarthy",NA,290056
+NA,"benishangul g","1/1/1990","12/31/9999",9,290053,1,"africa:ethiopia:benishangul g",16855,"kmccarthy",NA,288551
+NA,"hareri","1/1/1990","12/31/9999",9,289984,1,"africa:ethiopia:hareri",16855,"kmccarthy",NA,288551
+NA,"kimbi-lulenge","1/1/1990","12/31/9999",9,300978,2,"africa:democratic republic of the congo:sud-kivu:kimbi-lulenge",16875,"kmccarthy",NA,290938
+NA,"malemba nkulu","1/1/1990","12/31/9999",9,300762,2,"africa:democratic republic of the congo:katanga:malemba nkulu",16875,"kmccarthy",NA,289720
+NA,"banga-lubaka","1/1/1990","12/31/9999",9,300654,2,"africa:democratic republic of the congo:kasai-occidental:banga-lubaka",16875,"kmccarthy",NA,289529
+NA,"kanda kanda","1/1/1990","12/31/9999",9,300706,2,"africa:democratic republic of the congo:kasai-oriental:kanda kanda",16875,"kmccarthy",NA,288756
+NA,"kasongo lunda","1/1/1990","12/31/9999",9,291575,2,"africa:democratic republic of the congo:bandundu:kasongo lunda",16875,"kmccarthy",NA,291160
+NA,"bambumines","1/1/1990","12/31/9999",9,300948,2,"africa:democratic republic of the congo:orientale:bambumines",16875,"kmccarthy",NA,289704
+NA,"kabeya-kamuanga","1/1/1990","12/31/9999",9,300707,2,"africa:democratic republic of the congo:kasai-oriental:kabeya-kamuanga",16875,"kmccarthy",NA,288756
+NA,"niania","1/1/1990","12/31/9999",9,300935,2,"africa:democratic republic of the congo:orientale:niania",16875,"kmccarthy",NA,289704
+NA,"mbanza ngungu","1/1/1990","12/31/9999",9,300565,2,"africa:democratic republic of the congo:bas-congo:mbanza ngungu",16875,"kmccarthy",NA,290973
+NA,"kwilu ngongo","1/1/1990","12/31/9999",9,300549,2,"africa:democratic republic of the congo:bas-congo:kwilu ngongo",16875,"kmccarthy",NA,290973
+NA,"lubunga","1/1/1990","12/31/9999",9,300926,2,"africa:democratic republic of the congo:kasai-occidental:lubunga",16875,"kmccarthy",NA,289704
+NA,"kapolowe","1/1/1990","12/31/9999",9,300774,2,"africa:democratic republic of the congo:sud-kivu:kapolowe",16875,"kmccarthy",NA,289720
+NA,"surulere.","1/1/1990","12/31/9999",9,292483,2,"africa:nigeria:oyo:surulere.",16897,"kmccarthy",NA,288991
+NA,"gulele","1/1/1990","12/31/9999",9,306162,2,"africa:ethiopia:addis ababa:gulele",NA,"kmccarthy",NA,290056
+NA,"kelem","1/1/1990","12/31/9999",9,306189,2,"africa:ethiopia:oromia:kelem",16897,"kmccarthy",NA,289989
+NA,"kolfe keranio","1/1/1990","12/31/9999",9,306165,2,"africa:ethiopia:addis ababa:kolfe keranio",16897,"kmccarthy",NA,290056
+NA,"horo guduru","1/1/1990","12/31/9999",9,306189,2,"africa:ethiopia:oromia:horo guduru",16897,"kmccarthy",NA,289989
+NA,"bishoftu t.","1/1/1990","12/31/9999",9,306197,2,"africa:ethiopia:oromia:bishoftu t.",16897,"kmccarthy",NA,289989
+NA,"kirkos","1/1/1990","12/31/9999",9,306165,2,"africa:ethiopia:addis ababa:kirkos",16897,"kmccarthy",NA,290056
+NA,"nefas-silk lafto","1/1/1990","12/31/9999",9,306161,2,"africa:ethiopia:addis ababa:nefas-silk lafto",16897,"kmccarthy",NA,290056
+NA,"adama t.","1/1/1990","12/31/9999",9,306197,2,"africa:ethiopia:oromia:adama t.",16897,"kmccarthy",NA,289989
+NA,"addis ketema","1/1/1990","12/31/9999",9,306162,2,"africa:ethiopia:addis ababa:addis ketema",16897,"kmccarthy",NA,290056
+NA,"asela t.","1/1/1990","12/31/9999",9,306194,2,"africa:ethiopia:oromia:asela t.",16897,"kmccarthy",NA,289989
+NA,"yem","1/1/1990","12/31/9999",9,306203,2,"africa:ethiopia:oromia:yem",16897,"kmccarthy",NA,289990
+NA,"basketo","1/1/1990","12/31/9999",9,306205,2,"africa:ethiopia:oromia:basketo",16897,"kmccarthy",NA,289990
+NA,"derashe","1/1/1990","12/31/9999",9,306207,2,"africa:ethiopia:oromia:derashe",16897,"kmccarthy",NA,289990
+NA,"burji","1/1/1990","12/31/9999",9,306208,2,"africa:ethiopia:oromia:burji",16897,"kmccarthy",NA,289990
+NA,"konta","1/1/1990","12/31/9999",9,306216,2,"africa:ethiopia:oromia:konta",16897,"kmccarthy",NA,289990
+NA,"amaro","1/1/1990","12/31/9999",9,306217,2,"africa:ethiopia:oromia:amaro",16897,"kmccarthy",NA,289990
+NA,"konso","1/1/1990","12/31/9999",9,306220,2,"africa:ethiopia:oromia:konso",16897,"kmccarthy",NA,289990
+NA,"alaba","1/1/1990","12/31/9999",9,306210,2,"africa:ethiopia:snnpr:alaba",16897,"kmccarthy",NA,289990
+NA,"bahir dar","1/1/1990","12/31/9999",9,306173,2,"africa:ethiopia:amhara:bahir dar",16897,"kmccarthy",NA,290052
+NA,"agnuak","1/1/1990","12/31/9999",9,306186,2,"africa:ethiopia:gambella:agnuak",16898,"kmccarthy",NA,290051
+NA,"akaki/kaliti","1/1/1990","12/31/9999",9,306163,2,"africa:ethiopia:addis ababa:akaki/kaliti",16898,"kmccarthy",NA,290056
+NA,"finfine zuria","1/1/1990","12/31/9999",9,306196,2,"africa:ethiopia:oromia:finfine zuria",16898,"kmccarthy",NA,289989
+NA,"tongo","1/1/1990","12/31/9999",9,306183,2,"africa:ethiopia:benishangul gumuz:tongo",16898,"kmccarthy",NA,290053
+NA,"pawe","1/1/1990","12/31/9999",9,306183,2,"africa:ethiopia:benishangul gumuz:pawe",16898,"kmccarthy",NA,290053
+NA,"dirashie","1/1/1990","12/31/9999",9,306207,2,"africa:ethiopia:snnpr:dirashie",16898,"kmccarthy",NA,289990
+NA,"mejenger","1/1/1990","12/31/9999",9,306186,2,"africa:ethiopia:gambella:mejenger",16898,"kmccarthy",NA,290051
+NA,"maokomo","1/1/1990","12/31/9999",9,306183,2,"africa:ethiopia:benishangul gumuz:maokomo",16898,"kmccarthy",NA,290053
+NA,"nuer","1/1/1990","12/31/9999",9,306185,2,"africa:ethiopia:gambella:nuer",16898,"kmccarthy",NA,290051
+NA,"gonder t","1/1/1990","12/31/9999",9,306180,2,"africa:ethiopia:amhara:gonder t",16898,"kmccarthy",NA,290052
+NA,"assella t","1/1/1990","12/31/9999",9,306194,2,"africa:ethiopia:oromia:assella t",16898,"kmccarthy",NA,289989
+NA,"segen surrounding zone","1/1/1990","12/31/9999",9,306208,2,"africa:ethiopia:snnpr:segen surrounding zone",16898,"kmccarthy",NA,289990
+NA,"gambella","1/1/1990","12/31/9999",9,306186,2,"africa:ethiopia:gambella:gambella",16898,"kmccarthy",NA,290051
+NA,"kebri dehar","1/1/1990","12/31/9999",9,306230,2,"africa:ethiopia:somali:kebri dehar",16898,"kmccarthy",NA,289999
+NA,"kindo didaye","1/1/1990","12/31/9999",9,306202,2,"africa:ethiopia:snnpr:kindo didaye",16898,"kmccarthy",NA,289990
+NA,"aleta chiko","1/1/1990","12/31/9999",9,306209,2,"africa:ethiopia:snnpr:aleta chiko",16898,"kmccarthy",NA,289990
+NA,"addis ababa","1/1/1990","12/31/9999",9,306162,2,"africa:ethiopia:addis ababa:addis ababa",16898,"kmccarthy",NA,290056
+NA,"kucha","1/1/1990","12/31/9999",9,306206,2,"africa:ethiopia:snnpr:kucha",16898,"kmccarthy",NA,289990
+NA,"korahe","1/1/1990","12/31/9999",9,306230,2,"africa:ethiopia:somali:korahe",16898,"kmccarthy",NA,289999
+NA,"salima","1/1/1990","12/31/9999",9,313645,2,"africa:malawi:central:salima",16898,"kmccarthy",NA,288765
+NA,"dedza","1/1/1990","12/31/9999",9,313639,2,"africa:malawi:central:dedza",16898,"kmccarthy",NA,288765
+NA,"dowa","1/1/1990","12/31/9999",9,313642,2,"africa:malawi:central:dowa",16898,"kmccarthy",NA,288765
+NA,"kasungu","1/1/1990","12/31/9999",9,313640,2,"africa:malawi:central:kasungu",16898,"kmccarthy",NA,288765
+NA,"lilongwe","1/1/1990","12/31/9999",9,313644,2,"africa:malawi:central:lilongwe",16898,"kmccarthy",NA,288765
+NA,"ntchisi","1/1/1990","12/31/9999",9,313641,2,"africa:malawi:central:ntchisi",16898,"kmccarthy",NA,288765
+NA,"mchinji","1/1/1990","12/31/9999",9,313638,2,"africa:malawi:central:mchinji",16898,"kmccarthy",NA,288765
+NA,"nkhotakota","1/1/1990","12/31/9999",9,313646,2,"africa:malawi:central:nkhotakota",16898,"kmccarthy",NA,288765
+NA,"ntcheu","1/1/1990","12/31/9999",9,313643,2,"africa:malawi:central:ntcheu",16898,"kmccarthy",NA,288765
+NA,"chitipa","1/1/1990","12/31/9999",9,313648,2,"africa:malawi:northern:chitipa",16898,"kmccarthy",NA,288768
+NA,"karonga","1/1/1990","12/31/9999",9,313649,2,"africa:malawi:northern:karonga",16898,"kmccarthy",NA,288768
+NA,"mzimba","1/1/1990","12/31/9999",9,313650,2,"africa:malawi:northern:mzimba",16898,"kmccarthy",NA,288768
+NA,"nkhatabay","1/1/1990","12/31/9999",9,313647,2,"africa:malawi:northern:nkhatabay",16898,"kmccarthy",NA,288768
+NA,"rumphi","1/1/1990","12/31/9999",9,313651,2,"africa:malawi:northern:rumphi",16898,"kmccarthy",NA,288768
+NA,"nkhotakota","1/1/1990","12/31/9999",9,313646,2,"africa:malawi::nkhotakota",16898,"kmccarthy",NA,288765
+NA,"balaka","1/1/1990","12/31/9999",9,313658,2,"africa:malawi:southern:balaka",16898,"kmccarthy",NA,288764
+NA,"neno","1/1/1990","12/31/9999",9,313660,2,"africa:malawi:southern:neno",16898,"kmccarthy",NA,288764
+NA,"phalombe","1/1/1990","12/31/9999",9,313655,2,"africa:malawi:southern:phalombe",16898,"kmccarthy",NA,288764
+NA,"balaka","1/1/1990","12/31/9999",9,313658,2,"africa:malawi:central:balaka",16898,"kmccarthy",NA,288764
+NA,"kansele","1/1/1990","12/31/9999",9,300768,2,"africa:democratic republic of the congo:kasai-oriental:kansele",16899,"kmccarthy",NA,289720
+NA,"kanzala","1/1/1990","12/31/9999",9,300755,2,"africa:democratic republic of the congo:kasai-occidental:kanzala",16899,"kmccarthy",NA,289720
+NA,"kampemba","1/1/1990","12/31/9999",9,300842,2,"africa:democratic republic of the congo:katanga:kampemba",16899,"kmccarthy",NA,291164
+NA,"bili","1/1/1990","12/31/9999",9,300594,2,"africa:democratic republic of the congo:orientale:bili",16899,"kmccarthy",NA,290972
+NA,"kaniola","1/1/1990","12/31/9999",9,300703,2,"africa:democratic republic of the congo:sud-kivu:kaniola",16899,"kmccarthy",NA,288756
+NA,"kalima","1/1/1990","12/31/9999",9,300828,2,"africa:democratic republic of the congo:sud-kivu:kalima",16899,"kmccarthy",NA,291164
+NA,"itombwe","1/1/1990","12/31/9999",9,300959,2,"africa:democratic republic of the congo:nord-kivu:itombwe",16899,"kmccarthy",NA,290938
+NA,"kampene","1/1/1990","12/31/9999",9,300652,2,"africa:democratic republic of the congo:maniema:kampene",16899,"kmccarthy",NA,289529
+NA,"kansimba","1/1/1990","12/31/9999",9,300659,2,"africa:democratic republic of the congo:katanga:kansimba",16899,"kmccarthy",NA,289529
+NA,"kikimi","1/1/1990","12/31/9999",9,300796,2,"africa:democratic republic of the congo:katanga:kikimi",16899,"kmccarthy",NA,288754
+NA,"kitenge","1/1/1990","12/31/9999",9,291707,2,"africa:democratic republic of the congo:bandundu:kitenge",16899,"kmccarthy",NA,289720
+NA,"nia-nia","1/1/1990","12/31/9999",9,300935,2,"africa:democratic republic of the congo:oreintale:nia-nia",16899,"kmccarthy",NA,289704
+NA,"kiri","1/1/1990","12/31/9999",9,300528,2,"africa:democratic republic of the congo:katanga:kiri",16899,"kmccarthy",NA,291160
+NA,"mangembo","1/1/1990","12/31/9999",9,300572,2,"africa:democratic republic of the congo:orientale:mangembo",16899,"kmccarthy",NA,290973
+NA,"dilala","1/1/1990","12/31/9999",9,300764,2,"africa:democratic republic of the congo:tanganyika:dilala",16899,"kmccarthy",NA,289720
+NA,"citenge","1/1/1990","12/31/9999",9,300719,2,"africa:democratic republic of the congo:kasai-oriental:citenge",16899,"kmccarthy",NA,288756
+NA,"limeté","1/1/1990","12/31/9999",9,300803,2,"africa:democratic republic of the congo:kinshasa:limeté",16899,"kmccarthy",NA,288754
+NA,"mangurejipa","1/1/1990","12/31/9999",9,300871,2,"africa:democratic republic of the congo:nord-kivu:mangurejipa",16899,"kmccarthy",NA,289705
+NA,"lukonga","1/1/1990","12/31/9999",9,300665,2,"africa:democratic republic of the congo:kasai-occidental:lukonga",16899,"kmccarthy",NA,289529
+NA,"vangu","1/1/1990","12/31/9999",9,300765,2,"africa:democratic republic of the congo:katanga:vangu",16899,"kmccarthy",NA,289720
+NA,"ibanda","1/1/1990","12/31/9999",9,300960,2,"africa:democratic republic of the congo:sud-kivu:ibanda",16899,"kmccarthy",NA,290938
+NA,"lukalenge","1/1/1990","12/31/9999",9,300718,2,"africa:democratic republic of the congo:kasai-oriental:lukalenge",16899,"kmccarthy",NA,288756
+NA,"ludimbi lukula","1/1/1990","12/31/9999",9,300690,2,"africa:democratic republic of the congo:kasai-oriental:ludimbi lukula",16899,"kmccarthy",NA,288756
+NA,"kindu","1/1/1990","12/31/9999",9,300835,2,"africa:democratic republic of the congo:maniema:kindu",16899,"kmccarthy",NA,291164
+NA,"cilundu","1/1/1990","12/31/9999",9,300702,2,"africa:democratic republic of the congo:kasai-oriental:cilundu",16899,"kmccarthy",NA,288756
+NA,"binza-météo","1/1/1990","12/31/9999",9,300817,2,"africa:democratic republic of the congo:kinshasa:binza-météo",16899,"kmccarthy",NA,288754
+NA,"kabondo-diondo","1/1/1990","12/31/9999",9,300743,2,"africa:democratic republic of the congo:katanga:kabondo-diondo",16899,"kmccarthy",NA,289720
+NA,"kikwit-sud","1/1/1990","12/31/9999",9,300451,2,"africa:democratic republic of the congo:bandundu:kikwit-sud",16899,"kmccarthy",NA,291160
+NA,"kokolo","1/1/1990","12/31/9999",9,300802,2,"africa:democratic republic of the congo:kinshasa:kokolo",16899,"kmccarthy",NA,288754
+NA,"augba","1/1/1990","12/31/9999",9,300954,2,"africa:democratic republic of the congo:orientale:augba",16899,"kmccarthy",NA,289704
+NA,"lubondate","1/1/1990","12/31/9999",9,300648,2,"africa:democratic republic of the congo:kasai-occidental:lubondate",16899,"kmccarthy",NA,289529
+NA,"kalend","1/1/1990","12/31/9999",9,300702,2,"africa:democratic republic of the congo:kasai-oriental:kalend",16899,"kmccarthy",NA,288756
+NA,"linguala","1/1/1990","12/31/9999",9,300804,2,"africa:democratic republic of the congo:kinshasa:linguala",16899,"kmccarthy",NA,288754
+NA,"kashobwe","1/1/1990","12/31/9999",9,300745,2,"africa:democratic republic of the congo:katanga:kashobwe",16899,"kmccarthy",NA,289720
+NA,"miti - murhesa","1/1/1990","12/31/9999",9,300989,2,"africa:democratic republic of the congo:sud-kivu:miti - murhesa",16899,"kmccarthy",NA,290938
+NA,"malemba","1/1/1990","12/31/9999",9,300770,2,"africa:democratic republic of the congo:katanga:malemba",16899,"kmccarthy",NA,289720
+NA,"kitambo","1/1/1990","12/31/9999",9,300802,2,"africa:democratic republic of the congo:kinshasa:kitambo",16899,"kmccarthy",NA,288754
+NA,"bena-tshiadi","1/1/1990","12/31/9999",9,300670,2,"africa:democratic republic of the congo:kasai-occidental:bena-tshiadi",16899,"kmccarthy",NA,289529
+NA,"kalambayi","1/1/1990","12/31/9999",9,300649,2,"africa:democratic republic of the congo:kasai-oriental:kalambayi",16899,"kmccarthy",NA,289529
+NA,"birambilo","1/1/1990","12/31/9999",9,300855,2,"africa:democratic republic of the congo:nord-kivu:birambilo",16899,"kmccarthy",NA,289705
+NA,"dingila","1/1/1990","12/31/9999",9,300892,2,"africa:democratic republic of the congo:orientale:dingila",16899,"kmccarthy",NA,289704
+NA,"luizi","1/1/1990","12/31/9999",9,300674,2,"africa:democratic republic of the congo:kasai-occidental:luizi",16899,"kmccarthy",NA,289529
+NA,"ototo","1/1/1990","12/31/9999",9,300705,2,"africa:democratic republic of the congo:kasai-oriental:ototo",16899,"kmccarthy",NA,288756
+NA,"tshumbe","1/1/1990","12/31/9999",9,300932,2,"africa:democratic republic of the congo:kasai-oriental:tshumbe",16899,"kmccarthy",NA,289704
+NA,"bena tshiadi","1/1/1990","12/31/9999",9,300670,2,"africa:democratic republic of the congo:kasai-occidental:bena tshiadi",16899,"kmccarthy",NA,289529
+NA,"ludimbi-lukula","1/1/1990","12/31/9999",9,300690,2,"africa:democratic republic of the congo:kasai-oriental:ludimbi-lukula",16899,"kmccarthy",NA,288756
+NA,"ludimbi- lukula","1/1/1990","12/31/9999",9,300690,2,"africa:democratic republic of the congo:kasai-oriental:ludimbi- lukula",16899,"kmccarthy",NA,288756
+NA,"kikwit sud","1/1/1990","12/31/9999",9,300451,2,"africa:democratic republic of the congo:bandundu:kikwit sud",16899,"kmccarthy",NA,291160
+NA,"kalambayi","1/1/1990","12/31/9999",9,300649,2,"africa:democratic republic of the congo:kasai-oriental:kalambayi",16899,"kmccarthy",NA,289529
+NA,"tshumbe","1/1/1990","12/31/9999",9,300932,2,"africa:democratic republic of the congo:kasai-oriental:tshumbe",16899,"kmccarthy",NA,289704
+NA,"mwene ditu","1/1/1990","12/31/9999",9,300717,2,"africa:democratic republic of the congo:mwene-ditu:mwene ditu",16899,"kmccarthy",NA,288756
+NA,"itas-gadau","1/1/1990","12/31/9999",9,316863,2,"africa:nigeria:bauchi:itas-gadau",17051,"kmccarthy",NA,288983
+NA,"birnin-kudu","1/1/1990","12/31/9999",9,317088,2,"africa:nigeria:jigawa:birnin-kudu",17051,"kmccarthy",NA,288986
+NA,"kafin-hausa","1/1/1990","12/31/9999",9,317098,2,"africa:nigeria:jigawa:kafin-hausa",17051,"kmccarthy",NA,288986
+NA,"malam-maduri","1/1/1990","12/31/9999",9,317079,2,"africa:nigeria:jigawa:malam-maduri",17051,"kmccarthy",NA,288986
+NA,"danmusa","1/1/1990","12/31/9999",9,317189,2,"africa:nigeria:katsina:danmusa",17051,"kmccarthy",NA,288997
+NA,"dutsinma","1/1/1990","12/31/9999",9,317191,2,"africa:nigeria:katsina:dutsinma",17051,"kmccarthy",NA,288997
+NA,"maiadua","1/1/1990","12/31/9999",9,317171,2,"africa:nigeria:katsina:maiadua",17051,"kmccarthy",NA,288997
+NA,"ajeromi ifelodun","1/1/1990","12/31/9999",9,317257,2,"africa:nigeria:lagos:ajeromi ifelodun",17051,"kmccarthy",NA,288981
+NA,"oshodi isolo","1/1/1990","12/31/9999",9,317271,2,"africa:nigeria:lagos:oshodi isolo",17051,"kmccarthy",NA,288981
+NA,"ado odo\ota","1/1/1990","12/31/9999",9,317324,2,"africa:nigeria:ogun:ado odo\ota",17051,"kmccarthy",NA,288995
+NA,"dange/shuni","1/1/1990","12/31/9999",9,317463,2,"africa:nigeria:sokoto:dange/shuni",17051,"kmccarthy",NA,288989
+NA,"kaura-namoda","1/1/1990","12/31/9999",9,291472,2,"africa:nigeria:zamfara:kaura-namoda",17051,"kmccarthy",NA,288978
+NA,"talata-mafara","1/1/1990","12/31/9999",9,317497,2,"africa:nigeria:zamfara:talata-mafara",17051,"kmccarthy",NA,288978
+NA,"mayo-oulo","1/1/1990","12/31/9999",9,301241,2,"africa:cameroon:nord:mayo-oulo",17051,"kmccarthy",NA,289781
+NA,"abou deia","1/1/1990","12/31/9999",9,319920,2,"africa:chad:salamat:abou deia",17051,"kmccarthy",NA,290738
+NA,"garun mallam","1/1/1990","12/31/9999",9,317136,2,"africa:nigeria:kano:garun mallam",17051,"kmccarthy",NA,288984
+NA,"maru","1/1/1990","12/31/9999",9,317506,2,"africa:nigeria:kebbi:maru",17051,"kmccarthy",NA,288978
+NA,"bongor","1/1/1990","12/31/9999",9,319905,2,"africa:chad:mayo kebbi ouest:bongor",17051,"kmccarthy",NA,290717
+NA,"koumra","1/1/1990","12/31/9999",9,319899,2,"africa:chad:moyen chari:koumra",17051,"kmccarthy",NA,290730
+NA,"dambam","1/1/1990","12/31/9999",9,316865,2,"africa:nigeria:bauchi:dambam",17051,"kmccarthy",NA,288983
+NA,"otukpo","1/1/1990","12/31/9999",9,316895,2,"africa:nigeria:benue:otukpo",17051,"kmccarthy",NA,289013
+NA,"sule-tankankan","1/1/1990","12/31/9999",9,317081,2,"africa:nigeria:jigawa:sule-tankankan",17051,"kmccarthy",NA,288986
+NA,"birnin-g","1/1/1990","12/31/9999",9,292244,2,"africa:nigeria:kaduna:birnin-g",17051,"kmccarthy",NA,288985
+NA,"sabon-ga","1/1/1990","12/31/9999",9,317126,2,"africa:nigeria:kaduna:sabon-ga",17051,"kmccarthy",NA,288985
+NA,"kankiya","1/1/1990","12/31/9999",9,317179,2,"africa:nigeria:katsina:kankiya",17051,"kmccarthy",NA,288997
+NA,"danko wasagu","1/1/1990","12/31/9999",9,317205,2,"africa:nigeria:kebbi:danko wasagu",17051,"kmccarthy",NA,288963
+NA,"igalamela","1/1/1990","12/31/9999",9,317228,2,"africa:nigeria:kogi:igalamela",17051,"kmccarthy",NA,288979
+NA,"minna","1/1/1990","12/31/9999",9,317286,2,"africa:nigeria:niger:minna",17051,"kmccarthy",NA,288982
+NA,"ifedapo","1/1/1990","12/31/9999",9,317366,2,"africa:nigeria:oyo:ifedapo",17051,"kmccarthy",NA,288992
+NA,"wuruno","1/1/1990","12/31/9999",9,317455,2,"africa:nigeria:sokoto:wuruno",17051,"kmccarthy",NA,288989
+NA,"birnin-magaji","1/1/1990","12/31/9999",9,291475,2,"africa:nigeria:zamfara:birnin-magaji",17051,"kmccarthy",NA,288978
+NA,"ndjamena sud","1/1/1990","12/31/9999",9,319914,2,"africa:chad:chari baguirmi:ndjamena sud",17051,"kmccarthy",NA,290725
+NA,"birni n'konni","1/1/1990","12/31/9999",9,316757,2,"africa:niger:tahoua:birni n'konni",17051,"kmccarthy",NA,288962
+NA,"ifedapo","1/1/1990","12/31/9999",9,317366,2,"africa:nigeria:oyo:ifedapo",17051,"kmccarthy",NA,288992
+NA,"ndjamena sud","1/1/1990","12/31/9999",9,319914,2,"africa:chad:chari baguirmi:ndjamena sud",17051,"kmccarthy",NA,290725
+NA,"maine soroa","1/1/1990","12/31/9999",9,316740,2,"africa:niger:diffa:maine soroa",17051,"kmccarthy",NA,288959
+NA,"dogon doutchi","1/1/1990","12/31/9999",9,316742,2,"africa:niger:dosso:dogon doutchi",17051,"kmccarthy",NA,288961
+NA,"dogondoutchi","1/1/1990","12/31/9999",9,316742,2,"africa:niger:dosso:dogondoutchi",17051,"kmccarthy",NA,288961
+NA,"guidan roumdji","1/1/1990","12/31/9999",9,316750,2,"africa:niger:maradi:guidan roumdji",17051,"kmccarthy",NA,288960
+NA,"guidan-roumdji","1/1/1990","12/31/9999",9,316750,2,"africa:niger:maradi:guidan-roumdji",17051,"kmccarthy",NA,288960
+NA,"maradi","1/1/1990","12/31/9999",9,316749,2,"africa:niger:maradi:maradi",17051,"kmccarthy",NA,288960
+NA,"tchin-tabaraden","1/1/1990","12/31/9999",9,316758,2,"africa:niger:tahoua:tchin-tabaraden",17051,"kmccarthy",NA,288962
+NA,"mirria","1/1/1990","12/31/9999",9,316767,2,"africa:niger:zinder:mirria",17051,"kmccarthy",NA,289163
+NA,"nnewi_north","1/1/1990","12/31/9999",9,316855,2,"africa:nigeria:anambra:nnewi_north",17246,"kmccarthy",NA,289014
+NA,"uzo_uwani","1/1/1990","12/31/9999",9,317022,2,"africa:nigeria:enugu:uzo_uwani",17246,"kmccarthy",NA,288996
+NA,"ideato_south","1/1/1990","12/31/9999",9,317075,2,"africa:nigeria:imo:ideato_south",17246,"kmccarthy",NA,288987
+NA,"ohaji_egbema","1/1/1990","12/31/9999",9,317073,2,"africa:nigeria:imo:ohaji_egbema",17246,"kmccarthy",NA,288987
+NA,"anambra_east","1/1/1990","12/31/9999",9,316848,2,"africa:nigeria:anambra:anambra_east",17246,"kmccarthy",NA,289014
+NA,"wasagu_danko","1/1/1990","12/31/9999",9,317205,2,"africa:nigeria:kebbi:wasagu_danko",17246,"kmccarthy",NA,288963
+NA,"sokoto_north","1/1/1990","12/31/9999",9,317456,2,"africa:nigeria:sokoto:sokoto_north",17246,"kmccarthy",NA,288989
+NA,"kala_balge","1/1/1990","12/31/9999",9,316913,2,"africa:nigeria:borno:kala_balge",17246,"kmccarthy",NA,289012
+NA,"isoko_north","1/1/1990","12/31/9999",9,316970,2,"africa:nigeria:delta:isoko_north",17246,"kmccarthy",NA,289010
+NA,"ado_ekiti","1/1/1990","12/31/9999",9,317019,2,"africa:nigeria:ekiti:ado_ekiti",17246,"kmccarthy",NA,289003
+NA,"kuje","1/1/1990","12/31/9999",9,317037,2,"africa:nigeria:fct_abuja:kuje",17246,"kmccarthy",NA,288925
+NA,"kwali","1/1/1990","12/31/9999",9,317038,2,"africa:nigeria:fct_abuja:kwali",17246,"kmccarthy",NA,288925
+NA,"talata_mafara","1/1/1990","12/31/9999",9,317497,2,"africa:nigeria:zamfara:talata_mafara",17246,"kmccarthy",NA,288978
+NA,"oron","1/1/1990","12/31/9999",9,316823,2,"africa:nigeria:akwa_ibom:oron",17246,"kmccarthy",NA,288966
+NA,"ukanafun","1/1/1990","12/31/9999",9,316837,2,"africa:nigeria:akwa_ibom:ukanafun",17246,"kmccarthy",NA,288966
+NA,"uyo","1/1/1990","12/31/9999",9,316827,2,"africa:nigeria:akwa_ibom:uyo",17246,"kmccarthy",NA,288966
+NA,"ogoja","1/1/1990","12/31/9999",9,316944,2,"africa:nigeria:cross_river:ogoja",17246,"kmccarthy",NA,289011
+NA,"municipal_area_council","1/1/1990","12/31/9999",9,317039,2,"africa:nigeria:fct_abuja:municipal_area_council",17246,"kmccarthy",NA,288925
+NA,"etim_ekpo","1/1/1990","12/31/9999",9,316834,2,"africa:nigeria:akwa_ibom:etim_ekpo",17246,"kmccarthy",NA,288966
+NA,"tafawa_balewa","1/1/1990","12/31/9999",9,316880,2,"africa:nigeria:bauchi:tafawa_balewa",17246,"kmccarthy",NA,288983
+NA,"jemaa","1/1/1990","12/31/9999",9,317111,2,"africa:nigeria:kaduna:jemaa",17246,"kmccarthy",NA,288985
+NA,"jos_north","1/1/1990","12/31/9999",9,317406,2,"africa:nigeria:plateau:jos_north",17246,"kmccarthy",NA,290694
+NA,"ibeno","1/1/1990","12/31/9999",9,316831,2,"africa:nigeria:akwa_ibom:ibeno",17246,"kmccarthy",NA,288966
+NA,"askira_uba","1/1/1990","12/31/9999",9,316917,2,"africa:nigeria:borno:askira_uba",17246,"kmccarthy",NA,289012
+NA,"akpabuyo","1/1/1990","12/31/9999",9,316952,2,"africa:nigeria:cross_river:akpabuyo",17246,"kmccarthy",NA,289011
+NA,"kaduna_north","1/1/1990","12/31/9999",9,317127,2,"africa:nigeria:kaduna:kaduna_north",17246,"kmccarthy",NA,288985
+NA,"orumba_north","1/1/1990","12/31/9999",9,316860,2,"africa:nigeria:anambra:orumba_north",17246,"kmccarthy",NA,289014
+NA,"birnin_gwari","1/1/1990","12/31/9999",9,292244,2,"africa:nigeria:kaduna:birnin_gwari",17246,"kmccarthy",NA,288985
+NA,"birnin_kebbi","1/1/1990","12/31/9999",9,317218,2,"africa:nigeria:kebbi:birnin_kebbi",17246,"kmccarthy",NA,288963
+NA,"idemili_south","1/1/1990","12/31/9999",9,292193,2,"africa:nigeria:anambra:idemili_south",17246,"kmccarthy",NA,289014
+NA,"orumba_south","1/1/1990","12/31/9999",9,292149,2,"africa:nigeria:anambra:orumba_south",17246,"kmccarthy",NA,289014
+NA,"yamaltu_deba","1/1/1990","12/31/9999",9,317044,2,"africa:nigeria:gombe:yamaltu_deba",17246,"kmccarthy",NA,289844
+NA,"ilorin_south","1/1/1990","12/31/9999",9,317249,2,"africa:nigeria:kwara:ilorin_south",17246,"kmccarthy",NA,288980
+NA,"sabon_birni","1/1/1990","12/31/9999",9,317462,2,"africa:nigeria:sokoto:sabon_birni",17246,"kmccarthy",NA,288989
+NA,"ika_north_east","1/1/1990","12/31/9999",9,316956,2,"africa:nigeria:delta:ika_north_east",17246,"kmccarthy",NA,289010
+NA,"gwagwalada","1/1/1990","12/31/9999",9,317041,2,"africa:nigeria:fct_abuja:gwagwalada",17246,"kmccarthy",NA,288925
+NA,"aboh_mbaise","1/1/1990","12/31/9999",9,317078,2,"africa:nigeria:imo:aboh_mbaise",17246,"kmccarthy",NA,288987
+NA,"lagos_island","1/1/1990","12/31/9999",9,317263,2,"africa:nigeria:lagos:lagos_island",17246,"kmccarthy",NA,288981
+NA,"abeokuta_south","1/1/1990","12/31/9999",9,317315,2,"africa:nigeria:ogun:abeokuta_south",17246,"kmccarthy",NA,288995
+NA,"ife_east","1/1/1990","12/31/9999",9,317365,2,"africa:nigeria:osun:ife_east",17246,"kmccarthy",NA,288992
+NA,"ardo_kola","1/1/1990","12/31/9999",9,317467,2,"africa:nigeria:taraba:ardo_kola",17246,"kmccarthy",NA,288976
+NA,"kaura_namoda","1/1/1990","12/31/9999",9,291472,2,"africa:nigeria:zamfara:kaura_namoda",17246,"kmccarthy",NA,288978
+NA,"mayo_belwa","1/1/1990","12/31/9999",9,316802,2,"africa:nigeria:adamawa:mayo_belwa",17246,"kmccarthy",NA,288965
+NA,"mubi_south","1/1/1990","12/31/9999",9,316803,2,"africa:nigeria:adamawa:mubi_south",17246,"kmccarthy",NA,288965
+NA,"yola_south","1/1/1990","12/31/9999",9,316796,2,"africa:nigeria:adamawa:yola_south",17246,"kmccarthy",NA,288965
+NA,"etinan","1/1/1990","12/31/9999",9,316825,2,"africa:nigeria:akwa_ibom:etinan",17246,"kmccarthy",NA,288966
+NA,"mkpat_enin","1/1/1990","12/31/9999",9,316820,2,"africa:nigeria:akwa_ibom:mkpat_enin",17246,"kmccarthy",NA,288966
+NA,"kolokuma_opokuma","1/1/1990","12/31/9999",9,316881,2,"africa:nigeria:bayelsa:kolokuma_opokuma",17246,"kmccarthy",NA,288990
+NA,"calabar_municipal","1/1/1990","12/31/9999",9,292226,2,"africa:nigeria:cross_river:calabar_municipal",17246,"kmccarthy",NA,289011
+NA,"etsako_central","1/1/1990","12/31/9999",9,316989,2,"africa:nigeria:edo:etsako_central",17246,"kmccarthy",NA,289004
+NA,"etsako_west","1/1/1990","12/31/9999",9,317005,2,"africa:nigeria:edo:etsako_west",17246,"kmccarthy",NA,289004
+NA,"owan_east","1/1/1990","12/31/9999",9,316991,2,"africa:nigeria:edo:owan_east",17246,"kmccarthy",NA,289004
+NA,"enugu_south","1/1/1990","12/31/9999",9,317021,2,"africa:nigeria:enugu:enugu_south",17246,"kmccarthy",NA,288996
+NA,"igbo_eze_south","1/1/1990","12/31/9999",9,317028,2,"africa:nigeria:enugu:igbo_eze_south",17246,"kmccarthy",NA,288996
+NA,"oji_river","1/1/1990","12/31/9999",9,317033,2,"africa:nigeria:enugu:oji_river",17246,"kmccarthy",NA,288996
+NA,"bwari","1/1/1990","12/31/9999",9,317040,2,"africa:nigeria:fct_abuja:bwari",17246,"kmccarthy",NA,288925
+NA,"arewa_dandi","1/1/1990","12/31/9999",9,317213,2,"africa:nigeria:kebbi:arewa_dandi",17246,"kmccarthy",NA,288963
+NA,"ilorin_east","1/1/1990","12/31/9999",9,317253,2,"africa:nigeria:kwara:ilorin_east",17246,"kmccarthy",NA,288980
+NA,"ilorin_west","1/1/1990","12/31/9999",9,317248,2,"africa:nigeria:kwara:ilorin_west",17246,"kmccarthy",NA,288980
+NA,"akoko_south_east","1/1/1990","12/31/9999",9,317339,2,"africa:nigeria:ondo:akoko_south_east",17246,"kmccarthy",NA,288994
+NA,"ibadan_south_east","1/1/1990","12/31/9999",9,292156,2,"africa:nigeria:oyo:ibadan_south_east",17246,"kmccarthy",NA,288991
+NA,"sokoto_south","1/1/1990","12/31/9999",9,292487,2,"africa:nigeria:sokoto:sokoto_south",17246,"kmccarthy",NA,288989
+NA,"ibiono_ibom","1/1/1990","12/31/9999",9,316819,2,"africa:nigeria:akwa_ibom:ibiono_ibom",17246,"kmccarthy",NA,288966
+NA,"gwer_east","1/1/1990","12/31/9999",9,316901,2,"africa:nigeria:benue:gwer_east",17246,"kmccarthy",NA,289013
+NA,"afikpo_north","1/1/1990","12/31/9999",9,316988,2,"africa:nigeria:ebonyi:afikpo_north",17246,"kmccarthy",NA,289009
+NA,"umuahia_north","1/1/1990","12/31/9999",9,316781,2,"africa:nigeria:abia:umuahia_north",17246,"kmccarthy",NA,288964
+NA,"katsina_ala","1/1/1990","12/31/9999",9,316905,2,"africa:nigeria:benue:katsina_ala",17246,"kmccarthy",NA,289013
+NA,"biase","1/1/1990","12/31/9999",9,316938,2,"africa:nigeria:cross_river:biase",17246,"kmccarthy",NA,289011
+NA,"yala","1/1/1990","12/31/9999",9,316942,2,"africa:nigeria:cross_river:yala",17246,"kmccarthy",NA,289011
+NA,"ekiti_east","1/1/1990","12/31/9999",9,317017,2,"africa:nigeria:ekiti:ekiti_east",17246,"kmccarthy",NA,289003
+NA,"igbo_etiti","1/1/1990","12/31/9999",9,317024,2,"africa:nigeria:enugu:igbo_etiti",17246,"kmccarthy",NA,288996
+NA,"ideato_north","1/1/1990","12/31/9999",9,317055,2,"africa:nigeria:imo:ideato_north",17246,"kmccarthy",NA,288987
+NA,"lagos_mainland","1/1/1990","12/31/9999",9,317261,2,"africa:nigeria:lagos:lagos_mainland",17246,"kmccarthy",NA,288981
+NA,"barkin_ladi","1/1/1990","12/31/9999",9,317416,2,"africa:nigeria:plateau:barkin_ladi",17246,"kmccarthy",NA,290694
+NA,"ogba_egbema_ndoni","1/1/1990","12/31/9999",9,317440,2,"africa:nigeria:rivers:ogba_egbema_ndoni",17246,"kmccarthy",NA,288993
+NA,"ikot_ekpene","1/1/1990","12/31/9999",9,316838,2,"africa:nigeria:akwa_ibom:ikot_ekpene",17246,"kmccarthy",NA,288966
+NA,"oruk_anam","1/1/1990","12/31/9999",9,316832,2,"africa:nigeria:akwa_ibom:oruk_anam",17246,"kmccarthy",NA,288966
+NA,"itas_gadau","1/1/1990","12/31/9999",9,316863,2,"africa:nigeria:bauchi:itas_gadau",17246,"kmccarthy",NA,288983
+NA,"akoko_edo","1/1/1990","12/31/9999",9,317000,2,"africa:nigeria:edo:akoko_edo",17246,"kmccarthy",NA,289004
+NA,"eti_osa","1/1/1990","12/31/9999",9,317270,2,"africa:nigeria:lagos:eti_osa",17246,"kmccarthy",NA,288981
+NA,"ogo_oluwa","1/1/1990","12/31/9999",9,317395,2,"africa:nigeria:oyo:ogo_oluwa",17246,"kmccarthy",NA,288991
+NA,"saki_east","1/1/1990","12/31/9999",9,317377,2,"africa:nigeria:oyo:saki_east",17246,"kmccarthy",NA,288991
+NA,"langtang_north","1/1/1990","12/31/9999",9,317411,2,"africa:nigeria:plateau:langtang_north",17246,"kmccarthy",NA,290694
+NA,"dange_shuni","1/1/1990","12/31/9999",9,317463,2,"africa:nigeria:sokoto:dange_shuni",17246,"kmccarthy",NA,288989
+NA,"osisioma_ngwa","1/1/1990","12/31/9999",9,316782,2,"africa:nigeria:abia:osisioma_ngwa",17246,"kmccarthy",NA,288964
+NA,"aniocha_south","1/1/1990","12/31/9999",9,292220,2,"africa:nigeria:delta:aniocha_south",17246,"kmccarthy",NA,289010
+NA,"ikpoba_okha","1/1/1990","12/31/9999",9,316995,2,"africa:nigeria:edo:ikpoba_okha",17246,"kmccarthy",NA,289004
+NA,"ise_orun","1/1/1990","12/31/9999",9,317013,2,"africa:nigeria:ekiti:ise_orun",17246,"kmccarthy",NA,289003
+NA,"enugu_north","1/1/1990","12/31/9999",9,317036,2,"africa:nigeria:enugu:enugu_north",17246,"kmccarthy",NA,288996
+NA,"nkanu_east","1/1/1990","12/31/9999",9,317029,2,"africa:nigeria:enugu:nkanu_east",17246,"kmccarthy",NA,288996
+NA,"dawakin_kudu","1/1/1990","12/31/9999",9,317140,2,"africa:nigeria:kano:dawakin_kudu",17246,"kmccarthy",NA,288984
+NA,"dawakin_tofa","1/1/1990","12/31/9999",9,317169,2,"africa:nigeria:kano:dawakin_tofa",17246,"kmccarthy",NA,288984
+NA,"kano_municipal","1/1/1990","12/31/9999",9,317160,2,"africa:nigeria:kano:kano_municipal",17246,"kmccarthy",NA,288984
+NA,"koko_besse","1/1/1990","12/31/9999",9,317203,2,"africa:nigeria:kebbi:koko_besse",17246,"kmccarthy",NA,288963
+NA,"oshodi_isolo","1/1/1990","12/31/9999",9,317271,2,"africa:nigeria:lagos:oshodi_isolo",17246,"kmccarthy",NA,288981
+NA,"abeokuta_north","1/1/1990","12/31/9999",9,317313,2,"africa:nigeria:ogun:abeokuta_north",17246,"kmccarthy",NA,288995
+NA,"imeko_afon","1/1/1990","12/31/9999",9,317328,2,"africa:nigeria:ogun:imeko_afon",17246,"kmccarthy",NA,288995
+NA,"awka_south","1/1/1990","12/31/9999",9,316854,2,"africa:nigeria:anambra:awka_south",17246,"kmccarthy",NA,289014
+NA,"nnewi_south","1/1/1990","12/31/9999",9,316849,2,"africa:nigeria:anambra:nnewi_south",17246,"kmccarthy",NA,289014
+NA,"kwaya_kusar","1/1/1990","12/31/9999",9,316914,2,"africa:nigeria:borno:kwaya_kusar",17246,"kmccarthy",NA,289012
+NA,"irepodun_ifelodun","1/1/1990","12/31/9999",9,317016,2,"africa:nigeria:ekiti:irepodun_ifelodun",17246,"kmccarthy",NA,289003
+NA,"birnin_kudu","1/1/1990","12/31/9999",9,317088,2,"africa:nigeria:jigawa:birnin_kudu",17246,"kmccarthy",NA,288986
+NA,"sule_tankarkar","1/1/1990","12/31/9999",9,317081,2,"africa:nigeria:jigawa:sule_tankarkar",17246,"kmccarthy",NA,288986
+NA,"tudun_wada","1/1/1990","12/31/9999",9,317133,2,"africa:nigeria:kano:tudun_wada",17246,"kmccarthy",NA,288984
+NA,"dutsin_ma","1/1/1990","12/31/9999",9,317191,2,"africa:nigeria:katsina:dutsin_ma",17246,"kmccarthy",NA,288997
+NA,"port_harcourt","1/1/1990","12/31/9999",9,317441,2,"africa:nigeria:rivers:port_harcourt",17246,"kmccarthy",NA,288993
+NA,"umuahia_south","1/1/1990","12/31/9999",9,316780,2,"africa:nigeria:abia:umuahia_south",17246,"kmccarthy",NA,288964
+NA,"oru_west","1/1/1990","12/31/9999",9,317065,2,"africa:nigeria:imo:oru_west",17246,"kmccarthy",NA,288987
+NA,"kaduna_south","1/1/1990","12/31/9999",9,317113,2,"africa:nigeria:kaduna:kaduna_south",17246,"kmccarthy",NA,288985
+NA,"mopa_muro","1/1/1990","12/31/9999",9,317234,2,"africa:nigeria:kogi:mopa_muro",17246,"kmccarthy",NA,288979
+NA,"ahoada_east","1/1/1990","12/31/9999",9,317443,2,"africa:nigeria:rivers:ahoada_east",17246,"kmccarthy",NA,288993
+NA,"southern_ijaw","1/1/1990","12/31/9999",9,316883,2,"africa:nigeria:bayelsa:southern_ijaw",17246,"kmccarthy",NA,288990
+NA,"bakassi","1/1/1990","12/31/9999",9,292227,2,"africa:nigeria:cross_river:bakassi",17246,"kmccarthy",NA,289011
+NA,"bekwarra","1/1/1990","12/31/9999",9,316950,2,"africa:nigeria:cross_river:bekwarra",17246,"kmccarthy",NA,289011
+NA,"isi_uzo","1/1/1990","12/31/9999",9,317026,2,"africa:nigeria:enugu:isi_uzo",17246,"kmccarthy",NA,288996
+NA,"nkanu_west","1/1/1990","12/31/9999",9,317031,2,"africa:nigeria:enugu:nkanu_west",17246,"kmccarthy",NA,288996
+NA,"garun_mallam","1/1/1990","12/31/9999",9,317136,2,"africa:nigeria:kano:garun_mallam",17246,"kmccarthy",NA,288984
+NA,"dan_musa","1/1/1990","12/31/9999",9,317189,2,"africa:nigeria:katsina:dan_musa",17246,"kmccarthy",NA,288997
+NA,"ede_south","1/1/1990","12/31/9999",9,317359,2,"africa:nigeria:osun:ede_south",17246,"kmccarthy",NA,288992
+NA,"mubi_north","1/1/1990","12/31/9999",9,316791,2,"africa:nigeria:adamawa:mubi_north",17246,"kmccarthy",NA,288965
+NA,"owan_west","1/1/1990","12/31/9999",9,316990,2,"africa:nigeria:edo:owan_west",17246,"kmccarthy",NA,289004
+NA,"ekiti_west","1/1/1990","12/31/9999",9,292229,2,"africa:nigeria:ekiti:ekiti_west",17246,"kmccarthy",NA,289003
+NA,"kafin_hausa","1/1/1990","12/31/9999",9,317098,2,"africa:nigeria:jigawa:kafin_hausa",17246,"kmccarthy",NA,288986
+NA,"kiri_kasama","1/1/1990","12/31/9999",9,317083,2,"africa:nigeria:jigawa:kiri_kasama",17246,"kmccarthy",NA,288986
+NA,"malam_madori","1/1/1990","12/31/9999",9,317079,2,"africa:nigeria:jigawa:malam_madori",17246,"kmccarthy",NA,288986
+NA,"sabon_gari","1/1/1990","12/31/9999",9,317126,2,"africa:nigeria:kaduna:sabon_gari",17246,"kmccarthy",NA,288985
+NA,"akoko_north_east","1/1/1990","12/31/9999",9,317335,2,"africa:nigeria:ondo:akoko_north_east",17246,"kmccarthy",NA,288994
+NA,"jos_south","1/1/1990","12/31/9999",9,317422,2,"africa:nigeria:plateau:jos_south",17246,"kmccarthy",NA,290694
+NA,"abua_odual","1/1/1990","12/31/9999",9,317444,2,"africa:nigeria:rivers:abua_odual",17246,"kmccarthy",NA,288993
+NA,"akuku_toru","1/1/1990","12/31/9999",9,292484,2,"africa:nigeria:rivers:akuku_toru",17246,"kmccarthy",NA,288993
+NA,"obio_akpor","1/1/1990","12/31/9999",9,317435,2,"africa:nigeria:rivers:obio_akpor",17246,"kmccarthy",NA,288993
+NA,"aba_south","1/1/1990","12/31/9999",9,316787,2,"africa:nigeria:abia:aba_south",17246,"kmccarthy",NA,288964
+NA,"warri_south","1/1/1990","12/31/9999",9,316975,2,"africa:nigeria:delta:warri_south",17246,"kmccarthy",NA,289010
+NA,"esan_south_east","1/1/1990","12/31/9999",9,317004,2,"africa:nigeria:edo:esan_south_east",17246,"kmccarthy",NA,289004
+NA,"ede_north","1/1/1990","12/31/9999",9,317348,2,"africa:nigeria:osun:ede_north",17246,"kmccarthy",NA,288992
+NA,"saki_west","1/1/1990","12/31/9999",9,317382,2,"africa:nigeria:oyo:saki_west",17246,"kmccarthy",NA,288991
+NA,"opobo_nkoro","1/1/1990","12/31/9999",9,317429,2,"africa:nigeria:rivers:opobo_nkoro",17246,"kmccarthy",NA,288993
+NA,"yola_north","1/1/1990","12/31/9999",9,316810,2,"africa:nigeria:adamawa:yola_north",17246,"kmccarthy",NA,288965
+NA,"idemili_north","1/1/1990","12/31/9999",9,316843,2,"africa:nigeria:anambra:idemili_north",17246,"kmccarthy",NA,289014
+NA,"afikpo_south","1/1/1990","12/31/9999",9,316981,2,"africa:nigeria:ebonyi:afikpo_south",17246,"kmccarthy",NA,289009
+NA,"owerri_north","1/1/1990","12/31/9999",9,292238,2,"africa:nigeria:imo:owerri_north",17246,"kmccarthy",NA,288987
+NA,"yagba_east","1/1/1990","12/31/9999",9,317226,2,"africa:nigeria:kogi:yagba_east",17246,"kmccarthy",NA,288979
+NA,"nasarawa_egon","1/1/1990","12/31/9999",9,317283,2,"africa:nigeria:nasarawa:nasarawa_egon",17246,"kmccarthy",NA,288975
+NA,"ijebu_ode","1/1/1990","12/31/9999",9,317312,2,"africa:nigeria:ogun:ijebu_ode",17246,"kmccarthy",NA,288995
+NA,"ibadan_north","1/1/1990","12/31/9999",9,317385,2,"africa:nigeria:oyo:ibadan_north",17246,"kmccarthy",NA,288991
+NA,"quaan_pan","1/1/1990","12/31/9999",9,317410,2,"africa:nigeria:plateau:quaan_pan",17246,"kmccarthy",NA,290694
+NA,"itu","1/1/1990","12/31/9999",9,316841,2,"africa:nigeria:akwa_ibom:itu",17246,"kmccarthy",NA,288966
+NA,"nsit_ibom","1/1/1990","12/31/9999",9,316839,2,"africa:nigeria:akwa_ibom:nsit_ibom",17246,"kmccarthy",NA,288966
+NA,"jamaare","1/1/1990","12/31/9999",9,316869,2,"africa:nigeria:bauchi:jamaare",17246,"kmccarthy",NA,288983
+NA,"abaji","1/1/1990","12/31/9999",9,317042,2,"africa:nigeria:fct_abuja:abaji",17246,"kmccarthy",NA,288925
+NA,"isiala_mbano","1/1/1990","12/31/9999",9,317059,2,"africa:nigeria:imo:isiala_mbano",17246,"kmccarthy",NA,288987
+NA,"akure_north","1/1/1990","12/31/9999",9,317340,2,"africa:nigeria:ondo:akure_north",17246,"kmccarthy",NA,288994
+NA,"ibadan_north_west","1/1/1990","12/31/9999",9,317378,2,"africa:nigeria:oyo:ibadan_north_west",17246,"kmccarthy",NA,288991
+NA,"ogbomosho_south","1/1/1990","12/31/9999",9,317400,2,"africa:nigeria:oyo:ogbomosho_south",17246,"kmccarthy",NA,288991
+NA,"ona_ara","1/1/1990","12/31/9999",9,317397,2,"africa:nigeria:oyo:ona_ara",17246,"kmccarthy",NA,288991
+NA,"jos_east","1/1/1990","12/31/9999",9,317407,2,"africa:nigeria:plateau:jos_east",17246,"kmccarthy",NA,290694
+NA,"ogu_bolo","1/1/1990","12/31/9999",9,317427,2,"africa:nigeria:rivers:ogu_bolo",17246,"kmccarthy",NA,288993
+NA,"birnin_magaji_kiyaw","1/1/1990","12/31/9999",9,291475,2,"africa:nigeria:zamfara:birnin_magaji_kiyaw",17246,"kmccarthy",NA,288978
+NA,"obanliku","1/1/1990","12/31/9999",9,316946,2,"africa:nigeria:cross_river:obanliku",17246,"kmccarthy",NA,289011
+NA,"ndokwa_west","1/1/1990","12/31/9999",9,316968,2,"africa:nigeria:delta:ndokwa_west",17246,"kmccarthy",NA,289010
+NA,"esan_north_east","1/1/1990","12/31/9999",9,316999,2,"africa:nigeria:edo:esan_north_east",17246,"kmccarthy",NA,289004
+NA,"igbo_eze_north","1/1/1990","12/31/9999",9,317025,2,"africa:nigeria:enugu:igbo_eze_north",17246,"kmccarthy",NA,288996
+NA,"owerri_west","1/1/1990","12/31/9999",9,317058,2,"africa:nigeria:imo:owerri_west",17246,"kmccarthy",NA,288987
+NA,"obafemi_owode","1/1/1990","12/31/9999",9,317320,2,"africa:nigeria:ogun:obafemi_owode",17246,"kmccarthy",NA,288995
+NA,"ogun_waterside","1/1/1990","12/31/9999",9,317327,2,"africa:nigeria:ogun:ogun_waterside",17246,"kmccarthy",NA,288995
+NA,"atakunmosa_west","1/1/1990","12/31/9999",9,317358,2,"africa:nigeria:osun:atakunmosa_west",17246,"kmccarthy",NA,288992
+NA,"ife_north","1/1/1990","12/31/9999",9,317354,2,"africa:nigeria:osun:ife_north",17246,"kmccarthy",NA,288992
+NA,"ola_oluwa","1/1/1990","12/31/9999",9,317374,2,"africa:nigeria:osun:ola_oluwa",17246,"kmccarthy",NA,288992
+NA,"karim_lamido","1/1/1990","12/31/9999",9,317469,2,"africa:nigeria:taraba:karim_lamido",17246,"kmccarthy",NA,288976
+NA,"okobo","1/1/1990","12/31/9999",9,316817,2,"africa:nigeria:akwa_ibom:okobo",17246,"kmccarthy",NA,288966
+NA,"igalamela_odolu","1/1/1990","12/31/9999",9,317228,2,"africa:nigeria:kogi:igalamela_odolu",17246,"kmccarthy",NA,288979
+NA,"amuwo_odofin","1/1/1990","12/31/9999",9,317264,2,"africa:nigeria:lagos:amuwo_odofin",17246,"kmccarthy",NA,288981
+NA,"ife_central","1/1/1990","12/31/9999",9,291468,2,"africa:nigeria:osun:ife_central",17246,"kmccarthy",NA,288992
+NA,"ife_south","1/1/1990","12/31/9999",9,317353,2,"africa:nigeria:osun:ife_south",17246,"kmccarthy",NA,288992
+NA,"ori_ire","1/1/1990","12/31/9999",9,291445,2,"africa:nigeria:oyo:ori_ire",17246,"kmccarthy",NA,288991
+NA,"eastern_obolo","1/1/1990","12/31/9999",9,316814,2,"africa:nigeria:akwa_ibom:eastern_obolo",17246,"kmccarthy",NA,288966
+NA,"ikono","1/1/1990","12/31/9999",9,316829,2,"africa:nigeria:akwa_ibom:ikono",17246,"kmccarthy",NA,288966
+NA,"warri_south_west","1/1/1990","12/31/9999",9,316963,2,"africa:nigeria:delta:warri_south_west",17246,"kmccarthy",NA,289010
+NA,"ajeromi_ifelodun","1/1/1990","12/31/9999",9,317257,2,"africa:nigeria:lagos:ajeromi_ifelodun",17246,"kmccarthy",NA,288981
+NA,"ibeju_lekki","1/1/1990","12/31/9999",9,317262,2,"africa:nigeria:lagos:ibeju_lekki",17246,"kmccarthy",NA,288981
+NA,"kuje","1990-01-01","9999-12-31",9,317037,2,"africa:nigeria:fct_abuja:kuje",17246,"kmccarthy",NA,288925
+NA,"kwali","1990-01-01","9999-12-31",9,317038,2,"africa:nigeria:fct_abuja:kwali",17246,"kmccarthy",NA,288925
+NA,"oron","1990-01-01","9999-12-31",9,316823,2,"africa:nigeria:akwa_ibom:oron",17246,"kmccarthy",NA,288966
+NA,"ukanafun","1990-01-01","9999-12-31",9,316837,2,"africa:nigeria:akwa_ibom:ukanafun",17246,"kmccarthy",NA,288966
+NA,"uyo","1990-01-01","9999-12-31",9,316827,2,"africa:nigeria:akwa_ibom:uyo",17246,"kmccarthy",NA,288966
+NA,"ogoja","1990-01-01","9999-12-31",9,316944,2,"africa:nigeria:cross_river:ogoja",17246,"kmccarthy",NA,289011
+NA,"municipal_area_council","1990-01-01","9999-12-31",9,317039,2,"africa:nigeria:fct_abuja:municipal_area_council",17246,"kmccarthy",NA,288925
+NA,"etim_ekpo","1990-01-01","9999-12-31",9,316834,2,"africa:nigeria:akwa_ibom:etim_ekpo",17246,"kmccarthy",NA,288966
+NA,"ibeno","1990-01-01","9999-12-31",9,316831,2,"africa:nigeria:akwa_ibom:ibeno",17246,"kmccarthy",NA,288966
+NA,"akpabuyo","1990-01-01","9999-12-31",9,316952,2,"africa:nigeria:cross_river:akpabuyo",17246,"kmccarthy",NA,289011
+NA,"gwagwalada","1990-01-01","9999-12-31",9,317041,2,"africa:nigeria:fct_abuja:gwagwalada",17246,"kmccarthy",NA,288925
+NA,"etinan","1990-01-01","9999-12-31",9,316825,2,"africa:nigeria:akwa_ibom:etinan",17246,"kmccarthy",NA,288966
+NA,"mkpat_enin","1990-01-01","9999-12-31",9,316820,2,"africa:nigeria:akwa_ibom:mkpat_enin",17246,"kmccarthy",NA,288966
+NA,"calabar_municipal","1990-01-01","9999-12-31",9,292226,2,"africa:nigeria:cross_river:calabar_municipal",17246,"kmccarthy",NA,289011
+NA,"bwari","1990-01-01","9999-12-31",9,317040,2,"africa:nigeria:fct_abuja:bwari",17246,"kmccarthy",NA,288925
+NA,"ibiono_ibom","1990-01-01","9999-12-31",9,316819,2,"africa:nigeria:akwa_ibom:ibiono_ibom",17246,"kmccarthy",NA,288966
+NA,"biase","1990-01-01","9999-12-31",9,316938,2,"africa:nigeria:cross_river:biase",17246,"kmccarthy",NA,289011
+NA,"yala","1990-01-01","9999-12-31",9,316942,2,"africa:nigeria:cross_river:yala",17246,"kmccarthy",NA,289011
+NA,"ikot_ekpene","1990-01-01","9999-12-31",9,316838,2,"africa:nigeria:akwa_ibom:ikot_ekpene",17246,"kmccarthy",NA,288966
+NA,"oruk_anam","1990-01-01","9999-12-31",9,316832,2,"africa:nigeria:akwa_ibom:oruk_anam",17246,"kmccarthy",NA,288966
+NA,"bakassi","1990-01-01","9999-12-31",9,292227,2,"africa:nigeria:cross_river:bakassi",17246,"kmccarthy",NA,289011
+NA,"bekwarra","1990-01-01","9999-12-31",9,316950,2,"africa:nigeria:cross_river:bekwarra",17246,"kmccarthy",NA,289011
+NA,"itu","1990-01-01","9999-12-31",9,316841,2,"africa:nigeria:akwa_ibom:itu",17246,"kmccarthy",NA,288966
+NA,"nsit_ibom","1990-01-01","9999-12-31",9,316839,2,"africa:nigeria:akwa_ibom:nsit_ibom",17246,"kmccarthy",NA,288966
+NA,"abaji","1990-01-01","9999-12-31",9,317042,2,"africa:nigeria:fct_abuja:abaji",17246,"kmccarthy",NA,288925
+NA,"obanliku","1990-01-01","9999-12-31",9,316946,2,"africa:nigeria:cross_river:obanliku",17246,"kmccarthy",NA,289011
+NA,"okobo","1990-01-01","9999-12-31",9,316817,2,"africa:nigeria:akwa_ibom:okobo",17246,"kmccarthy",NA,288966
+NA,"eastern_obolo","1990-01-01","9999-12-31",9,316814,2,"africa:nigeria:akwa_ibom:eastern_obolo",17246,"kmccarthy",NA,288966
+NA,"ikono","1990-01-01","9999-12-31",9,316829,2,"africa:nigeria:akwa_ibom:ikono",17246,"kmccarthy",NA,288966
+NA,"ijebu_north_east","1990-01-01","9999-12-31",9,291461,2,"africa:nigeria:ogun:ijebu_north_east",17246,"kmccarthy",NA,288995
+NA,"remo_north","1990-01-01","9999-12-31",9,317319,2,"africa:nigeria:ogun:remo_north",17246,"kmccarthy",NA,288995
+NA,"odo_otin","1990-01-01","9999-12-31",9,317357,2,"africa:nigeria:osun:odo_otin",17246,"kmccarthy",NA,288992
+NA,"ibadan_north_east","1990-01-01","9999-12-31",9,317392,2,"africa:nigeria:oyo:ibadan_north_east",17246,"kmccarthy",NA,288991
+NA,"asari_toru","1990-01-01","9999-12-31",9,317424,2,"africa:nigeria:rivers:asari_toru",17246,"kmccarthy",NA,288993
+NA,"isiala_ngwa_south","1990-01-01","9999-12-31",9,316783,2,"africa:nigeria:abia:isiala_ngwa_south",17246,"kmccarthy",NA,288964
+NA,"gwer_west","1990-01-01","9999-12-31",9,316903,2,"africa:nigeria:benue:gwer_west",17246,"kmccarthy",NA,289013
+NA,"abi","1990-01-01","9999-12-31",9,316949,2,"africa:nigeria:cross_river:abi",17246,"kmccarthy",NA,289011
+NA,"akamkpa","1990-01-01","9999-12-31",9,316941,2,"africa:nigeria:cross_river:akamkpa",17246,"kmccarthy",NA,289011
+NA,"oyo_east","1990-01-01","9999-12-31",9,317376,2,"africa:nigeria:oyo:oyo_east",17246,"kmccarthy",NA,288991
+NA,"ahoada_west","1990-01-01","9999-12-31",9,317423,2,"africa:nigeria:rivers:ahoada_west",17246,"kmccarthy",NA,288993
+NA,"ehime_mbano","1990-01-01","9999-12-31",9,317074,2,"africa:nigeria:imo:ehime_mbano",17246,"kmccarthy",NA,288987
+NA,"ibarapa_north","1990-01-01","9999-12-31",9,317379,2,"africa:nigeria:oyo:ibarapa_north",17246,"kmccarthy",NA,288991
+NA,"akure_south","1990-01-01","9999-12-31",9,317346,2,"africa:nigeria:ondo:akure_south",17246,"kmccarthy",NA,288994
+NA,"ovia_south_west","1990-01-01","9999-12-31",9,316993,2,"africa:nigeria:edo:ovia_south_west",17246,"kmccarthy",NA,289004
+NA,"zangon_kataf","1990-01-01","9999-12-31",9,317118,2,"africa:nigeria:kaduna:zangon_kataf",17246,"kmccarthy",NA,288985
+NA,"ado_odo_ota","1990-01-01","9999-12-31",9,317324,2,"africa:nigeria:ogun:ado_odo_ota",17246,"kmccarthy",NA,288995
+NA,"ijebu_north","1990-01-01","9999-12-31",9,317326,2,"africa:nigeria:ogun:ijebu_north",17246,"kmccarthy",NA,288995
+NA,"urue_offong_oruko","1990-01-01","9999-12-31",9,316812,2,"africa:nigeria:akwa_ibom:urue_offong_oruko",17246,"kmccarthy",NA,288966
+NA,"oshimili_south","1990-01-01","9999-12-31",9,316961,2,"africa:nigeria:delta:oshimili_south",17246,"kmccarthy",NA,289010
+NA,"esan_central","1990-01-01","9999-12-31",9,292232,2,"africa:nigeria:edo:esan_central",17246,"kmccarthy",NA,289004
+NA,"ekiti_south_west","1990-01-01","9999-12-31",9,317006,2,"africa:nigeria:ekiti:ekiti_south_west",17246,"kmccarthy",NA,289003
+NA,"owerri_municipal","1990-01-01","9999-12-31",9,317060,2,"africa:nigeria:imo:owerri_municipal",17246,"kmccarthy",NA,288987
+NA,"ibarapa_east","1990-01-01","9999-12-31",9,317401,2,"africa:nigeria:oyo:ibarapa_east",17246,"kmccarthy",NA,288991
+NA,"langtang_south","1990-01-01","9999-12-31",9,317414,2,"africa:nigeria:plateau:langtang_south",17246,"kmccarthy",NA,290694
+NA,"ovia_north_east","1990-01-01","9999-12-31",9,316994,2,"africa:nigeria:edo:ovia_north_east",17246,"kmccarthy",NA,289004
+NA,"oru_east","1990-01-01","9999-12-31",9,317064,2,"africa:nigeria:imo:oru_east",17246,"kmccarthy",NA,288987
+NA,"aba_north","1990-01-01","9999-12-31",9,316773,2,"africa:nigeria:abia:aba_north",17246,"kmccarthy",NA,288964
+NA,"isiala_ngwa_north","1990-01-01","9999-12-31",9,316788,2,"africa:nigeria:abia:isiala_ngwa_north",17246,"kmccarthy",NA,288964
+NA,"esit_eket","1990-01-01","9999-12-31",9,316818,2,"africa:nigeria:akwa_ibom:esit_eket",17246,"kmccarthy",NA,288966
+NA,"ogori_magongo","1990-01-01","9999-12-31",9,317241,2,"africa:nigeria:kogi:ogori_magongo",17246,"kmccarthy",NA,288979
+NA,"ogbomosho_north","1990-01-01","9999-12-31",9,317403,2,"africa:nigeria:oyo:ogbomosho_north",17246,"kmccarthy",NA,288991
+NA,"oyo_west","1990-01-01","9999-12-31",9,317386,2,"africa:nigeria:oyo:oyo_west",17246,"kmccarthy",NA,288991
+NA,"abak","1990-01-01","9999-12-31",9,316828,2,"africa:nigeria:akwa_ibom:abak",17246,"kmccarthy",NA,288966
+NA,"uruan","1990-01-01","9999-12-31",9,316826,2,"africa:nigeria:akwa_ibom:uruan",17246,"kmccarthy",NA,288966
+NA,"ughelli_north","1990-01-01","9999-12-31",9,316953,2,"africa:nigeria:delta:ughelli_north",17246,"kmccarthy",NA,289010
+NA,"ezza_north","1990-01-01","9999-12-31",9,316987,2,"africa:nigeria:ebonyi:ezza_north",17246,"kmccarthy",NA,289009
+NA,"yagba_west","1990-01-01","9999-12-31",9,317224,2,"africa:nigeria:kogi:yagba_west",17246,"kmccarthy",NA,288979
+NA,"ondo_west","1990-01-01","9999-12-31",9,317330,2,"africa:nigeria:ondo:ondo_west",17246,"kmccarthy",NA,288994
+NA,"obubra","1990-01-01","9999-12-31",9,316945,2,"africa:nigeria:cross_river:obubra",17246,"kmccarthy",NA,289011
+NA,"aniocha_north","1990-01-01","9999-12-31",9,292216,2,"africa:nigeria:delta:aniocha_north",17246,"kmccarthy",NA,289010
+NA,"enugu_east","1990-01-01","9999-12-31",9,317032,2,"africa:nigeria:enugu:enugu_east",17246,"kmccarthy",NA,288996
+NA,"ibarapa_central","1990-01-01","9999-12-31",9,317398,2,"africa:nigeria:oyo:ibarapa_central",17246,"kmccarthy",NA,288991
+NA,"ethiope_east","1990-01-01","9999-12-31",9,316974,2,"africa:nigeria:delta:ethiope_east",17246,"kmccarthy",NA,289010
+NA,"ughelli_south","1990-01-01","9999-12-31",9,316954,2,"africa:nigeria:delta:ughelli_south",17246,"kmccarthy",NA,289010
+NA,"onna","1990-01-01","9999-12-31",9,316822,2,"africa:nigeria:akwa_ibom:onna",17246,"kmccarthy",NA,288966
+NA,"ini","1990-01-01","9999-12-31",9,316815,2,"africa:nigeria:akwa_ibom:ini",17246,"kmccarthy",NA,288966
+NA,"nsit_ubium","1990-01-01","9999-12-31",9,316840,2,"africa:nigeria:akwa_ibom:nsit_ubium",17246,"kmccarthy",NA,288966
+NA,"warri_north","1990-01-01","9999-12-31",9,316971,2,"africa:nigeria:delta:warri_north",17246,"kmccarthy",NA,289010
+NA,"ethiope_west","1990-01-01","9999-12-31",9,316973,2,"africa:nigeria:delta:ethiope_west",17246,"kmccarthy",NA,289010
+NA,"boki","1990-01-01","9999-12-31",9,316939,2,"africa:nigeria:cross_river:boki",17246,"kmccarthy",NA,289011
+NA,"isoko_south","1990-01-01","9999-12-31",9,316957,2,"africa:nigeria:delta:isoko_south",17246,"kmccarthy",NA,289010
+NA,"ikot_abasi","1990-01-01","9999-12-31",9,316833,2,"africa:nigeria:akwa_ibom:ikot_abasi",17246,"kmccarthy",NA,288966
+NA,"onitsha_north","1990-01-01","9999-12-31",9,316857,2,"africa:nigeria:anambra:onitsha_north",17246,"kmccarthy",NA,289014
+NA,"ezza_south","1990-01-01","9999-12-31",9,316983,2,"africa:nigeria:ebonyi:ezza_south",17246,"kmccarthy",NA,289009
+NA,"ukwa_east","1990-01-01","9999-12-31",9,316776,2,"africa:nigeria:abia:ukwa_east",17246,"kmccarthy",NA,288964
+NA,"eket","1990-01-01","9999-12-31",9,316842,2,"africa:nigeria:akwa_ibom:eket",17246,"kmccarthy",NA,288966
+NA,"essien_udim","1990-01-01","9999-12-31",9,316836,2,"africa:nigeria:akwa_ibom:essien_udim",17246,"kmccarthy",NA,288966
+NA,"odukpani","1990-01-01","9999-12-31",9,316943,2,"africa:nigeria:cross_river:odukpani",17246,"kmccarthy",NA,289011
+NA,"awka_north","1990-01-01","9999-12-31",9,316853,2,"africa:nigeria:anambra:awka_north",17246,"kmccarthy",NA,289014
+NA,"etung","1990-01-01","9999-12-31",9,316948,2,"africa:nigeria:cross_river:etung",17246,"kmccarthy",NA,289011
+NA,"akoko_south_west","1990-01-01","9999-12-31",9,317336,2,"africa:nigeria:ondo:akoko_south_west",17246,"kmccarthy",NA,288994
+NA,"ile_oluji_okeigbo","1990-01-01","9999-12-31",9,317345,2,"africa:nigeria:ondo:ile_oluji_okeigbo",17246,"kmccarthy",NA,288994
+NA,"oke_ero","1990-01-01","9999-12-31",9,292274,2,"africa:nigeria:kwara:oke_ero",17246,"kmccarthy",NA,288980
+NA,"udung_uko","1990-01-01","9999-12-31",9,316816,2,"africa:nigeria:akwa_ibom:udung_uko",17246,"kmccarthy",NA,288966
+NA,"rimin_gado","1990-01-01","9999-12-31",9,317148,2,"africa:nigeria:kano:rimin_gado",17246,"kmccarthy",NA,288984
+NA,"mbo","1990-01-01","9999-12-31",9,316835,2,"africa:nigeria:akwa_ibom:mbo",17246,"kmccarthy",NA,288966
+NA,"onitsha_south","1990-01-01","9999-12-31",9,316844,2,"africa:nigeria:anambra:onitsha_south",17246,"kmccarthy",NA,289014
+NA,"ukwa_west","1990-01-01","9999-12-31",9,292190,2,"africa:nigeria:abia:ukwa_west",17246,"kmccarthy",NA,288964
+NA,"umu_nneochi","1990-01-01","9999-12-31",9,316777,2,"africa:nigeria:abia:umu_nneochi",17246,"kmccarthy",NA,288964
+NA,"anambra_west","1990-01-01","9999-12-31",9,316858,2,"africa:nigeria:anambra:anambra_west",17246,"kmccarthy",NA,289014
+NA,"ido_osi","1990-01-01","9999-12-31",9,317007,2,"africa:nigeria:ekiti:ido_osi",17246,"kmccarthy",NA,289003
+NA,"ngor_okpala","1990-01-01","9999-12-31",9,317068,2,"africa:nigeria:imo:ngor_okpala",17246,"kmccarthy",NA,288987
+NA,"ijebu_east","1990-01-01","9999-12-31",9,317325,2,"africa:nigeria:ogun:ijebu_east",17246,"kmccarthy",NA,288995
+NA,"ibadan_south_west","1990-01-01","9999-12-31",9,317399,2,"africa:nigeria:oyo:ibadan_south_west",17246,"kmccarthy",NA,288991
+NA,"obot_akara","1990-01-01","9999-12-31",9,316830,2,"africa:nigeria:akwa_ibom:obot_akara",17246,"kmccarthy",NA,288966
+NA,"ndokwa_east","1990-01-01","9999-12-31",9,316955,2,"africa:nigeria:delta:ndokwa_east",17246,"kmccarthy",NA,289010
+NA,"kabba_bunu","1990-01-01","9999-12-31",9,317233,2,"africa:nigeria:kogi:kabba_bunu",17246,"kmccarthy",NA,288979
+NA,"calabar_south","1990-01-01","9999-12-31",9,316937,2,"africa:nigeria:cross_river:calabar_south",17246,"kmccarthy",NA,289011
+NA,"oshimili_north","1990-01-01","9999-12-31",9,316964,2,"africa:nigeria:delta:oshimili_north",17246,"kmccarthy",NA,289010
+NA,"esan_west","1990-01-01","9999-12-31",9,316998,2,"africa:nigeria:edo:esan_west",17246,"kmccarthy",NA,289004
+NA,"atakunmosa_east","1990-01-01","9999-12-31",9,317360,2,"africa:nigeria:osun:atakunmosa_east",17246,"kmccarthy",NA,288992
+NA,"nsit_atai","1990-01-01","9999-12-31",9,316813,2,"africa:nigeria:akwa_ibom:nsit_atai",17246,"kmccarthy",NA,288966
+NA,"ikom","1990-01-01","9999-12-31",9,316940,2,"africa:nigeria:cross_river:ikom",17246,"kmccarthy",NA,289011
+NA,"etsako_east","1990-01-01","9999-12-31",9,317002,2,"africa:nigeria:edo:etsako_east",17246,"kmccarthy",NA,289004
+NA,"ika","1990-01-01","9999-12-31",9,316821,2,"africa:nigeria:akwa_ibom:ika",17246,"kmccarthy",NA,288966
+NA,"obudu","1990-01-01","9999-12-31",9,316951,2,"africa:nigeria:cross_river:obudu",17246,"kmccarthy",NA,289011
+NA,"akoko_north_west","1990-01-01","9999-12-31",9,317342,2,"africa:nigeria:ondo:akoko_north_west",17246,"kmccarthy",NA,288994
+NA,"ihitte_uboma","1990-01-01","9999-12-31",9,317053,2,"africa:nigeria:imo:ihitte_uboma",17246,"kmccarthy",NA,288987
+NA,"ahiazu_mbaise","1990-01-01","9999-12-31",9,317069,2,"africa:nigeria:imo:ahiazu_mbaise",17246,"kmccarthy",NA,288987
+NA,"ibesikpo_asutan","1990-01-01","9999-12-31",9,316824,2,"africa:nigeria:akwa_ibom:ibesikpo_asutan",17246,"kmccarthy",NA,288966
+NA,"ondo_east","1990-01-01","9999-12-31",9,317332,2,"africa:nigeria:ondo:ondo_east",17246,"kmccarthy",NA,288994
+NA,"ika_south","1990-01-01","9999-12-31",9,316966,2,"africa:nigeria:delta:ika_south",17246,"kmccarthy",NA,289010
+NA,"ese_odo","1990-01-01","9999-12-31",9,317337,2,"africa:nigeria:ondo:ese_odo",17246,"kmccarthy",NA,288994
+NA,"omuma","1990-01-01","9999-12-31",9,317439,2,"africa:nigeria:rivers:omuma",17246,"kmccarthy",NA,288993
+NA,"fagge","1990-01-01","9999-12-31",9,317139,2,"africa:nigeria:jigawa:fagge",17246,"kmccarthy",NA,288984
+NA,"koko_besse","1990-01-01","9999-12-31",9,317203,2,"africa:nigeria:nasarawa:koko_besse",17246,"kmccarthy",NA,288963
+NA,"ahoada_west","1990-01-01","9999-12-31",9,317423,2,"africa:nigeria:bayelsa:ahoada_west",17246,"kmccarthy",NA,288993
+NA,"ibadan_north_west","1990-01-01","9999-12-31",9,317378,2,"africa:nigeria:ogun:ibadan_north_west",17246,"kmccarthy",NA,288991
+NA,"eti_osa","1990-01-01","9999-12-31",9,317270,2,"africa:nigeria:oyo:eti_osa",17246,"kmccarthy",NA,288981
+NA,"bassa_kogi","1990-01-01","9999-12-31",9,317237,2,"africa:nigeria:kogi:bassa_kogi",17246,"kmccarthy",NA,288979
+NA,"kogi_kogi","1990-01-01","9999-12-31",9,317240,2,"africa:nigeria:kogi:kogi_kogi",17246,"kmccarthy",NA,288979
+NA,"katsina_katsina","1990-01-01","9999-12-31",9,317176,2,"africa:nigeria:katsina:katsina_katsina",17246,"kmccarthy",NA,288997
+NA,"surulere_lagos","1990-01-01","9999-12-31",9,325438,2,"africa:nigeria:lagos:surulere_lagos",17246,"kmccarthy",NA,288981
+NA,"gayuk","1990-01-01","9999-12-31",9,316811,2,"africa:nigeria:adamawa:gayuk",17246,"kmccarthy",NA,288965
+NA,"mbaitoli","1990-01-01","9999-12-31",9,317062,2,"africa:nigeria:imo:mbaitoli",17246,"kmccarthy",NA,288987
+NA,"gombe_gombe","1990-01-01","9999-12-31",9,317046,2,"africa:nigeria:gombe:gombe_gombe",17246,"kmccarthy",NA,289844
+NA,"ilesa_west","1990-01-01","9999-12-31",9,317362,2,"africa:nigeria:osun:ilesa_west",17246,"kmccarthy",NA,288992
+NA,"kumi","1990-01-01","9999-12-31",9,317472,2,"africa:nigeria:taraba:kumi",17246,"kmccarthy",NA,288976
+NA,"ebonyi_ebonyi","1990-01-01","9999-12-31",9,316986,2,"africa:nigeria:ebonyi:ebonyi_ebonyi",17246,"kmccarthy",NA,289009
+NA,"ifelodun_kwara","1990-01-01","9999-12-31",9,317254,2,"africa:nigeria:kwara:ifelodun_kwara",17246,"kmccarthy",NA,288980
+NA,"nasarawa_nasarawa","1990-01-01","9999-12-31",9,317285,2,"africa:nigeria:nasarawa:nasarawa_nasarawa",17246,"kmccarthy",NA,288975
+NA,"nasarawa_kano","1990-01-01","9999-12-31",9,317154,2,"africa:nigeria:kano:nasarawa_kano",17246,"kmccarthy",NA,288984
+NA,"ifako_ijaiye","1990-01-01","9999-12-31",9,317258,2,"africa:nigeria:lagos:ifako_ijaiye",17246,"kmccarthy",NA,288981
+NA,"yakuur","1990-01-01","9999-12-31",9,316947,2,"africa:nigeria:cross_river:yakuur",17246,"kmccarthy",NA,289011
+NA,"obi_nasarawa","1990-01-01","9999-12-31",9,317277,2,"africa:nigeria:nasarawa:obi_nasarawa",17246,"kmccarthy",NA,288975
+NA,"irepodun_osun","1990-01-01","9999-12-31",9,291956,2,"africa:nigeria:osun:irepodun_osun",17246,"kmccarthy",NA,288992
+NA,"bassa_plateau","1990-01-01","9999-12-31",9,317413,2,"africa:nigeria:plateau:bassa_plateau",17246,"kmccarthy",NA,290694
+NA,"chafe","1990-01-01","9999-12-31",9,317507,2,"africa:nigeria:zamfara:chafe",17246,"kmccarthy",NA,288978
+NA,"shongom","1990-01-01","9999-12-31",9,292237,2,"africa:nigeria:gombe:shongom",17246,"kmccarthy",NA,289844
+NA,"bauchi_bauchi","1990-01-01","9999-12-31",9,316870,2,"africa:nigeria:bauchi:bauchi_bauchi",17246,"kmccarthy",NA,288983
+NA,"fufure","1990-01-01","9999-12-31",9,316805,2,"africa:nigeria:adamawa:fufure",17246,"kmccarthy",NA,288965
+NA,"grie","1990-01-01","9999-12-31",9,316793,2,"africa:nigeria:adamawa:grie",17246,"kmccarthy",NA,288965
+NA,"moya","1990-01-01","9999-12-31",9,317286,2,"africa:nigeria:niger:moya",17246,"kmccarthy",NA,288982
+NA,"obi_benue","1990-01-01","9999-12-31",9,292215,2,"africa:nigeria:benue:obi_benue",17246,"kmccarthy",NA,289013
+NA,"ifelodun_osun","1990-01-01","9999-12-31",9,317364,2,"africa:nigeria:osun:ifelodun_osun",17246,"kmccarthy",NA,288992
+NA,"igueben","1990-01-01","9999-12-31",9,317003,2,"africa:nigeria:edo:igueben",17246,"kmccarthy",NA,289004
+NA,"yewa_south","1990-01-01","9999-12-31",9,317329,2,"africa:nigeria:ogun:yewa_south",17246,"kmccarthy",NA,288995
+NA,"aiyedaade","1990-01-01","9999-12-31",9,317355,2,"africa:nigeria:osun:aiyedaade",17246,"kmccarthy",NA,288992
+NA,"obi_ngwa","1990-01-01","9999-12-31",9,316779,2,"africa:nigeria:abia:obi_ngwa",17246,"kmccarthy",NA,288964
+NA,"yenagoa","1990-01-01","9999-12-31",9,316882,2,"africa:nigeria:bayelsa:yenagoa",17246,"kmccarthy",NA,288990
+NA,"yewa_north","1990-01-01","9999-12-31",9,317323,2,"africa:nigeria:ogun:yewa_north",17246,"kmccarthy",NA,288995
+NA,"irepodun_kwara","1990-01-01","9999-12-31",9,317250,2,"africa:nigeria:kwara:irepodun_kwara",17246,"kmccarthy",NA,288980
+NA,"surulere_oyo","1990-01-01","9999-12-31",9,292483,2,"africa:nigeria:oyo:surulere_oyo",17246,"kmccarthy",NA,288991
+NA,"ilesa_east","1990-01-01","9999-12-31",9,317363,2,"africa:nigeria:osun:ilesa_east",17246,"kmccarthy",NA,288992
+NA,"ekiti_kwara","1990-01-01","9999-12-31",9,292129,2,"africa:nigeria:kwara:ekiti_kwara",17246,"kmccarthy",NA,288980
+NA,"abaji","1990-01-01","9999-12-31",9,317042,2,"africa:nigeria:fct_abuja:abaji",17246,"kmccarthy",NA,288925
+NA,"kuje","1990-01-01","9999-12-31",9,317037,2,"africa:nigeria:fct_abuja:kuje",17246,"kmccarthy",NA,288925
+NA,"kwali","1990-01-01","9999-12-31",9,317038,2,"africa:nigeria:fct_abuja:kwali",17246,"kmccarthy",NA,288925
+NA,"municipal_area_council","1990-01-01","9999-12-31",9,317039,2,"africa:nigeria:fct_abuja:municipal_area_council",17246,"kmccarthy",NA,288925
+NA,"okobo","1990-01-01","9999-12-31",9,316817,2,"africa:nigeria:akwa_ibom:okobo",17246,"kmccarthy",NA,288966
+NA,"oron","1990-01-01","9999-12-31",9,316823,2,"africa:nigeria:akwa_ibom:oron",17246,"kmccarthy",NA,288966
+NA,"ukanafun","1990-01-01","9999-12-31",9,316837,2,"africa:nigeria:akwa_ibom:ukanafun",17246,"kmccarthy",NA,288966
+NA,"uyo","1990-01-01","9999-12-31",9,316827,2,"africa:nigeria:akwa_ibom:uyo",17246,"kmccarthy",NA,288966
+NA,"ogoja","1990-01-01","9999-12-31",9,316944,2,"africa:nigeria:cross_river:ogoja",17246,"kmccarthy",NA,289011
+NA,"etim_ekpo","1990-01-01","9999-12-31",9,316834,2,"africa:nigeria:akwa_ibom:etim_ekpo",17246,"kmccarthy",NA,288966
+NA,"bwari","1990-01-01","9999-12-31",9,317040,2,"africa:nigeria:fct_abuja:bwari",17246,"kmccarthy",NA,288925
+NA,"gwagwalada","1990-01-01","9999-12-31",9,317041,2,"africa:nigeria:fct_abuja:gwagwalada",17246,"kmccarthy",NA,288925
+NA,"ibeno","1990-01-01","9999-12-31",9,316831,2,"africa:nigeria:akwa_ibom:ibeno",17246,"kmccarthy",NA,288966
+NA,"akpabuyo","1990-01-01","9999-12-31",9,316952,2,"africa:nigeria:cross_river:akpabuyo",17246,"kmccarthy",NA,289011
+NA,"ibiono_ibom","1990-01-01","9999-12-31",9,316819,2,"africa:nigeria:akwa_ibom:ibiono_ibom",17246,"kmccarthy",NA,288966
+NA,"etinan","1990-01-01","9999-12-31",9,316825,2,"africa:nigeria:akwa_ibom:etinan",17246,"kmccarthy",NA,288966
+NA,"ikot_ekpene","1990-01-01","9999-12-31",9,316838,2,"africa:nigeria:akwa_ibom:ikot_ekpene",17246,"kmccarthy",NA,288966
+NA,"mkpat_enin","1990-01-01","9999-12-31",9,316820,2,"africa:nigeria:akwa_ibom:mkpat_enin",17246,"kmccarthy",NA,288966
+NA,"onna","1990-01-01","9999-12-31",9,316822,2,"africa:nigeria:akwa_ibom:onna",17246,"kmccarthy",NA,288966
+NA,"calabar_municipal","1990-01-01","9999-12-31",9,292226,2,"africa:nigeria:cross_river:calabar_municipal",17246,"kmccarthy",NA,289011
+NA,"etung","1990-01-01","9999-12-31",9,316948,2,"africa:nigeria:cross_river:etung",17246,"kmccarthy",NA,289011
+NA,"obudu","1990-01-01","9999-12-31",9,316951,2,"africa:nigeria:cross_river:obudu",17246,"kmccarthy",NA,289011
+NA,"boki","1990-01-01","9999-12-31",9,316939,2,"africa:nigeria:cross_river:boki",17246,"kmccarthy",NA,289011
+NA,"abak","1990-01-01","9999-12-31",9,316828,2,"africa:nigeria:akwa_ibom:abak",17246,"kmccarthy",NA,288966
+NA,"ini","1990-01-01","9999-12-31",9,316815,2,"africa:nigeria:akwa_ibom:ini",17246,"kmccarthy",NA,288966
+NA,"bekwarra","1990-01-01","9999-12-31",9,316950,2,"africa:nigeria:cross_river:bekwarra",17246,"kmccarthy",NA,289011
+NA,"biase","1990-01-01","9999-12-31",9,316938,2,"africa:nigeria:cross_river:biase",17246,"kmccarthy",NA,289011
+NA,"ikom","1990-01-01","9999-12-31",9,316940,2,"africa:nigeria:cross_river:ikom",17246,"kmccarthy",NA,289011
+NA,"yala","1990-01-01","9999-12-31",9,316942,2,"africa:nigeria:cross_river:yala",17246,"kmccarthy",NA,289011
+NA,"ika","1990-01-01","9999-12-31",9,316821,2,"africa:nigeria:akwa_ibom:ika",17246,"kmccarthy",NA,288966
+NA,"itu","1990-01-01","9999-12-31",9,316841,2,"africa:nigeria:akwa_ibom:itu",17246,"kmccarthy",NA,288966
+NA,"oruk_anam","1990-01-01","9999-12-31",9,316832,2,"africa:nigeria:akwa_ibom:oruk_anam",17246,"kmccarthy",NA,288966
+NA,"uruan","1990-01-01","9999-12-31",9,316826,2,"africa:nigeria:akwa_ibom:uruan",17246,"kmccarthy",NA,288966
+NA,"abi","1990-01-01","9999-12-31",9,316949,2,"africa:nigeria:cross_river:abi",17246,"kmccarthy",NA,289011
+NA,"yakuur","1990-01-01","9999-12-31",9,316947,2,"africa:nigeria:cross_river:yakuur",17246,"kmccarthy",NA,289011
+NA,"obot_akara","1990-01-01","9999-12-31",9,316830,2,"africa:nigeria:akwa_ibom:obot_akara",17246,"kmccarthy",NA,288966
+NA,"obanliku","1990-01-01","9999-12-31",9,316946,2,"africa:nigeria:cross_river:obanliku",17246,"kmccarthy",NA,289011
+NA,"mbo","1990-01-01","9999-12-31",9,316835,2,"africa:nigeria:akwa_ibom:mbo",17246,"kmccarthy",NA,288966
+NA,"nsit_atai","1990-01-01","9999-12-31",9,316813,2,"africa:nigeria:akwa_ibom:nsit_atai",17246,"kmccarthy",NA,288966
+NA,"nsit_ibom","1990-01-01","9999-12-31",9,316839,2,"africa:nigeria:akwa_ibom:nsit_ibom",17246,"kmccarthy",NA,288966
+NA,"odukpani","1990-01-01","9999-12-31",9,316943,2,"africa:nigeria:cross_river:odukpani",17246,"kmccarthy",NA,289011
+NA,"eket","1990-01-01","9999-12-31",9,316842,2,"africa:nigeria:akwa_ibom:eket",17246,"kmccarthy",NA,288966
+NA,"bakassi","1990-01-01","9999-12-31",9,292227,2,"africa:nigeria:cross_river:bakassi",17246,"kmccarthy",NA,289011
+NA,"calabar_south","1990-01-01","9999-12-31",9,316937,2,"africa:nigeria:cross_river:calabar_south",17246,"kmccarthy",NA,289011
+NA,"akamkpa","1990-01-01","9999-12-31",9,316941,2,"africa:nigeria:cross_river:akamkpa",17246,"kmccarthy",NA,289011
+NA,"udung_uko","1990-01-01","9999-12-31",9,316816,2,"africa:nigeria:akwa_ibom:udung_uko",17246,"kmccarthy",NA,288966
+NA,"obubra","1990-01-01","9999-12-31",9,316945,2,"africa:nigeria:cross_river:obubra",17246,"kmccarthy",NA,289011
+NA,"ibesikpo_asutan","1990-01-01","9999-12-31",9,316824,2,"africa:nigeria:akwa_ibom:ibesikpo_asutan",17246,"kmccarthy",NA,288966
+NA,"nsit_ubium","1990-01-01","9999-12-31",9,316840,2,"africa:nigeria:akwa_ibom:nsit_ubium",17246,"kmccarthy",NA,288966
+NA,"esit_eket","1990-01-01","9999-12-31",9,316818,2,"africa:nigeria:akwa_ibom:esit_eket",17246,"kmccarthy",NA,288966
+NA,"essien_udim","1990-01-01","9999-12-31",9,316836,2,"africa:nigeria:akwa_ibom:essien_udim",17246,"kmccarthy",NA,288966
+NA,"ikono","1990-01-01","9999-12-31",9,316829,2,"africa:nigeria:akwa_ibom:ikono",17246,"kmccarthy",NA,288966
+NA,"eastern_obolo","1990-01-01","9999-12-31",9,316814,2,"africa:nigeria:akwa_ibom:eastern_obolo",17246,"kmccarthy",NA,288966
+NA,"urue_offong_oruko","1990-01-01","9999-12-31",9,316812,2,"africa:nigeria:akwa_ibom:urue_offong_oruko",17246,"kmccarthy",NA,288966
+NA,"ikot_abasi","1990-01-01","9999-12-31",9,316833,2,"africa:nigeria:akwa_ibom:ikot_abasi",17246,"kmccarthy",NA,288966
+NA,"ogo_oluwa","1990-01-01","9999-12-31",9,317395,2,"africa:nigeria:osun:ogo_oluwa",17246,"kmccarthy",NA,288991
+NA,"ikpoba_okha","1990-01-01","9999-12-31",9,316995,2,"africa:nigeria:cross_river:ikpoba_okha",17246,"kmccarthy",NA,289004
+NA,"ankpa","1990-01-01","9999-12-31",9,317238,2,"africa:nigeria:benue:ankpa",17246,"kmccarthy",NA,288979
+NA,"ede_south","1990-01-01","9999-12-31",9,317359,2,"africa:nigeria:oyo:ede_south",17246,"kmccarthy",NA,288992
+NA,"ikwuano","1990-01-01","9999-12-31",9,316785,2,"africa:nigeria:abia:ikwuano",17337,"kmccarthy",NA,288964

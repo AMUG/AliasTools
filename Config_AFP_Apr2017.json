@@ -6,13 +6,13 @@
 	"Alias_Table": "select * from demo_get_alias_table_to_level_alt(null, null);"
 },
 "DatabaseName": "IDM DB2",
-"Data_File_Columns": ["Place Admin 0", "Place Admin 1", "Place Admin 2"],
+"Data_File_Columns": ["Place Admin 0", "Place Admin 1"],
 "InputFiles": {
 	"Personal_Alias_Table": ".\\datafiles\\Alias names personal kam new.csv",
-	"Data_Table": "C:\\Users\\kmccarthy\\active_working_dir\\AMUG_GitRepos\\LakeChad_DTKModel\\CaseData\\POLIS_WPV1_raw.csv"
+	"Data_Table": "C:\\Users\\kmccarthy\\active_working_dir\\AMUG_DataRepos\\OPV_PostCessation_Response_NotForUpload\\Africa_allAFP_2010_2017.csv"
 },
 "Output": {
-		"SaveFile": "C:\\Users\\kmccarthy\\active_working_dir\\AMUG_GitRepos\\LakeChad_DTKModel\\CaseData\\POLIS_WPV1_aliased.csv",
+		"SaveFile": "C:\\Users\\kmccarthy\\active_working_dir\\AMUG_DataRepos\\OPV_PostCessation_Response_NotForUpload\\Africa_allAFP_2010_2017_aliased.csv",
 		"Personal_Alias_File": ".\\datafiles\\Alias names personal kam new.csv"
 	}
 }

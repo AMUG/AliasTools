@@ -1,9 +1,9 @@
 LoadLibrariesAndSourceFiles <- function() {
   source('LoadData.R')
-  source('MatchData.R')
+  debugSource('MatchData.R')
   source('SaveOutput.R')
   debugSource('MatchingFunctions.R')
-  source('FormatData.R')
+  debugSource('FormatData.R')
   source('QueryUserForFuzzyMatch.R')
   library(RJSONIO)
   library(sqldf)

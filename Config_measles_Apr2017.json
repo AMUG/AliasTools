@@ -6,13 +6,13 @@
 	"Alias_Table": "select * from demo_get_alias_table_to_level_alt(null, null);"
 },
 "DatabaseName": "IDM DB2",
-"Data_File_Columns": ["Place Admin 0", "Place Admin 1", "Place Admin 2"],
+"Data_File_Columns": ["admin0", "admin1", "admin2"],
 "InputFiles": {
 	"Personal_Alias_Table": ".\\datafiles\\Alias names personal kam new.csv",
-	"Data_Table": "C:\\Users\\kmccarthy\\active_working_dir\\AMUG_GitRepos\\LakeChad_DTKModel\\CaseData\\POLIS_WPV1_raw.csv"
+	"Data_Table": "C:\\Users\\kmccarthy\\active_working_dir\\Measles_risk_mapping_Apr2017\\Case_data\\Rejected_measles_cases.csv"
 },
 "Output": {
-		"SaveFile": "C:\\Users\\kmccarthy\\active_working_dir\\AMUG_GitRepos\\LakeChad_DTKModel\\CaseData\\POLIS_WPV1_aliased.csv",
+		"SaveFile": "C:\\Users\\kmccarthy\\active_working_dir\\Measles_risk_mapping_Apr2017\\Case_data\\Rejected_measles_cases_aliased.csv",
 		"Personal_Alias_File": ".\\datafiles\\Alias names personal kam new.csv"
 	}
 }
